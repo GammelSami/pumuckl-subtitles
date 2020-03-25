@@ -1,0 +1,1791 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--Profile: EBU-TT-D-Basic-DE-->
+<tt:tt xmlns:tt="http://www.w3.org/ns/ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ebuttm="urn:ebu:tt:metadata" ttp:timeBase="media" ttp:cellResolution="50 30" xml:lang="de-DE">
+  <tt:head>
+    <tt:metadata>
+      <ebuttm:documentMetadata>
+        <ebuttm:documentEbuttVersion>v1.0</ebuttm:documentEbuttVersion>
+      </ebuttm:documentMetadata>
+    </tt:metadata>
+    <tt:styling>
+      <tt:style xml:id="defaultStyle" tts:fontFamily="Verdana,Arial,Tiresias" tts:fontSize="160%" tts:lineHeight="125%" />
+      <tt:style xml:id="textBlack" tts:color="#000000" tts:backgroundColor="#000000c2" />
+      <tt:style xml:id="textRed" tts:color="#FF0000" tts:backgroundColor="#000000c2" />
+      <tt:style xml:id="textGreen" tts:color="#00FF00" tts:backgroundColor="#000000c2" />
+      <tt:style xml:id="textYellow" tts:color="#FFFF00" tts:backgroundColor="#000000c2" />
+      <tt:style xml:id="textBlue" tts:color="#0000FF" tts:backgroundColor="#000000c2" />
+      <tt:style xml:id="textMagenta" tts:color="#FF00FF" tts:backgroundColor="#000000c2" />
+      <tt:style xml:id="textCyan" tts:color="#00FFFF" tts:backgroundColor="#000000c2" />
+      <tt:style xml:id="textWhite" tts:color="#FFFFFF" tts:backgroundColor="#000000c2" />
+      <tt:style xml:id="textCenter" tts:textAlign="center" />
+      <tt:style xml:id="textLeft" tts:textAlign="left" />
+      <tt:style xml:id="textRight" tts:textAlign="right" />
+    </tt:styling>
+    <tt:layout>
+      <tt:region xml:id="top" tts:origin="10% 10%" tts:extent="80% 80%" tts:displayAlign="before" />
+      <tt:region xml:id="bottom" tts:origin="10% 10%" tts:extent="80% 80%" tts:displayAlign="after" />
+    </tt:layout>
+  </tt:head>
+  <tt:body>
+    <tt:div style="defaultStyle">
+      <tt:p xml:id="sub0" style="textCenter" region="bottom" begin="10:00:00.000" end="10:00:00.400">
+        <tt:span style="textWhite">.</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub1" style="textCenter" region="bottom" begin="10:00:00.480" end="10:00:01.480">
+        <tt:span style="textWhite">(Titelmusik)</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub2" style="textCenter" region="bottom" begin="10:00:01.560" end="10:00:05.000">
+        <tt:span style="textYellow">Pumuckl neckt, Pumuckl versteckt</tt:span>
+        <tt:br />
+        <tt:span style="textYellow">und niemand was meckt.</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub3" style="textCenter" region="bottom" begin="10:00:05.080" end="10:00:08.160">
+        <tt:span style="textYellow">Oh, das reimt sich ja.</tt:span>
+        <tt:br />
+        <tt:span style="textYellow">Und was sich reimt, ist gut!</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub4" style="textCenter" region="bottom" begin="10:00:08.240" end="10:00:11.320">
+        <tt:span style="textWhite">♪ Hurra, hurra,</tt:span>
+        <tt:br />
+        <tt:span style="textWhite">der Kobold mit dem roten Haar,</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub5" style="textCenter" region="bottom" begin="10:00:11.400" end="10:00:15.400">
+        <tt:span style="textWhite">♪ hurra, hurra, der Pumuckl ist da!</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub6" style="textCenter" region="bottom" begin="10:00:15.480" end="10:00:18.960">
+        <tt:span style="textYellow">♪ Hurra, hurra,</tt:span>
+        <tt:br />
+        <tt:span style="textYellow">der Kobold mit dem roten Haar,</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub7" style="textCenter" region="bottom" begin="10:00:19.040" end="10:00:22.960">
+        <tt:span style="textYellow">♪ hurra, hurra, der Pumuckl ist da!</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub8" style="textCenter" region="bottom" begin="10:00:23.040" end="10:00:27.120">
+        <tt:span style="textWhite">♪ Am liebsten macht er Schabernack,</tt:span>
+        <tt:br />
+        <tt:span style="textWhite">Leute ärgern nicht zu knapp.</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub9" style="textCenter" region="bottom" begin="10:00:27.600" end="10:00:31.600">
+        <tt:span style="textWhite">♪ Schwupp, schon ist die Feile weg.</tt:span>
+        <tt:br />
+        <tt:span style="textWhite">Wer hat die wohl wegversteckt?</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub10" style="textCenter" region="bottom" begin="10:00:31.680" end="10:00:35.160">
+        <tt:span style="textYellow">♪ Hurra, hurra,</tt:span>
+        <tt:br />
+        <tt:span style="textYellow">der Kobold mit dem roten Haar,</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub11" style="textCenter" region="bottom" begin="10:00:35.240" end="10:00:39.360">
+        <tt:span style="textYellow">♪ hurra, hurra, der Pumuckl ist da!</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub12" style="textCenter" region="bottom" begin="10:00:41.640" end="10:00:43.480">
+        <tt:span style="textYellow">Bäh, bäh, bäh, bäh!</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub13" style="textCenter" region="bottom" begin="10:00:43.560" end="10:00:46.240">
+        <tt:span style="textYellow">Bäh, bäh, bäh, bäh, bäh, bäh!</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub14" style="textCenter" region="bottom" begin="10:00:47.320" end="10:00:50.840">
+        <tt:span style="textYellow">Quak, quak, quak, quak,</tt:span>
+        <tt:br />
+        <tt:span style="textYellow">quak, quak, quak, quak!</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub15" style="textCenter" region="bottom" begin="10:00:50.920" end="10:00:54.400">
+        <tt:span style="textYellow">Gack, gack, gack, gack,</tt:span>
+        <tt:br />
+        <tt:span style="textYellow">gack, gack, gack, gack!</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub16" style="textCenter" region="bottom" begin="10:00:55.800" end="10:00:57.800">
+        <tt:span style="textWhite">Untertitelung: BR 2020</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub17" style="textCenter" region="bottom" begin="10:01:05.720" end="10:01:09.720">
+        <tt:span style="textWhite">Das Ganze soll etwa so aussehen</tt:span>
+        <tt:br />
+        <tt:span style="textWhite">wie ein abgeflachter Würfel.</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub18" style="textCenter" region="bottom" begin="10:01:09.800" end="10:01:12.040">
+        <tt:span style="textWhite">So etwas länglich.</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub19" style="textCenter" region="bottom" begin="10:01:12.240" end="10:01:15.240">
+        <tt:span style="textCyan">Ja, das seh ich.</tt:span>
+        <tt:br />
+        <tt:span style="textCyan">Für was brauchen Sie denn das?</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub20" style="textCenter" region="bottom" begin="10:01:15.320" end="10:01:18.160">
+        <tt:span style="textWhite">Das brauch ich</tt:span>
+        <tt:br />
+        <tt:span style="textWhite">für meine kleine Katze.</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub21" style="textCenter" region="bottom" begin="10:01:18.760" end="10:01:22.200">
+        <tt:span style="textWhite">Die muss hier reinschlüpfen können</tt:span>
+        <tt:br />
+        <tt:span style="textWhite">und da wieder raus.</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub22" style="textCenter" region="bottom" begin="10:01:22.280" end="10:01:26.360">
+        <tt:span style="textWhite">Weil der Iago, der Mops,</tt:span>
+        <tt:br />
+        <tt:span style="textWhite">der immer hinter ihr her ist,</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub23" style="textCenter" region="bottom" begin="10:01:26.440" end="10:01:30.840">
+        <tt:span style="textWhite">kann dann, wenn er drin ist,</tt:span>
+        <tt:br />
+        <tt:span style="textWhite">nicht so schnell wieder raus.</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub24" style="textCenter" region="bottom" begin="10:01:31.840" end="10:01:34.920">
+        <tt:span style="textWhite">Und dann ist sie draußen</tt:span>
+        <tt:br />
+        <tt:span style="textWhite">und er ist drin.</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub25" style="textCenter" region="bottom" begin="10:01:35.000" end="10:01:37.560">
+        <tt:span style="textCyan">Aha. Darf ich mal sehen?</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub26" style="textCenter" region="bottom" begin="10:01:37.760" end="10:01:40.520">
+        <tt:span style="textCyan">Wie groß sollen denn</tt:span>
+        <tt:br />
+        <tt:span style="textCyan">die Löcher sein?</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub27" style="textCenter" region="bottom" begin="10:01:40.920" end="10:01:44.200">
+        <tt:span style="textWhite">So. Da können sie beide gut durch.</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub28" style="textCenter" region="bottom" begin="10:01:45.400" end="10:01:49.120">
+        <tt:span style="textWhite">Da können beide durchschlüpfen.</tt:span>
+        <tt:br />
+        <tt:span style="textCyan">- Ungefähr zwölf Zentimeter.</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub29" style="textCenter" region="bottom" begin="10:01:49.200" end="10:01:50.920">
+        <tt:span style="textCyan">Kommen da beide durch?</tt:span>
+        <tt:br />
+        <tt:span style="textWhite">- Ja.</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub30" style="textCenter" region="bottom" begin="10:01:51.000" end="10:01:54.840">
+        <tt:span style="textCyan">Aha. Und die Katze ist schneller</tt:span>
+        <tt:br />
+        <tt:span style="textCyan">und der Mops nicht so schnell?</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub31" style="textCenter" region="bottom" begin="10:01:54.920" end="10:01:56.880">
+        <tt:span style="textWhite">Ja. Die Katze ist schneller.</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub32" style="textCenter" region="bottom" begin="10:01:56.960" end="10:02:00.840">
+        <tt:span style="textCyan">Wir müssen aber unten auch</tt:span>
+        <tt:br />
+        <tt:span style="textCyan">einen Boden hinmachen. </tt:span>
+        <tt:span style="textWhite">- Warum?</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub33" style="textCenter" region="bottom" begin="10:02:00.920" end="10:02:06.320">
+        <tt:span style="textCyan">Sonst wirft es der Mops um und dann</tt:span>
+        <tt:br />
+        <tt:span style="textCyan">braucht er nimmer durch die Löcher.</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub34" style="textCenter" region="bottom" begin="10:02:07.440" end="10:02:09.400">
+        <tt:span style="textWhite">Ach so.</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub35" style="textCenter" region="bottom" begin="10:02:09.480" end="10:02:12.200">
+        <tt:span style="textWhite">Das ist gut.</tt:span>
+        <tt:br />
+        <tt:span style="textWhite">Dann machen wir ganz zu unten.</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub36" style="textCenter" region="bottom" begin="10:02:12.400" end="10:02:15.560">
+        <tt:span style="textWhite">Das ist schön.</tt:span>
+        <tt:br />
+        <tt:span style="textWhite">Wenn Sie es überhaupt machen.</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub37" style="textCenter" region="bottom" begin="10:02:15.640" end="10:02:19.640">
+        <tt:span style="textCyan">Natürlich. Aber Sie müssen sich</tt:span>
+        <tt:br />
+        <tt:span style="textCyan">Zeit lassen. Ich hab viel zu tun.</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub38" style="textCenter" region="bottom" begin="10:02:19.720" end="10:02:22.720">
+        <tt:span style="textCyan">Drei bis vier Wochen,</tt:span>
+        <tt:br />
+        <tt:span style="textCyan">dann können Sie es haben.</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub39" style="textCenter" region="bottom" begin="10:02:22.800" end="10:02:25.240">
+        <tt:span style="textWhite">Drei Wochen. Gut.</tt:span>
+        <tt:br />
+        <tt:span style="textCyan">- In drei Wochen. Gut.</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub40" style="textCenter" region="bottom" begin="10:02:25.320" end="10:02:29.960">
+        <tt:span style="textWhite">Ich komm dann nächste Woche wieder.</tt:span>
+        <tt:br />
+        <tt:span style="textCyan">- Nein. Da ist es noch nicht fertig.</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub41" style="textCenter" region="bottom" begin="10:02:30.040" end="10:02:31.960">
+        <tt:span style="textCyan">Aber in drei Wochen.</tt:span>
+        <tt:br />
+        <tt:span style="textWhite">- Ja.</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub42" style="textCenter" region="bottom" begin="10:02:33.960" end="10:02:37.120">
+        <tt:span style="textWhite">Ich habe fast meine Mütze vergessen.</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub43" style="textCenter" region="bottom" begin="10:02:37.200" end="10:02:40.040">
+        <tt:span style="textCyan">Sie sind nicht der Einzige,</tt:span>
+        <tt:br />
+        <tt:span style="textCyan">der was vergisst.</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub44" style="textCenter" region="bottom" begin="10:02:40.120" end="10:02:42.960">
+        <tt:span style="textWhite">Wiederschauen.</tt:span>
+        <tt:br />
+        <tt:span style="textCyan">- Wiederschauen, Herr Mitterer.</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub45" style="textCenter" region="bottom" begin="10:02:43.040" end="10:02:45.480">
+        <tt:span style="textCyan">Jessas, was den Leuten</tt:span>
+        <tt:br />
+        <tt:span style="textCyan">alles einfällt.</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub46" style="textCenter" region="bottom" begin="10:02:45.560" end="10:02:48.960">
+        <tt:span style="textYellow">Der Schirm ist gegen Nässe,</tt:span>
+        <tt:br />
+        <tt:span style="textYellow">zum Schaukeln ist er besse.</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub47" style="textCenter" region="bottom" begin="10:02:49.040" end="10:02:53.360">
+        <tt:span style="textYellow">Nein. Mit Schirm wird man nicht</tt:span>
+        <tt:br />
+        <tt:span style="textYellow">nässer, zum Schaukeln ist er besser.</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub48" style="textCenter" region="bottom" begin="10:02:53.440" end="10:02:56.400">
+        <tt:span style="textCyan">Das ist sein Schirm,</tt:span>
+        <tt:br />
+        <tt:span style="textCyan">den muss ich ihm nachtragen.</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub49" style="textCenter" region="bottom" begin="10:02:56.480" end="10:03:00.000">
+        <tt:span style="textYellow">Der Mann, der hat kein Hirn,</tt:span>
+        <tt:br />
+        <tt:span style="textYellow">vergisst jetzt seinen Schirm.</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub50" style="textCenter" region="bottom" begin="10:03:00.080" end="10:03:03.560">
+        <tt:span style="textCyan">Er ist weg. Geh, das hättest</tt:span>
+        <tt:br />
+        <tt:span style="textCyan">du doch früher sagen können.</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub51" style="textCenter" region="bottom" begin="10:03:03.640" end="10:03:06.080">
+        <tt:span style="textCyan">Jetzt hab ich wieder was</tt:span>
+        <tt:br />
+        <tt:span style="textCyan">hier rumliegen.</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub52" style="textCenter" region="bottom" begin="10:03:06.160" end="10:03:09.880">
+        <tt:span style="textYellow">Ich und früher sagen? Dann</tt:span>
+        <tt:br />
+        <tt:span style="textYellow">hätt ich gesagt: &quot;He, der Schirm&quot;,</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub53" style="textCenter" region="bottom" begin="10:03:09.960" end="10:03:13.080">
+        <tt:span style="textYellow">und dann wär der Mann</tt:span>
+        <tt:br />
+        <tt:span style="textYellow">tot umgefallen vor Schreck.</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub54" style="textCenter" region="bottom" begin="10:03:13.160" end="10:03:16.640">
+        <tt:span style="textCyan">Du musst nicht laut krähen.</tt:span>
+        <tt:br />
+        <tt:span style="textCyan">Du kannst ein Zeichen geben.</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub55" style="textCenter" region="bottom" begin="10:03:16.720" end="10:03:20.960">
+        <tt:span style="textYellow">Du bist gut. Zwicken hätt ich ihn</tt:span>
+        <tt:br />
+        <tt:span style="textYellow">können, dann hätt er &quot;au&quot; gesagt.</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub56" style="textCenter" region="bottom" begin="10:03:21.040" end="10:03:25.240">
+        <tt:span style="textCyan">Zwicken sollst du ihn nicht.</tt:span>
+        <tt:br />
+        <tt:span style="textCyan">Das tut ihm ja weh.</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub57" style="textCenter" region="bottom" begin="10:03:25.320" end="10:03:28.400">
+        <tt:span style="textCyan">Mir sollst du ein Zeichen geben.</tt:span>
+        <tt:br />
+        <tt:span style="textYellow">- Wie denn?</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub58" style="textCenter" region="bottom" begin="10:03:28.600" end="10:03:31.120">
+        <tt:span style="textYellow">Ich hätt ihn</tt:span>
+        <tt:br />
+        <tt:span style="textYellow">zweimal zwicken können.</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub59" style="textCenter" region="bottom" begin="10:03:31.200" end="10:03:34.400">
+        <tt:span style="textYellow">Da hätt er &quot;au, au&quot; gesagt</tt:span>
+        <tt:br />
+        <tt:span style="textYellow">und du hättest gewusst:</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub60" style="textCenter" region="bottom" begin="10:03:34.600" end="10:03:36.440">
+        <tt:span style="textYellow">Das bedeutet was Wichtiges.</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub61" style="textCenter" region="bottom" begin="10:03:36.520" end="10:03:39.200">
+        <tt:span style="textCyan">Geh, da weiß ich doch nicht,</tt:span>
+        <tt:br />
+        <tt:span style="textCyan">was du meinst.</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub62" style="textCenter" region="bottom" begin="10:03:39.280" end="10:03:43.560">
+        <tt:span style="textCyan">Nein, wir müssen was ausmachen.</tt:span>
+        <tt:br />
+        <tt:span style="textYellow">- Ich könnte piepsen wie eine Maus.</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub63" style="textCenter" region="bottom" begin="10:03:43.640" end="10:03:45.720">
+        <tt:span style="textYellow">Pieps, pieps, pieps.</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub64" style="textCenter" region="bottom" begin="10:03:45.920" end="10:03:48.080">
+        <tt:span style="textYellow">Oder ich mach ein Lama. So:</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub65" style="textCenter" region="bottom" begin="10:03:49.160" end="10:03:51.960">
+        <tt:span style="textCyan">So weit kommt&apos;s noch,</tt:span>
+        <tt:br />
+        <tt:span style="textCyan">dass du hier rumspuckst.</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub66" style="textCenter" region="bottom" begin="10:03:52.040" end="10:03:54.080">
+        <tt:span style="textCyan">Das kommt nicht infrage.</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub67" style="textCenter" region="bottom" begin="10:03:54.280" end="10:03:56.880">
+        <tt:span style="textYellow">Jetzt hab ich eine Ober-Über-Idee.</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub68" style="textCenter" region="bottom" begin="10:03:56.960" end="10:03:58.760">
+        <tt:span style="textYellow">Ich mache ein Huhn.</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub69" style="textCenter" region="bottom" begin="10:03:58.840" end="10:04:01.240">
+        <tt:span style="textYellow">Ich gackere mal.</tt:span>
+        <tt:br />
+        <tt:span style="textWhite">* Er gackert. *</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub70" style="textCenter" region="bottom" begin="10:04:01.880" end="10:04:05.520">
+        <tt:span style="textCyan">Hör auf. Nachher suchen die Leute</tt:span>
+        <tt:br />
+        <tt:span style="textCyan">in meiner Werkstatt Eier.</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub71" style="textCenter" region="bottom" begin="10:04:05.600" end="10:04:08.200">
+        <tt:span style="textCyan">Und ich mach ihnen noch</tt:span>
+        <tt:br />
+        <tt:span style="textCyan">ein Omelette.</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub72" style="textCenter" region="bottom" begin="10:04:08.400" end="10:04:12.240">
+        <tt:span style="textYellow">Ich hol von oben ein Frühstücksei,</tt:span>
+        <tt:br />
+        <tt:span style="textYellow">dann wird das Hamlet größer.</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub73" style="textCenter" region="bottom" begin="10:04:12.320" end="10:04:14.400">
+        <tt:span style="textYellow">Gack, gack, gack, da ist ein Ei.</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub74" style="textCenter" region="bottom" begin="10:04:14.480" end="10:04:16.960">
+        <tt:span style="textYellow">Kikeriki! Und da</tt:span>
+        <tt:br />
+        <tt:span style="textYellow">sind zweifünfzehn Eier.</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub75" style="textCenter" region="bottom" begin="10:04:17.040" end="10:04:20.080">
+        <tt:span style="textCyan">Ich könnt mir nix besseres</tt:span>
+        <tt:br />
+        <tt:span style="textCyan">vorstellen als 15 Eier.</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub76" style="textCenter" region="bottom" begin="10:04:20.160" end="10:04:22.320">
+        <tt:span style="textCyan">Nein, das muss was anderes sein.</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub77" style="textCenter" region="bottom" begin="10:04:22.400" end="10:04:25.040">
+        <tt:span style="textCyan">Ein Geräusch,</tt:span>
+        <tt:br />
+        <tt:span style="textCyan">das den Leuten nicht auffällt</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub78" style="textCenter" region="bottom" begin="10:04:25.120" end="10:04:27.920">
+        <tt:span style="textCyan">und ich weiß sofort,</tt:span>
+        <tt:br />
+        <tt:span style="textCyan">um was es sich handelt.</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub79" style="textCenter" region="bottom" begin="10:04:28.000" end="10:04:30.440">
+        <tt:span style="textYellow">So ein Ober-Geräusch. </tt:span>
+        <tt:span style="textCyan">- Ja.</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub80" style="textCenter" region="bottom" begin="10:04:30.520" end="10:04:33.920">
+        <tt:span style="textYellow">Ich hab&apos;s. Ich kann ja bellen.</tt:span>
+        <tt:br />
+        <tt:span style="textYellow">Das ist ganz natürlich.</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub81" style="textCenter" region="bottom" begin="10:04:34.000" end="10:04:38.240">
+        <tt:span style="textYellow">Wau, wau, wau, wau, wau!</tt:span>
+        <tt:br />
+        <tt:span style="textCyan">- Nein, nicht wie so ein Köter.</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub82" style="textCenter" region="bottom" begin="10:04:38.320" end="10:04:40.760">
+        <tt:span style="textCyan">Einmal &quot;wau&quot;,</tt:span>
+        <tt:br />
+        <tt:span style="textCyan">dann weiß ich Bescheid.</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub83" style="textCenter" region="bottom" begin="10:04:40.840" end="10:04:44.920">
+        <tt:span style="textYellow">Einmal nur? Das ist aber wenig.</tt:span>
+        <tt:br />
+        <tt:span style="textYellow">Ein längeres &quot;Wau&quot; vielleicht.</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub84" style="textCenter" region="bottom" begin="10:04:45.000" end="10:04:47.160">
+        <tt:span style="textYellow">Wauauauauauau!</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub85" style="textCenter" region="bottom" begin="10:04:47.240" end="10:04:49.960">
+        <tt:span style="textCyan">Nein, bitte, mach gar nix.</tt:span>
+        <tt:br />
+        <tt:span style="textCyan">Vergiss es wieder.</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub86" style="textCenter" region="bottom" begin="10:04:50.040" end="10:04:53.400">
+        <tt:span style="textYellow">Nein, du hast mir versprochen,</tt:span>
+        <tt:br />
+        <tt:span style="textYellow">dass ich bellen darf.</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub87" style="textCenter" region="bottom" begin="10:04:53.480" end="10:04:57.120">
+        <tt:span style="textYellow">Jetzt kann ich endlich mitreden,</tt:span>
+        <tt:br />
+        <tt:span style="textYellow">wenn andere Leute da sind.</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub88" style="textCenter" region="bottom" begin="10:04:57.200" end="10:04:58.320">
+        <tt:span style="textCyan">Um Gottes willen.</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub89" style="textCenter" region="bottom" begin="10:04:58.520" end="10:05:01.040">
+        <tt:span style="textCyan">Da hab ich mir</tt:span>
+        <tt:br />
+        <tt:span style="textCyan">was Schönes eingebrockt.</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub90" style="textCenter" region="bottom" begin="10:05:01.120" end="10:05:05.400">
+        <tt:span style="textCyan">Jetzt lass mich in Ruh, ich muss</tt:span>
+        <tt:br />
+        <tt:span style="textCyan">noch zur Kramerin, Wurst einkaufen.</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub91" style="textCenter" region="bottom" begin="10:05:05.480" end="10:05:08.680">
+        <tt:span style="textYellow">Da komm ich sofort mit.</tt:span>
+        <tt:br />
+        <tt:span style="textYellow">Da kann ich ja was machen.</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub92" style="textCenter" region="bottom" begin="10:05:08.760" end="10:05:10.760">
+        <tt:span style="textYellow">Z.B. &quot;wau, wau&quot;.</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub93" style="textCenter" region="bottom" begin="10:05:10.840" end="10:05:13.560">
+        <tt:span style="textCyan">Du bellst aber nur,</tt:span>
+        <tt:br />
+        <tt:span style="textCyan">wenn was Besonderes ist.</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub94" style="textCenter" region="bottom" begin="10:05:13.640" end="10:05:15.880">
+        <tt:span style="textCyan">Nicht, dass du</tt:span>
+        <tt:br />
+        <tt:span style="textCyan">die ganze Zeit bellst.</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub95" style="textCenter" region="bottom" begin="10:05:15.960" end="10:05:18.440">
+        <tt:span style="textYellow">Wenn ein Auto kommt,</tt:span>
+        <tt:br />
+        <tt:span style="textYellow">mach ich &quot;röh, röh&quot;.</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub96" style="textCenter" region="bottom" begin="10:05:18.520" end="10:05:20.440">
+        <tt:span style="textCyan">Da hab ich mir was eingebrockt.</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub97" style="textCenter" region="bottom" begin="10:05:20.520" end="10:05:24.240">
+        <tt:span style="textYellow">Und wenn ich &quot;röööh, röööh&quot; mache,</tt:span>
+        <tt:br />
+        <tt:span style="textYellow">ist es eine Straßenbahn.</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub98" style="textCenter" region="bottom" begin="10:05:24.320" end="10:05:27.480">
+        <tt:span style="textCyan">Hätt ich bloß nix gesagt.</tt:span>
+        <tt:br />
+        <tt:span style="textCyan">Jetzt sei ruhig.</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub99" style="textCenter" region="bottom" begin="10:05:27.560" end="10:05:29.200">
+        <tt:span style="textWhite">* Pumuckl bellt. *</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub100" style="textCenter" region="bottom" begin="10:05:29.400" end="10:05:33.000">
+        <tt:span style="textWhite">Was kriegen Sie, Herr Eder?</tt:span>
+        <tt:br />
+        <tt:span style="textCyan">- Ich hätt gern eine Wurst.</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub101" style="textCenter" region="bottom" begin="10:05:33.080" end="10:05:37.200">
+        <tt:span style="textCyan">Sagen wir, 200 Gramm. Was nehme</tt:span>
+        <tt:br />
+        <tt:span style="textCyan">ich denn? Vielleicht die da.</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub102" style="textCenter" region="bottom" begin="10:05:37.280" end="10:05:41.360">
+        <tt:span style="textCyan">Ein ganzes Stück. Das wird</tt:span>
+        <tt:br />
+        <tt:span style="textCyan">ungefähr das Gewicht haben.</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub103" style="textCenter" region="bottom" begin="10:05:41.440" end="10:05:43.160">
+        <tt:span style="textWhite">Ja, ich schau mal.</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub104" style="textCenter" region="bottom" begin="10:05:43.240" end="10:05:45.400">
+        <tt:span style="textWhite">* Pumuckl jault und bellt. *</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub105" style="textCenter" region="bottom" begin="10:05:45.480" end="10:05:49.160">
+        <tt:span style="textWhite">Was ist denn das? Haben Sie</tt:span>
+        <tt:br />
+        <tt:span style="textWhite">einen Hund mit reingebracht?</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub106" style="textCenter" region="bottom" begin="10:05:49.240" end="10:05:52.280">
+        <tt:span style="textCyan">Nein. Ich hab doch keinen Hund.</tt:span>
+        <tt:br />
+        <tt:span style="textWhite">* Pumuckl bellt. *</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub107" style="textCenter" region="bottom" begin="10:05:52.360" end="10:05:55.200">
+        <tt:span style="textWhite">Es hat doch grad gebellt.</tt:span>
+        <tt:br />
+        <tt:span style="textWhite">* Pumuckl bellt. *</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub108" style="textCenter" region="bottom" begin="10:05:55.280" end="10:05:58.520">
+        <tt:span style="textCyan">Ich glaub, Sie täuschen sich.</tt:span>
+        <tt:br />
+        <tt:span style="textCyan">Das wird draußen sein.</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub109" style="textCenter" region="bottom" begin="10:05:58.600" end="10:06:01.640">
+        <tt:span style="textWhite">Nein, das war drin.</tt:span>
+        <tt:br />
+        <tt:span style="textCyan">- Herrschaftszeiten, gib Ruh!</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub110" style="textCenter" region="bottom" begin="10:06:01.720" end="10:06:04.880">
+        <tt:span style="textWhite">Aber wo denn?</tt:span>
+        <tt:br />
+        <tt:span style="textCyan">- Sehen Sie vielleicht einen Hund?</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub111" style="textCenter" region="bottom" begin="10:06:04.960" end="10:06:08.680">
+        <tt:span style="textCyan">Ach, da, schauen Sie. Da ist mir</tt:span>
+        <tt:br />
+        <tt:span style="textCyan">eine Mark runtergefallen.</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub112" style="textCenter" region="bottom" begin="10:06:08.760" end="10:06:13.000">
+        <tt:span style="textCyan">Das hat so gescheppert. </tt:span>
+        <tt:span style="textWhite">- Das hat</tt:span>
+        <tt:br />
+        <tt:span style="textWhite">nicht gescheppert, das hat gebellt.</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub113" style="textCenter" region="bottom" begin="10:06:13.080" end="10:06:16.680">
+        <tt:span style="textCyan">Oder es ist einem anderen Kunden</tt:span>
+        <tt:br />
+        <tt:span style="textCyan">runtergefallen.</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub114" style="textCenter" region="bottom" begin="10:06:16.760" end="10:06:20.160">
+        <tt:span style="textCyan">Was kostet denn die Wurst?</tt:span>
+        <tt:br />
+        <tt:span style="textWhite">- Warten Sie mal.</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub115" style="textCenter" region="bottom" begin="10:06:20.240" end="10:06:24.080">
+        <tt:span style="textCyan">Da haben Sie die Mark. Ich weiß</tt:span>
+        <tt:br />
+        <tt:span style="textCyan">nicht, ob die von mir ist.</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub116" style="textCenter" region="bottom" begin="10:06:24.160" end="10:06:28.760">
+        <tt:span style="textWhite">Zwei Mark und ein Fünferl.</tt:span>
+        <tt:br />
+        <tt:span style="textCyan">- Das kann ich Ihnen recht machen.</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub117" style="textCenter" region="bottom" begin="10:06:28.840" end="10:06:31.000">
+        <tt:span style="textCyan">Jetzt raus da, aber schnell.</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub118" style="textCenter" region="bottom" begin="10:06:31.080" end="10:06:34.960">
+        <tt:span style="textCyan">Also dann, auf Wiederschauen.</tt:span>
+        <tt:br />
+        <tt:span style="textWhite">- Wiederschauen, Herr Eder.</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub119" style="textCenter" region="bottom" begin="10:06:35.040" end="10:06:37.880">
+        <tt:span style="textWhite">* Pumuckl bellt. *</tt:span>
+        <tt:br />
+        <tt:span style="textWhite">Wieder hat&apos;s gebellt.</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub120" style="textCenter" region="bottom" begin="10:06:38.080" end="10:06:41.040">
+        <tt:span style="textCyan">Draußen. Aber Sie haben es</tt:span>
+        <tt:br />
+        <tt:span style="textCyan">mir nicht geglaubt.</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub121" style="textCenter" region="bottom" begin="10:06:41.120" end="10:06:43.760">
+        <tt:span style="textCyan">Wiederschauen.</tt:span>
+        <tt:br />
+        <tt:span style="textWhite">* Pumuckl bellt laut. *</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub122" style="textCenter" region="bottom" begin="10:06:43.840" end="10:06:46.080">
+        <tt:span style="textWhite">Dass ich mich so verhört hab.</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub123" style="textCenter" region="bottom" begin="10:06:47.920" end="10:06:51.400">
+        <tt:span style="textYellow">Hi hi, ich bin der beste Hund</tt:span>
+        <tt:br />
+        <tt:span style="textYellow">von allen Hünden</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub124" style="textCenter" region="bottom" begin="10:06:51.480" end="10:06:54.320">
+        <tt:span style="textYellow">und habe eine ganze Mark gefünden.</tt:span>
+        <tt:br />
+        <tt:span style="textYellow">Hi hi.</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub125" style="textCenter" region="bottom" begin="10:06:54.400" end="10:06:57.440">
+        <tt:span style="textCyan">Du hast mich ganz schön</tt:span>
+        <tt:br />
+        <tt:span style="textCyan">in Verlegenheit gebracht.</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub126" style="textCenter" region="bottom" begin="10:06:57.520" end="10:07:00.680">
+        <tt:span style="textCyan">Sag mal, war die Mark von mir?</tt:span>
+        <tt:br />
+        <tt:span style="textYellow">- Das weiß ich nicht.</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub127" style="textCenter" region="bottom" begin="10:07:00.760" end="10:07:03.000">
+        <tt:span style="textYellow">Das ist doch auf dem Boden gelegen.</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub128" style="textCenter" region="bottom" begin="10:07:03.120" end="10:07:05.800">
+        <tt:span style="textYellow">Es war richtig,</tt:span>
+        <tt:br />
+        <tt:span style="textYellow">dass ich gebellt habe, oder?</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub129" style="textCenter" region="bottom" begin="10:07:05.880" end="10:07:10.000">
+        <tt:span style="textCyan">Besonders wichtig war es nicht.</tt:span>
+        <tt:br />
+        <tt:span style="textCyan">Aber das kannst du ja nicht wissen.</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub130" style="textCenter" region="bottom" begin="10:07:10.080" end="10:07:14.400">
+        <tt:span style="textYellow">Aber eins weiß ich: Dass Geld viel</tt:span>
+        <tt:br />
+        <tt:span style="textYellow">wichtiger ist als ein Regenschirm.</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub131" style="textCenter" region="bottom" begin="10:07:14.480" end="10:07:18.000">
+        <tt:span style="textYellow">Das war ein großer Weltspaß. Hi hi.</tt:span>
+        <tt:br />
+        <tt:span style="textYellow">Wau, wau, wau!</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub132" style="textCenter" region="bottom" begin="10:07:18.080" end="10:07:22.360">
+        <tt:span style="textYellow">Bellen ist meine beste Erfindung.</tt:span>
+        <tt:br />
+        <tt:span style="textCyan">- Du hast es nicht erfunden.</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub133" style="textCenter" region="bottom" begin="10:07:22.440" end="10:07:24.240">
+        <tt:span style="textCyan">Was ist denn jetzt?</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub134" style="textCenter" region="bottom" begin="10:07:24.440" end="10:07:28.040">
+        <tt:span style="textCyan">Ach so, da kommt der Butler</tt:span>
+        <tt:br />
+        <tt:span style="textCyan">von der Frau Gräfin.</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub135" style="textCenter" region="bottom" begin="10:07:28.120" end="10:07:30.760">
+        <tt:span style="textYellow">Hi hi, mit Ägidius,</tt:span>
+        <tt:br />
+        <tt:span style="textYellow">dem Schlossgespenst.</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub136" style="textCenter" region="bottom" begin="10:07:30.840" end="10:07:34.280">
+        <tt:span style="textCyan">Ja, aber ich tät dir raten,</tt:span>
+        <tt:br />
+        <tt:span style="textCyan">jetzt nicht zu bellen.</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub137" style="textCenter" region="bottom" begin="10:07:34.360" end="10:07:36.960">
+        <tt:span style="textCyan">Der ist nämlich größer wie du.</tt:span>
+        <tt:br />
+        <tt:span style="textCyan">Grüß Gott.</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub138" style="textCenter" region="bottom" begin="10:07:37.040" end="10:07:41.560">
+        <tt:span style="textWhite">Ah, wenn ich nicht irre, Herr Ederer.</tt:span>
+        <tt:br />
+        <tt:span style="textCyan">- Eder.</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub139" style="textCenter" region="bottom" begin="10:07:41.640" end="10:07:44.320">
+        <tt:span style="textCyan">Nein, Sie irren nicht.</tt:span>
+        <tt:br />
+        <tt:span style="textCyan">Ich wusste gar nicht,</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub140" style="textCenter" region="bottom" begin="10:07:44.400" end="10:07:47.680">
+        <tt:span style="textCyan">dass die Frau Gräfin</tt:span>
+        <tt:br />
+        <tt:span style="textCyan">so einen großen Bernhardiner hat.</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub141" style="textCenter" region="bottom" begin="10:07:47.760" end="10:07:50.480">
+        <tt:span style="textWhite">Gräfin liebt Tiere.</tt:span>
+        <tt:br />
+        <tt:span style="textWhite">Was ich sagen wollte:</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub142" style="textCenter" region="bottom" begin="10:07:50.560" end="10:07:53.640">
+        <tt:span style="textWhite">Gräfin war mit Ihrer Arbeit</tt:span>
+        <tt:br />
+        <tt:span style="textWhite">so zufrieden, dass wir</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub143" style="textCenter" region="bottom" begin="10:07:53.720" end="10:07:57.640">
+        <tt:span style="textWhite">wahrscheinlich mit einem neuen</tt:span>
+        <tt:br />
+        <tt:span style="textWhite">Auftrag auf Sie zukommen werden.</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub144" style="textCenter" region="bottom" begin="10:07:57.720" end="10:08:00.400">
+        <tt:span style="textWhite">* Pumuckl bellt. *</tt:span>
+        <tt:br />
+        <tt:span style="textWhite">Waldemar.</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub145" style="textCenter" region="bottom" begin="10:08:00.600" end="10:08:05.200">
+        <tt:span style="textWhite">Beruhige dich. Herr Ederer</tt:span>
+        <tt:br />
+        <tt:span style="textWhite">ist unserem Hause wohlbekannt.</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub146" style="textCenter" region="bottom" begin="10:08:05.280" end="10:08:08.080">
+        <tt:span style="textCyan">Also, jetzt kenn ich mich</tt:span>
+        <tt:br />
+        <tt:span style="textCyan">bald nimmer aus.</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub147" style="textCenter" region="bottom" begin="10:08:08.160" end="10:08:10.680">
+        <tt:span style="textWhite">Was suchen Sie denn, Herr Ederer?</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub148" style="textCenter" region="bottom" begin="10:08:10.760" end="10:08:13.720">
+        <tt:span style="textCyan">Ich schau nur, ob Sie nicht</tt:span>
+        <tt:br />
+        <tt:span style="textCyan">was verloren haben.</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub149" style="textCenter" region="bottom" begin="10:08:13.920" end="10:08:17.640">
+        <tt:span style="textWhite">Wie kommen Sie denn darauf?</tt:span>
+        <tt:br />
+        <tt:span style="textCyan">- Weil er die ganze Zeit bellt.</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub150" style="textCenter" region="bottom" begin="10:08:17.840" end="10:08:23.600">
+        <tt:span style="textWhite">Bellen? Das tut der Waldemar öfter.</tt:span>
+        <tt:br />
+        <tt:span style="textWhite">Aber nie, wenn jemand etwas verliert.</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub151" style="textCenter" region="bottom" begin="10:08:23.680" end="10:08:25.360">
+        <tt:span style="textCyan">Aber ich seh doch nix.</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub152" style="textCenter" region="bottom" begin="10:08:25.440" end="10:08:28.520">
+        <tt:span style="textWhite">Haben Sie Schwierigkeiten</tt:span>
+        <tt:br />
+        <tt:span style="textWhite">mit den Augen?</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub153" style="textCenter" region="bottom" begin="10:08:28.600" end="10:08:30.520">
+        <tt:span style="textCyan">Nein, das nicht.</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub154" style="textCenter" region="bottom" begin="10:08:30.600" end="10:08:33.640">
+        <tt:span style="textCyan">Dann war&apos;s doch nix von Bedeutung.</tt:span>
+        <tt:br />
+        <tt:span style="textYellow">- Doch! Doch!</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub155" style="textCenter" region="bottom" begin="10:08:33.840" end="10:08:38.600">
+        <tt:span style="textCyan">Herrschaftszeiten, gib Ruh.</tt:span>
+        <tt:br />
+        <tt:span style="textWhite">- Aber Bellen ist doch Hundebrauch.</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub156" style="textCenter" region="bottom" begin="10:08:38.680" end="10:08:43.920">
+        <tt:span style="textCyan">Jetzt haben wir es!</tt:span>
+        <tt:br />
+        <tt:span style="textCyan">Sie haben Ihren Handschuh verloren.</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub157" style="textCenter" region="bottom" begin="10:08:44.000" end="10:08:47.600">
+        <tt:span style="textCyan">Den hab ich nicht gesehen,</tt:span>
+        <tt:br />
+        <tt:span style="textCyan">weil Sie draufgestanden sind.</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub158" style="textCenter" region="bottom" begin="10:08:47.680" end="10:08:53.160">
+        <tt:span style="textWhite">In der Tat. Glauben Sie wirklich,</tt:span>
+        <tt:br />
+        <tt:span style="textWhite">dass Waldemar deshalb gebellt hat?</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub159" style="textCenter" region="bottom" begin="10:08:53.240" end="10:08:56.760">
+        <tt:span style="textCyan">Ja. </tt:span>
+        <tt:span style="textWhite">- Waldemar, du bist</tt:span>
+        <tt:br />
+        <tt:span style="textWhite">ja ein gescheiter Hund.</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub160" style="textCenter" region="bottom" begin="10:08:56.840" end="10:09:00.320">
+        <tt:span style="textCyan">Ich muss dann weiter.</tt:span>
+        <tt:br />
+        <tt:span style="textCyan">Also, auf Wiederschauen.</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub161" style="textCenter" region="bottom" begin="10:09:00.400" end="10:09:02.640">
+        <tt:span style="textWhite">Auf Wiedersehen, Herr Ederer.</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub162" style="textCenter" region="bottom" begin="10:09:02.720" end="10:09:05.520">
+        <tt:span style="textCyan">Eder. Grüßen Sie</tt:span>
+        <tt:br />
+        <tt:span style="textCyan">die Gräfin von mir.</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub163" style="textCenter" region="bottom" begin="10:09:05.720" end="10:09:07.480">
+        <tt:span style="textWhite">Ich werde es ihr ausrichten.</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub164" style="textCenter" region="bottom" begin="10:09:07.560" end="10:09:11.320">
+        <tt:span style="textYellow">Ja, ja. Der blöde Bernhardudel</tt:span>
+        <tt:br />
+        <tt:span style="textYellow">wird gelobt und ich nicht.</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub165" style="textCenter" region="bottom" begin="10:09:11.400" end="10:09:14.320">
+        <tt:span style="textCyan">Wo bist du denn?</tt:span>
+        <tt:br />
+        <tt:span style="textYellow">- Ja, ein kluges Tier.</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub166" style="textCenter" region="bottom" begin="10:09:14.400" end="10:09:18.280">
+        <tt:span style="textYellow">Dass ich nicht lache. Gar nichts</tt:span>
+        <tt:br />
+        <tt:span style="textYellow">hat der dumme Hund gemerkt.</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub167" style="textCenter" region="bottom" begin="10:09:18.360" end="10:09:20.040">
+        <tt:span style="textYellow">Und du hättest dem Gratler</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub168" style="textCenter" region="bottom" begin="10:09:20.120" end="10:09:22.920">
+        <tt:span style="textYellow">den Handschuh</tt:span>
+        <tt:br />
+        <tt:span style="textYellow">bis ins Schloss nachgetragen.</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub169" style="textCenter" region="bottom" begin="10:09:23.000" end="10:09:26.040">
+        <tt:span style="textCyan">Jetzt ist gut. Komm in die Tasche.</tt:span>
+        <tt:br />
+        <tt:span style="textCyan">Dann gehen wir.</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub170" style="textCenter" region="bottom" begin="10:09:39.320" end="10:09:41.320">
+        <tt:span style="textWhite">* Pumuckl schimpft. *</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub171" style="textCenter" region="bottom" begin="10:09:43.280" end="10:09:46.800">
+        <tt:span style="textYellow">Überhaupt hab ich jetzt Hunger,</tt:span>
+        <tt:br />
+        <tt:span style="textYellow">das Bellen macht hungrig.</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub172" style="textCenter" region="bottom" begin="10:09:46.880" end="10:09:49.080">
+        <tt:span style="textCyan">Ja, die Wurst hab ich</tt:span>
+        <tt:br />
+        <tt:span style="textCyan">in der Tasche.</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub173" style="textCenter" region="bottom" begin="10:09:49.160" end="10:09:52.040">
+        <tt:span style="textYellow">Ich will aber keine Wurst,</tt:span>
+        <tt:br />
+        <tt:span style="textYellow">ich will Schokolade.</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub174" style="textCenter" region="bottom" begin="10:09:52.120" end="10:09:55.040">
+        <tt:span style="textCyan">Schokolade.</tt:span>
+        <tt:br />
+        <tt:span style="textYellow">- Bellen macht Schokoladen-Hunger.</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub175" style="textCenter" region="bottom" begin="10:09:55.120" end="10:09:57.520">
+        <tt:span style="textCyan">Bellen macht</tt:span>
+        <tt:br />
+        <tt:span style="textCyan">überhaupt keinen Hunger.</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub176" style="textCenter" region="bottom" begin="10:09:57.600" end="10:10:00.640">
+        <tt:span style="textYellow">Du hast keine Ahnung.</tt:span>
+        <tt:br />
+        <tt:span style="textYellow">Das macht sehr wohl Hunger.</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub177" style="textCenter" region="bottom" begin="10:10:00.720" end="10:10:02.720">
+        <tt:span style="textCyan">Erzähl mir keinen Schmarrn.</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub178" style="textCenter" region="bottom" begin="10:10:02.800" end="10:10:05.160">
+        <tt:span style="textYellow">Kobolde haben beim Bellen</tt:span>
+        <tt:br />
+        <tt:span style="textYellow">immer Hunger.</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub179" style="textCenter" region="bottom" begin="10:10:05.240" end="10:10:07.800">
+        <tt:span style="textYellow">Guck mal, da drin gibt&apos;s Schokolade.</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub180" style="textCenter" region="bottom" begin="10:10:08.000" end="10:10:09.840">
+        <tt:span style="textYellow">Hi hi hi hi hi.</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub181" style="textCenter" region="bottom" begin="10:10:09.920" end="10:10:13.280">
+        <tt:span style="textCyan">Pumuckl, wohin gehst du?</tt:span>
+        <tt:br />
+        <tt:span style="textYellow">- Zur Schokolade natürlich.</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub182" style="textCenter" region="bottom" begin="10:10:13.480" end="10:10:16.960">
+        <tt:span style="textCyan">Was willst du denn da?</tt:span>
+        <tt:br />
+        <tt:span style="textYellow">- Ich will sofort eine Schokolade.</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub183" style="textCenter" region="bottom" begin="10:10:17.040" end="10:10:19.000">
+        <tt:span style="textCyan">Du kriegst aber keine.</tt:span>
+        <tt:br />
+        <tt:span style="textYellow">- Doch.</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub184" style="textCenter" region="bottom" begin="10:10:19.080" end="10:10:22.040">
+        <tt:span style="textCyan">Nein, man muss nicht alles haben,</tt:span>
+        <tt:br />
+        <tt:span style="textCyan">was man sieht.</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub185" style="textCenter" region="bottom" begin="10:10:22.120" end="10:10:25.080">
+        <tt:span style="textYellow">Ich krieg jetzt eine Schokolade,</tt:span>
+        <tt:br />
+        <tt:span style="textYellow">sonst bell ich.</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub186" style="textCenter" region="bottom" begin="10:10:25.160" end="10:10:27.600">
+        <tt:span style="textCyan">Bell halt.</tt:span>
+        <tt:br />
+        <tt:span style="textYellow">- Aber fürchterlich bell ich.</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub187" style="textCenter" region="bottom" begin="10:10:27.680" end="10:10:31.760">
+        <tt:span style="textYellow">Wau! Wau! Wau! Wau! Wau! Wau!</tt:span>
+        <tt:br />
+        <tt:span style="textCyan">- Geh, die Leute hören ja schon ...</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub188" style="textCenter" region="bottom" begin="10:10:31.840" end="10:10:34.520">
+        <tt:span style="textYellow">Krieg ich die Schokolade?</tt:span>
+        <tt:br />
+        <tt:span style="textCyan">- Nein.</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub189" style="textCenter" region="bottom" begin="10:10:34.600" end="10:10:38.240">
+        <tt:span style="textYellow">Wau! Wau! Wau! </tt:span>
+        <tt:span style="textCyan">- Hör doch auf.</tt:span>
+        <tt:br />
+        <tt:span style="textCyan">Du machst dich lächerlich.</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub190" style="textCenter" region="bottom" begin="10:10:38.320" end="10:10:40.000">
+        <tt:span style="textCyan">Was soll der Hund denken?</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub191" style="textCenter" region="bottom" begin="10:10:40.080" end="10:10:42.880">
+        <tt:span style="textYellow">Ich belle,</tt:span>
+        <tt:br />
+        <tt:span style="textYellow">bis ich die Schokolade habe.</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub192" style="textCenter" region="bottom" begin="10:10:43.080" end="10:10:45.600">
+        <tt:span style="textCyan">Du kriegst aber keine.</tt:span>
+        <tt:br />
+        <tt:span style="textWhite">* Pumuckl jault. *</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub193" style="textCenter" region="bottom" begin="10:10:45.680" end="10:10:48.280">
+        <tt:span style="textCyan">Jetzt hör auf,</tt:span>
+        <tt:br />
+        <tt:span style="textCyan">die Leute schauen ja schon.</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub194" style="textCenter" region="bottom" begin="10:10:48.360" end="10:10:52.440">
+        <tt:span style="textYellow">Ich will erst die Schokolade haben.</tt:span>
+        <tt:br />
+        <tt:span style="textCyan">- Du kriegst keine. Basta.</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub195" style="textCenter" region="bottom" begin="10:10:52.520" end="10:10:55.320">
+        <tt:span style="textWhite">* Pumuckl jault. *</tt:span>
+        <tt:br />
+        <tt:span style="textCyan">Die Leute schauen schon.</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub196" style="textCenter" region="bottom" begin="10:10:57.160" end="10:10:59.880">
+        <tt:span style="textWhite">(Mann) Was bellt denn da so?</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub197" style="textCenter" region="bottom" begin="10:10:59.960" end="10:11:01.560">
+        <tt:span style="textYellow">Auuuuuu!</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub198" style="textCenter" region="bottom" begin="10:11:01.760" end="10:11:05.120">
+        <tt:span style="textCyan">Vielleicht ist das von da oben.</tt:span>
+        <tt:br />
+        <tt:span style="textYellow">- Auuuuuuuu!</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub199" style="textCenter" region="bottom" begin="10:11:05.320" end="10:11:07.160">
+        <tt:span style="textWhite">Vielleicht von da unten.</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub200" style="textCenter" region="bottom" begin="10:11:07.240" end="10:11:09.720">
+        <tt:span style="textWhite">Sagen Sie mal, was bellt denn da so?</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub201" style="textCenter" region="bottom" begin="10:11:09.800" end="10:11:11.360">
+        <tt:span style="textWhite">* Pumuckl jault. *</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub202" style="textCenter" region="bottom" begin="10:11:12.080" end="10:11:14.480">
+        <tt:span style="textYellow">Mh, hier riecht&apos;s nach Kuchen.</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub203" style="textCenter" region="bottom" begin="10:11:14.560" end="10:11:17.080">
+        <tt:span style="textYellow">Auuuuu! Auuuuu!</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub204" style="textCenter" region="bottom" begin="10:11:18.440" end="10:11:21.520">
+        <tt:span style="textCyan">Vielleicht ist es da oben</tt:span>
+        <tt:br />
+        <tt:span style="textCyan">in der Wohnung.</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub205" style="textCenter" region="bottom" begin="10:11:23.240" end="10:11:27.480">
+        <tt:span style="textWhite">Das kommt aus dem Keller.</tt:span>
+        <tt:br />
+        <tt:span style="textWhite">- Das hab ich auch schon gesagt.</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub206" style="textCenter" region="bottom" begin="10:11:27.680" end="10:11:31.680">
+        <tt:span style="textWhite">O Gott, das arme Hündchen.</tt:span>
+        <tt:br />
+        <tt:span style="textWhite">Das ist ja herzzerreißend.</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub207" style="textCenter" region="bottom" begin="10:11:31.760" end="10:11:34.440">
+        <tt:span style="textWhite">Was ist denn da los?</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub208" style="textCenter" region="bottom" begin="10:11:34.520" end="10:11:37.520">
+        <tt:span style="textWhite">Jetzt hat es aufgehört.</tt:span>
+        <tt:br />
+        <tt:span style="textWhite">Total aufgehört.</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub209" style="textCenter" region="bottom" begin="10:11:38.320" end="10:11:40.320">
+        <tt:span style="textYellow">Auuuuuuuu!</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub210" style="textCenter" region="bottom" begin="10:11:40.400" end="10:11:44.000">
+        <tt:span style="textWhite">Jetzt geht&apos;s wieder los.</tt:span>
+        <tt:br />
+        <tt:span style="textWhite">- Da muss man was unternehmen.</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub211" style="textCenter" region="bottom" begin="10:11:44.080" end="10:11:47.320">
+        <tt:span style="textWhite">Vielleicht ist der Hund</tt:span>
+        <tt:br />
+        <tt:span style="textWhite">durchs Kellerfenster gefallen</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub212" style="textCenter" region="bottom" begin="10:11:47.400" end="10:11:50.480">
+        <tt:span style="textWhite">und kommt nicht mehr rauf.</tt:span>
+        <tt:br />
+        <tt:span style="textYellow">- Schokoooooolaaaaade.</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub213" style="textCenter" region="bottom" begin="10:11:50.560" end="10:11:55.000">
+        <tt:span style="textWhite">Man müsste wissen, wem der gehört.</tt:span>
+        <tt:br />
+        <tt:span style="textWhite">- Das weiß sicher der Hausmeister.</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub214" style="textCenter" region="bottom" begin="10:11:55.080" end="10:11:56.640">
+        <tt:span style="textWhite">Ich hol den Hausmeister.</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub215" style="textCenter" region="bottom" begin="10:11:56.720" end="10:11:59.680">
+        <tt:span style="textCyan">Sie brauchen doch nicht</tt:span>
+        <tt:br />
+        <tt:span style="textCyan">den Hausmeister bemühen.</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub216" style="textCenter" region="bottom" begin="10:11:59.760" end="10:12:02.320">
+        <tt:span style="textCyan">Der Hund bellt vielleicht</tt:span>
+        <tt:br />
+        <tt:span style="textCyan">zum Vergnügen.</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub217" style="textCenter" region="bottom" begin="10:12:02.400" end="10:12:04.840">
+        <tt:span style="textWhite">* Sie reden aufgebracht</tt:span>
+        <tt:br />
+        <tt:span style="textWhite">durcheinander. *</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub218" style="textCenter" region="bottom" begin="10:12:04.920" end="10:12:07.320">
+        <tt:span style="textWhite">Halten Sie mal.</tt:span>
+        <tt:br />
+        <tt:span style="textWhite">Ich hol den Hausmeister.</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub219" style="textCenter" region="bottom" begin="10:12:07.400" end="10:12:10.240">
+        <tt:span style="textCyan">Es wäre besser,</tt:span>
+        <tt:br />
+        <tt:span style="textCyan">wenn Sie sich nicht einmischen.</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub220" style="textCenter" region="bottom" begin="10:12:10.320" end="10:12:13.240">
+        <tt:span style="textWhite">Was sind Sie denn für ein Mensch?</tt:span>
+        <tt:br />
+        <tt:span style="textWhite">- Ja.</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub221" style="textCenter" region="bottom" begin="10:12:13.320" end="10:12:17.200">
+        <tt:span style="textWhite">Haben Sie kein Mitgefühl,</tt:span>
+        <tt:br />
+        <tt:span style="textWhite">dass Sie das mit anhören können?</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub222" style="textCenter" region="bottom" begin="10:12:17.280" end="10:12:20.720">
+        <tt:span style="textCyan">Was heißt da Mitgefühl?</tt:span>
+        <tt:br />
+        <tt:span style="textCyan">Ich kann es ja nicht anhören.</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub223" style="textCenter" region="bottom" begin="10:12:20.800" end="10:12:22.400">
+        <tt:span style="textWhite">Was ist denn da los?</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub224" style="textCenter" region="bottom" begin="10:12:22.480" end="10:12:26.000">
+        <tt:span style="textYellow">Auuuuuuu! Auuuuuuu! Auuuuuu!</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub225" style="textCenter" region="bottom" begin="10:12:28.200" end="10:12:31.280">
+        <tt:span style="textCyan">Das möcht ich auch wissen.</tt:span>
+        <tt:br />
+        <tt:span style="textWhite">- Was ist denn da los?</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub226" style="textCenter" region="bottom" begin="10:12:31.360" end="10:12:34.520">
+        <tt:span style="textWhite">Da unten ist ein Hund.</tt:span>
+        <tt:br />
+        <tt:span style="textWhite">- Ein Hund? Um Gottes willen.</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub227" style="textCenter" region="bottom" begin="10:12:34.600" end="10:12:38.520">
+        <tt:span style="textWhite">Der kann nicht groß sein.</tt:span>
+        <tt:br />
+        <tt:span style="textWhite">- Durch das Loch muss er durch sein.</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub228" style="textCenter" region="bottom" begin="10:12:38.600" end="10:12:41.760">
+        <tt:span style="textWhite">Ein ganz kleiner.</tt:span>
+        <tt:br />
+        <tt:span style="textWhite">- So ein armes Viecherl.</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub229" style="textCenter" region="bottom" begin="10:12:41.840" end="10:12:44.600">
+        <tt:span style="textWhite">Gehört der vielleicht Ihnen?</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub230" style="textCenter" region="bottom" begin="10:12:45.000" end="10:12:47.280">
+        <tt:span style="textCyan">Wieso denn mir?</tt:span>
+        <tt:br />
+        <tt:span style="textCyan">Wie kommen Sie darauf?</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub231" style="textCenter" region="bottom" begin="10:12:47.360" end="10:12:50.720">
+        <tt:span style="textWhite">Der Hausmeister ist nicht da.</tt:span>
+        <tt:br />
+        <tt:span style="textWhite">Was machen wir jetzt?</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub232" style="textCenter" region="bottom" begin="10:12:50.800" end="10:12:52.880">
+        <tt:span style="textWhite">Den müssen wir selber rausholen.</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub233" style="textCenter" region="bottom" begin="10:12:52.960" end="10:12:55.480">
+        <tt:span style="textWhite">Das kann ich nicht länger</tt:span>
+        <tt:br />
+        <tt:span style="textWhite">mit anschauen.</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub234" style="textCenter" region="bottom" begin="10:12:55.560" end="10:12:58.720">
+        <tt:span style="textWhite">Ich hol die Feuerwehr.</tt:span>
+        <tt:br />
+        <tt:span style="textCyan">- Das ist doch überflüssig.</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub235" style="textCenter" region="bottom" begin="10:12:58.800" end="10:13:00.560">
+        <tt:span style="textWhite">Was heißt da überflüssig?</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub236" style="textCenter" region="bottom" begin="10:13:00.640" end="10:13:03.840">
+        <tt:span style="textWhite">Was haben Sie dagegen,</tt:span>
+        <tt:br />
+        <tt:span style="textWhite">dass dem Hund geholfen wird?</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub237" style="textCenter" region="bottom" begin="10:13:03.920" end="10:13:07.560">
+        <tt:span style="textCyan">Ich hab nichts gegen das Helfen.</tt:span>
+        <tt:br />
+        <tt:span style="textCyan">Ich würd ja selber helfen.</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub238" style="textCenter" region="bottom" begin="10:13:07.640" end="10:13:10.040">
+        <tt:span style="textCyan">Man kann nicht</tt:span>
+        <tt:br />
+        <tt:span style="textCyan">die Feuerwehr belästigen.</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub239" style="textCenter" region="bottom" begin="10:13:10.120" end="10:13:14.080">
+        <tt:span style="textCyan">Es gibt genug Leute in dem Haus,</tt:span>
+        <tt:br />
+        <tt:span style="textCyan">die einen Kellerschlüssel haben.</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub240" style="textCenter" region="bottom" begin="10:13:14.160" end="10:13:16.720">
+        <tt:span style="textCyan">Da schau ich jetzt nach.</tt:span>
+        <tt:br />
+        <tt:span style="textWhite">- Ich helf Ihnen.</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub241" style="textCenter" region="bottom" begin="10:13:16.800" end="10:13:19.920">
+        <tt:span style="textCyan">Sie haben mir grad noch gefehlt.</tt:span>
+        <tt:br />
+        <tt:span style="textCyan">Sie bleiben da.</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub242" style="textCenter" region="bottom" begin="10:13:20.000" end="10:13:24.240">
+        <tt:span style="textWhite">Der lässt mich ums Verrecken nicht</tt:span>
+        <tt:br />
+        <tt:span style="textWhite">schauen. - Ein ganz Komischer.</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub243" style="textCenter" region="bottom" begin="10:13:24.320" end="10:13:26.240">
+        <tt:span style="textYellow">Hi hi hi hi hi.</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub244" style="textCenter" region="bottom" begin="10:13:27.560" end="10:13:31.680">
+        <tt:span style="textYellow">Auuuuuuuuuu! Auuuuuuuuuuuuuuuu!</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub245" style="textCenter" region="bottom" begin="10:13:31.880" end="10:13:34.880">
+        <tt:span style="textWhite">Was ist da los?</tt:span>
+        <tt:br />
+        <tt:span style="textWhite">- Ein Hund ist da unten.</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub246" style="textCenter" region="bottom" begin="10:13:36.160" end="10:13:38.160">
+        <tt:span style="textWhite">Nix Hund.</tt:span>
+        <tt:br />
+        <tt:span style="textWhite">- Doch Hund.</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub247" style="textCenter" region="bottom" begin="10:13:38.240" end="10:13:39.680">
+        <tt:span style="textWhite">Nix Hund.</tt:span>
+        <tt:br />
+        <tt:span style="textWhite">- Doch Hund.</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub248" style="textCenter" region="bottom" begin="10:13:39.760" end="10:13:42.080">
+        <tt:span style="textWhite">Geh doch du wieder</tt:span>
+        <tt:br />
+        <tt:span style="textWhite">an deine Baustelle.</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub249" style="textCenter" region="bottom" begin="10:13:43.040" end="10:13:47.160">
+        <tt:span style="textCyan">Entschuldigen Sie, Herr Eberle?</tt:span>
+        <tt:br />
+        <tt:span style="textWhite">- Nein, Schenk.</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub250" style="textCenter" region="bottom" begin="10:13:48.120" end="10:13:50.880">
+        <tt:span style="textCyan">Gehört Ihnen ein Keller in dem Haus?</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub251" style="textCenter" region="bottom" begin="10:13:50.960" end="10:13:53.560">
+        <tt:span style="textWhite">Ja, nein, nein, ja. Keller stimmt.</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub252" style="textCenter" region="bottom" begin="10:13:53.640" end="10:13:55.640">
+        <tt:span style="textCyan">Da jault nämlich ein Hund.</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub253" style="textCenter" region="bottom" begin="10:13:55.720" end="10:13:58.360">
+        <tt:span style="textWhite">Ein Hund in meinem Keller?</tt:span>
+        <tt:br />
+        <tt:span style="textWhite">Stimmt nicht.</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub254" style="textCenter" region="bottom" begin="10:13:58.440" end="10:14:03.040">
+        <tt:span style="textCyan">Das muss nicht in Ihrem Keller sein.</tt:span>
+        <tt:br />
+        <tt:span style="textCyan">Aber der Hausmeister ist nicht da.</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub255" style="textCenter" region="bottom" begin="10:14:03.120" end="10:14:06.000">
+        <tt:span style="textCyan">Da dachte ich, ob Sie mir</tt:span>
+        <tt:br />
+        <tt:span style="textCyan">den Schlüssel geben</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub256" style="textCenter" region="bottom" begin="10:14:06.080" end="10:14:08.320">
+        <tt:span style="textCyan">und mich in den Keller reinlassen?</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub257" style="textCenter" region="bottom" begin="10:14:08.400" end="10:14:12.120">
+        <tt:span style="textWhite">Ich kann Ihnen doch nicht einfach</tt:span>
+        <tt:br />
+        <tt:span style="textWhite">den Kellerschlüssel geben.</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub258" style="textCenter" region="bottom" begin="10:14:12.200" end="10:14:15.480">
+        <tt:span style="textCyan">Ich stehle Ihnen bestimmt nix.</tt:span>
+        <tt:br />
+        <tt:span style="textCyan">Es ist wegen dem Hund.</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub259" style="textCenter" region="bottom" begin="10:14:15.560" end="10:14:18.880">
+        <tt:span style="textWhite">Nein, nein, ja, ja, nein, nein.</tt:span>
+        <tt:br />
+        <tt:span style="textWhite">Ich komm selber mit.</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub260" style="textCenter" region="bottom" begin="10:14:21.680" end="10:14:25.120">
+        <tt:span style="textCyan">Ich weiß natürlich nicht,</tt:span>
+        <tt:br />
+        <tt:span style="textCyan">ob wir den Hund auch finden.</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub261" style="textCenter" region="bottom" begin="10:14:25.200" end="10:14:28.040">
+        <tt:span style="textWhite">Ich nehm an, wenn er</tt:span>
+        <tt:br />
+        <tt:span style="textWhite">in dem Keller gebellt hat,</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub262" style="textCenter" region="bottom" begin="10:14:28.120" end="10:14:31.840">
+        <tt:span style="textWhite">finden wir ihn auch nicht, äh, doch.</tt:span>
+        <tt:br />
+        <tt:span style="textCyan">- Das befürcht ich auch.</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub263" style="textCenter" region="bottom" begin="10:14:36.920" end="10:14:40.240">
+        <tt:span style="textWhite">Ich hör aber nix bellen.</tt:span>
+        <tt:br />
+        <tt:span style="textCyan">- Ich hör auch nix.</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub264" style="textCenter" region="bottom" begin="10:14:40.320" end="10:14:43.800">
+        <tt:span style="textCyan">Dann hat er vorübergehend aufgehört.</tt:span>
+        <tt:br />
+        <tt:span style="textCyan">Das macht er gern.</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub265" style="textCenter" region="bottom" begin="10:14:43.880" end="10:14:47.440">
+        <tt:span style="textCyan">Da geht ihm die Puste aus.</tt:span>
+        <tt:br />
+        <tt:span style="textWhite">- Etwas seltsam, das Ganze.</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub266" style="textCenter" region="bottom" begin="10:14:47.520" end="10:14:50.440">
+        <tt:span style="textCyan">Ja, das ist sehr seltsam.</tt:span>
+        <tt:br />
+        <tt:span style="textCyan">Sehr seltsam.</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub267" style="textCenter" region="bottom" begin="10:14:54.080" end="10:14:57.280">
+        <tt:span style="textWhite">Wo ist denn Ihr Hund?</tt:span>
+        <tt:br />
+        <tt:span style="textWhite">Ich hör immer noch nix bellen.</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub268" style="textCenter" region="bottom" begin="10:14:57.360" end="10:14:59.680">
+        <tt:span style="textCyan">Ich weiß es auch nicht. Hallo!</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub269" style="textCenter" region="bottom" begin="10:15:01.960" end="10:15:05.040">
+        <tt:span style="textCyan">Jetzt hat er meine Stimme gehört</tt:span>
+        <tt:br />
+        <tt:span style="textCyan">und hat aufgehört.</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub270" style="textCenter" region="bottom" begin="10:15:05.120" end="10:15:07.280">
+        <tt:span style="textCyan">Ist das Ihr Keller?</tt:span>
+        <tt:br />
+        <tt:span style="textWhite">- Stimmt.</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub271" style="textCenter" region="bottom" begin="10:15:07.360" end="10:15:10.200">
+        <tt:span style="textCyan">Ist darüber die Bäckerei?</tt:span>
+        <tt:br />
+        <tt:span style="textWhite">- Nein, stimmt auch.</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub272" style="textCenter" region="bottom" begin="10:15:10.280" end="10:15:13.320">
+        <tt:span style="textCyan">Sperren Sie bitte mal auf.</tt:span>
+        <tt:br />
+        <tt:span style="textWhite">- Ich sperr mal auf.</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub273" style="textCenter" region="bottom" begin="10:15:14.120" end="10:15:16.280">
+        <tt:span style="textWhite">Ich glaub, die ist zu.</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub274" style="textCenter" region="bottom" begin="10:15:16.360" end="10:15:18.280">
+        <tt:span style="textWhite">Tatsächlich zu.</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub275" style="textCenter" region="bottom" begin="10:15:18.360" end="10:15:20.600">
+        <tt:span style="textWhite">Aber ich hab es Ihnen gesagt.</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub276" style="textCenter" region="bottom" begin="10:15:20.680" end="10:15:23.680">
+        <tt:span style="textWhite">Mir kommt das Ganze</tt:span>
+        <tt:br />
+        <tt:span style="textWhite">sehr merkwürdig vor.</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub277" style="textCenter" region="bottom" begin="10:15:23.760" end="10:15:27.600">
+        <tt:span style="textWhite">Was ... was wollen Sie hier wirklich?</tt:span>
+        <tt:br />
+        <tt:span style="textCyan">- Den Hund rausholen.</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub278" style="textCenter" region="bottom" begin="10:15:27.680" end="10:15:31.000">
+        <tt:span style="textWhite">Hier ist doch kein Hund.</tt:span>
+        <tt:br />
+        <tt:span style="textWhite">Oder sehen Sie hier einen?</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub279" style="textCenter" region="bottom" begin="10:15:31.080" end="10:15:34.760">
+        <tt:span style="textCyan">Ich seh ihn auch nicht.</tt:span>
+        <tt:br />
+        <tt:span style="textCyan">Aber das ist, weil Sie dabei sind.</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub280" style="textCenter" region="bottom" begin="10:15:34.840" end="10:15:38.640">
+        <tt:span style="textCyan">Allein tät ich ihn sehen.</tt:span>
+        <tt:br />
+        <tt:span style="textWhite">- Verkaufen Sie mich nicht für dumm.</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub281" style="textCenter" region="bottom" begin="10:15:38.720" end="10:15:42.400">
+        <tt:span style="textWhite">Alles, was Sie da reden,</tt:span>
+        <tt:br />
+        <tt:span style="textWhite">hört sich für mich sehr komisch an.</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub282" style="textCenter" region="bottom" begin="10:15:42.480" end="10:15:45.360">
+        <tt:span style="textWhite">Sie kommen her,</tt:span>
+        <tt:br />
+        <tt:span style="textWhite">verlangen einen Kellerschlüssel,</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub283" style="textCenter" region="bottom" begin="10:15:45.440" end="10:15:49.320">
+        <tt:span style="textWhite">wollen auch noch allein im Keller</tt:span>
+        <tt:br />
+        <tt:span style="textWhite">sein, sagen, hier wär ein Hund</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub284" style="textCenter" region="bottom" begin="10:15:49.400" end="10:15:51.440">
+        <tt:span style="textWhite">und hier ist überhaupt keiner.</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub285" style="textCenter" region="bottom" begin="10:15:51.520" end="10:15:54.360">
+        <tt:span style="textCyan">Das glaub ich, dass Ihnen</tt:span>
+        <tt:br />
+        <tt:span style="textCyan">das seltsam vorkommt.</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub286" style="textCenter" region="bottom" begin="10:15:54.440" end="10:15:57.040">
+        <tt:span style="textCyan">Aber wenn ich sage,</tt:span>
+        <tt:br />
+        <tt:span style="textCyan">ich suche einen Kobold,</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub287" style="textCenter" region="bottom" begin="10:15:57.120" end="10:15:59.360">
+        <tt:span style="textCyan">dann glauben Sie es</tt:span>
+        <tt:br />
+        <tt:span style="textCyan">auch nicht, oder?</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub288" style="textCenter" region="bottom" begin="10:15:59.440" end="10:16:03.120">
+        <tt:span style="textWhite">Reden Sie keinen Unsinn.</tt:span>
+        <tt:br />
+        <tt:span style="textCyan">- Das können Sie nicht verstehen.</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub289" style="textCenter" region="bottom" begin="10:16:03.200" end="10:16:06.000">
+        <tt:span style="textCyan">Seien Sie einen</tt:span>
+        <tt:br />
+        <tt:span style="textCyan">kleinen Moment still. Pumuckl!</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub290" style="textCenter" region="bottom" begin="10:16:06.080" end="10:16:09.800">
+        <tt:span style="textCyan">Wenn du hier bist,</tt:span>
+        <tt:br />
+        <tt:span style="textCyan">kommst du sofort raus, aber sofort!</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub291" style="textCenter" region="bottom" begin="10:16:09.880" end="10:16:12.360">
+        <tt:span style="textCyan">Verstanden?</tt:span>
+        <tt:br />
+        <tt:span style="textWhite">- Bleiben Sie stehen.</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub292" style="textCenter" region="bottom" begin="10:16:12.440" end="10:16:16.000">
+        <tt:span style="textWhite">Sobald Sie sich bewegen,</tt:span>
+        <tt:br />
+        <tt:span style="textWhite">schlag ich zu.</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub293" style="textCenter" region="bottom" begin="10:16:16.080" end="10:16:19.480">
+        <tt:span style="textCyan">Ich rühr mich ja nicht.</tt:span>
+        <tt:br />
+        <tt:span style="textWhite">- Bleiben Sie stehen.</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub294" style="textCenter" region="bottom" begin="10:16:19.560" end="10:16:24.960">
+        <tt:span style="textWhite">Ich ruf jetzt die Polizei. Der können</tt:span>
+        <tt:br />
+        <tt:span style="textWhite">Sie die Geschichte dann erzählen.</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub295" style="textCenter" region="bottom" begin="10:16:25.040" end="10:16:27.440">
+        <tt:span style="textWhite">Ich sperr jetzt zu.</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub296" style="textCenter" region="bottom" begin="10:16:27.520" end="10:16:30.040">
+        <tt:span style="textCyan">Das können Sie doch nicht machen.</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub297" style="textCenter" region="bottom" begin="10:16:30.120" end="10:16:32.720">
+        <tt:span style="textWhite">Doch. Hab ich schon.</tt:span>
+        <tt:br />
+        <tt:span style="textCyan">- Bitte nicht.</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub298" style="textCenter" region="bottom" begin="10:16:32.800" end="10:16:35.760">
+        <tt:span style="textCyan">Das ist eine schöne Bescherung.</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub299" style="textCenter" region="bottom" begin="10:16:35.840" end="10:16:38.240">
+        <tt:span style="textCyan">Was mach ich denn jetzt?</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub300" style="textCenter" region="bottom" begin="10:16:39.360" end="10:16:41.760">
+        <tt:span style="textCyan">Pumuckl! Pumuckl!</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub301" style="textCenter" region="bottom" begin="10:16:42.360" end="10:16:44.720">
+        <tt:span style="textYellow">Ja, ja, ich bin ja da.</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub302" style="textCenter" region="bottom" begin="10:16:44.800" end="10:16:46.640">
+        <tt:span style="textCyan">Da bist du ja. Aha. Und?</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub303" style="textCenter" region="bottom" begin="10:16:46.720" end="10:16:51.080">
+        <tt:span style="textYellow">Das war doch bloß ein Spaß,</tt:span>
+        <tt:br />
+        <tt:span style="textYellow">weil die Leute alle gedacht haben,</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub304" style="textCenter" region="bottom" begin="10:16:51.160" end="10:16:54.720">
+        <tt:span style="textYellow">ich bin ein armer Hundemann.</tt:span>
+        <tt:br />
+        <tt:span style="textYellow">So Mitleid haben sie gehabt.</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub305" style="textCenter" region="bottom" begin="10:16:54.920" end="10:16:57.600">
+        <tt:span style="textYellow">Hi hi hi.</tt:span>
+        <tt:br />
+        <tt:span style="textCyan">- Hi hi hi. Bloß ein Spaß.</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub306" style="textCenter" region="bottom" begin="10:16:57.680" end="10:17:01.680">
+        <tt:span style="textCyan">Und ich bin jetzt hier eingesperrt.</tt:span>
+        <tt:br />
+        <tt:span style="textCyan">Was sag ich denn der Polizei?</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub307" style="textCenter" region="bottom" begin="10:17:01.760" end="10:17:04.200">
+        <tt:span style="textYellow">Kannst du hier wirklich</tt:span>
+        <tt:br />
+        <tt:span style="textYellow">nicht mehr raus?</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub308" style="textCenter" region="bottom" begin="10:17:04.280" end="10:17:08.240">
+        <tt:span style="textCyan">Wo denn? Durch die Latten da?</tt:span>
+        <tt:br />
+        <tt:span style="textCyan">Der hat doch die Tür zugesperrt.</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub309" style="textCenter" region="bottom" begin="10:17:08.320" end="10:17:11.360">
+        <tt:span style="textYellow">Aber ich kann hier raus.</tt:span>
+        <tt:br />
+        <tt:span style="textCyan">- Das nützt doch mir nix.</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub310" style="textCenter" region="bottom" begin="10:17:11.440" end="10:17:13.440">
+        <tt:span style="textYellow">Doch, das nützt.</tt:span>
+        <tt:br />
+        <tt:span style="textCyan">- Pumuckl.</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub311" style="textCenter" region="bottom" begin="10:17:16.000" end="10:17:17.960">
+        <tt:span style="textWhite">Mal sagt er, es wäre ein Hund</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub312" style="textCenter" region="bottom" begin="10:17:18.040" end="10:17:21.240">
+        <tt:span style="textWhite">und dann sagt er wieder,</tt:span>
+        <tt:br />
+        <tt:span style="textWhite">es wäre ein Kobold.</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub313" style="textCenter" region="bottom" begin="10:17:21.440" end="10:17:23.960">
+        <tt:span style="textWhite">Das stimmt.</tt:span>
+        <tt:br />
+        <tt:span style="textWhite">- (alte Frau) Ach was.</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub314" style="textCenter" region="bottom" begin="10:17:24.800" end="10:17:27.160">
+        <tt:span style="textWhite">So was hab ich auch</tt:span>
+        <tt:br />
+        <tt:span style="textWhite">noch nicht gesehen.</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub315" style="textCenter" region="bottom" begin="10:17:27.240" end="10:17:31.280">
+        <tt:span style="textWhite">Ich schwöre Ihnen, da ist kein Hund.</tt:span>
+        <tt:br />
+        <tt:span style="textWhite">- Schmeckt Ihnen mein Kuchen?</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub316" style="textCenter" region="bottom" begin="10:17:33.560" end="10:17:36.320">
+        <tt:span style="textYellow">Schlipp, schlapp, schlupp,</tt:span>
+        <tt:br />
+        <tt:span style="textYellow">da bin ich wieder.</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub317" style="textCenter" region="bottom" begin="10:17:36.400" end="10:17:39.440">
+        <tt:span style="textCyan">Wo hast du den Schlüssel her?</tt:span>
+        <tt:br />
+        <tt:span style="textYellow">- Aus seiner Tasche.</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub318" style="textCenter" region="bottom" begin="10:17:39.520" end="10:17:42.720">
+        <tt:span style="textCyan">Ich kann doch nicht wie ein Geist</tt:span>
+        <tt:br />
+        <tt:span style="textCyan">oben rausgehen.</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub319" style="textCenter" region="bottom" begin="10:17:42.920" end="10:17:44.640">
+        <tt:span style="textCyan">Was sagen da die Leute?</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub320" style="textCenter" region="bottom" begin="10:17:44.720" end="10:17:47.600">
+        <tt:span style="textYellow">Du kannst sagen,</tt:span>
+        <tt:br />
+        <tt:span style="textYellow">dass du hokus, pokus, fidibus</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub321" style="textCenter" region="bottom" begin="10:17:47.680" end="10:17:50.200">
+        <tt:span style="textYellow">wieder rausgekommen bist.</tt:span>
+        <tt:br />
+        <tt:span style="textCyan">- Und der Hund?</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub322" style="textCenter" region="bottom" begin="10:17:50.280" end="10:17:53.760">
+        <tt:span style="textCyan">Den ich gesucht hab und den</tt:span>
+        <tt:br />
+        <tt:span style="textCyan">die Leute haben jaulen hören?</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub323" style="textCenter" region="bottom" begin="10:17:53.840" end="10:17:55.440">
+        <tt:span style="textCyan">Der ist nicht da.</tt:span>
+        <tt:br />
+        <tt:span style="textYellow">- Ach so.</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub324" style="textCenter" region="bottom" begin="10:17:55.640" end="10:17:58.000">
+        <tt:span style="textYellow">Hi hi. Doch, der Hund ist schon da.</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub325" style="textCenter" region="bottom" begin="10:17:58.080" end="10:18:00.600">
+        <tt:span style="textYellow">Den trägst du auf dem Arm hinaus.</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub326" style="textCenter" region="bottom" begin="10:18:01.240" end="10:18:05.280">
+        <tt:span style="textCyan">Wenn ich dich auf dem Arm trag,</tt:span>
+        <tt:br />
+        <tt:span style="textCyan">bist du doch nicht sichtbar.</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub327" style="textCenter" region="bottom" begin="10:18:05.360" end="10:18:06.560">
+        <tt:span style="textYellow">Ich? Unsinn.</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub328" style="textCenter" region="bottom" begin="10:18:06.760" end="10:18:10.680">
+        <tt:span style="textYellow">Mich trägst du doch nicht raus,</tt:span>
+        <tt:br />
+        <tt:span style="textYellow">sondern einen echten Hund.</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub329" style="textCenter" region="bottom" begin="10:18:10.760" end="10:18:13.840">
+        <tt:span style="textCyan">Einen echten Hund.</tt:span>
+        <tt:br />
+        <tt:span style="textYellow">- Ich bring dir einen.</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub330" style="textCenter" region="bottom" begin="10:18:13.920" end="10:18:17.600">
+        <tt:span style="textYellow">Gleich bin ich wieder da.</tt:span>
+        <tt:br />
+        <tt:span style="textYellow">Halt, gib mir bitte die Wurst.</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub331" style="textCenter" region="bottom" begin="10:18:17.800" end="10:18:20.720">
+        <tt:span style="textCyan">Die Wurst? Jetzt ist doch</tt:span>
+        <tt:br />
+        <tt:span style="textCyan">nicht Zeit zum Essen.</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub332" style="textCenter" region="bottom" begin="10:18:20.800" end="10:18:23.320">
+        <tt:span style="textYellow">Will ich auch nicht. Gib mal her.</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub333" style="textCenter" region="bottom" begin="10:18:23.760" end="10:18:27.720">
+        <tt:span style="textYellow">Damit verlock ich doch den Hund.</tt:span>
+        <tt:br />
+        <tt:span style="textYellow">Mit der Wurst, ja.</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub334" style="textCenter" region="bottom" begin="10:18:27.800" end="10:18:30.840">
+        <tt:span style="textYellow">Jetzt musst du nur noch</tt:span>
+        <tt:br />
+        <tt:span style="textYellow">die Tür aufmachen oben,</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub335" style="textCenter" region="bottom" begin="10:18:30.920" end="10:18:34.280">
+        <tt:span style="textYellow">damit ich mit dem Hund</tt:span>
+        <tt:br />
+        <tt:span style="textYellow">reinkommen kann.</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub336" style="textCenter" region="bottom" begin="10:18:34.440" end="10:18:38.200">
+        <tt:span style="textWhite">(alte Frau) Ich hab auch</tt:span>
+        <tt:br />
+        <tt:span style="textWhite">einen Hund, einen Dackel.</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub337" style="textCenter" region="bottom" begin="10:18:38.880" end="10:18:40.840">
+        <tt:span style="textYellow">Komm, komm mit.</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub338" style="textCenter" region="bottom" begin="10:18:40.920" end="10:18:44.160">
+        <tt:span style="textYellow">Ach so, wir müssen erst</tt:span>
+        <tt:br />
+        <tt:span style="textYellow">die Leine abmachen.</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub339" style="textCenter" region="bottom" begin="10:18:44.240" end="10:18:47.040">
+        <tt:span style="textYellow">Komm. Nicht da rüber.</tt:span>
+        <tt:br />
+        <tt:span style="textYellow">Hier rein sollst du.</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub340" style="textCenter" region="bottom" begin="10:18:47.120" end="10:18:49.880">
+        <tt:span style="textYellow">Ah! Du Ferkel. Pfui Teufel noch mal.</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub341" style="textCenter" region="bottom" begin="10:18:49.960" end="10:18:52.000">
+        <tt:span style="textYellow">Jetzt komm endlich.</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub342" style="textCenter" region="bottom" begin="10:18:52.440" end="10:18:55.960">
+        <tt:span style="textYellow">Da ist der Hund.</tt:span>
+        <tt:br />
+        <tt:span style="textYellow">Das hab ich fein gemacht, was?</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub343" style="textCenter" region="bottom" begin="10:18:56.040" end="10:18:57.640">
+        <tt:span style="textCyan">Ausgezeichnet.</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub344" style="textCenter" region="bottom" begin="10:19:02.480" end="10:19:05.080">
+        <tt:span style="textWhite">Da kommt ja der Herr mit dem Hund.</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub345" style="textCenter" region="bottom" begin="10:19:05.160" end="10:19:07.160">
+        <tt:span style="textWhite">Der war doch grad da drin.</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub346" style="textCenter" region="bottom" begin="10:19:08.680" end="10:19:12.160">
+        <tt:span style="textWhite">Wie, wo, was? Ich hab den doch</tt:span>
+        <tt:br />
+        <tt:span style="textWhite">in den Keller eingesperrt.</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub347" style="textCenter" region="bottom" begin="10:19:12.240" end="10:19:15.680">
+        <tt:span style="textWhite">Bin ich jetzt verrückt oder der?</tt:span>
+        <tt:br />
+        <tt:span style="textCyan">- Ich bin ganz normal.</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub348" style="textCenter" region="bottom" begin="10:19:15.760" end="10:19:18.480">
+        <tt:span style="textCyan">Wenn Sie glauben,</tt:span>
+        <tt:br />
+        <tt:span style="textCyan">Sie können mich einsperren,</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub349" style="textCenter" region="bottom" begin="10:19:18.560" end="10:19:20.440">
+        <tt:span style="textCyan">müssen Sie früher aufstehen.</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub350" style="textCenter" region="bottom" begin="10:19:20.520" end="10:19:23.600">
+        <tt:span style="textWhite">Das ist ja mein Hund.</tt:span>
+        <tt:br />
+        <tt:span style="textWhite">Den hab ich grad noch gehabt.</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub351" style="textCenter" region="bottom" begin="10:19:23.680" end="10:19:27.080">
+        <tt:span style="textCyan">Aha. Und mich verdächtigen?</tt:span>
+        <tt:br />
+        <tt:span style="textWhite">- Das ist ein dicker Hund.</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub352" style="textCenter" region="bottom" begin="10:19:27.160" end="10:19:29.360">
+        <tt:span style="textCyan">Das schlägt dem Fass den Boden aus.</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub353" style="textCenter" region="bottom" begin="10:19:29.440" end="10:19:32.960">
+        <tt:span style="textCyan">Das sag ich Ihnen: Wenn Sie sich</tt:span>
+        <tt:br />
+        <tt:span style="textCyan">wieder mal so aufführen</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub354" style="textCenter" region="bottom" begin="10:19:33.040" end="10:19:36.880">
+        <tt:span style="textCyan">und andere Leute verdächtigen,</tt:span>
+        <tt:br />
+        <tt:span style="textCyan">geh ich mit Ihnen zur Polizei.</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub355" style="textCenter" region="bottom" begin="10:19:36.960" end="10:19:41.000">
+        <tt:span style="textCyan">Merken Sie sich das. Auf</tt:span>
+        <tt:br />
+        <tt:span style="textCyan">Wiederschauen, die Herren Detektive.</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub356" style="textCenter" region="bottom" begin="10:19:43.480" end="10:19:45.080">
+        <tt:span style="textCyan">Jetzt geh rein.</tt:span>
+        <tt:br />
+        <tt:span style="textYellow">- Wau!</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub357" style="textCenter" region="bottom" begin="10:19:45.160" end="10:19:47.000">
+        <tt:span style="textCyan">Hör sofort auf. </tt:span>
+        <tt:span style="textYellow">- Nein.</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub358" style="textCenter" region="bottom" begin="10:19:47.200" end="10:19:49.480">
+        <tt:span style="textCyan">Lieber Pumuckl.</tt:span>
+        <tt:br />
+        <tt:span style="textYellow">- Lieber Meister Eder.</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub359" style="textCenter" region="bottom" begin="10:19:49.560" end="10:19:51.840">
+        <tt:span style="textWhite">(beide) Ich muss dir jetzt was sagen.</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub360" style="textCenter" region="bottom" begin="10:19:51.920" end="10:19:56.280">
+        <tt:span style="textCyan">Ich musste wegen deiner Bellerei</tt:span>
+        <tt:br />
+        <tt:span style="textCyan">in den Keller und wurde eingesperrt.</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub361" style="textCenter" region="bottom" begin="10:19:56.360" end="10:20:00.240">
+        <tt:span style="textYellow">Und ich hab dich wieder ausgesperrt.</tt:span>
+        <tt:br />
+        <tt:span style="textCyan">- Gott sei Dank, nicht?</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub362" style="textCenter" region="bottom" begin="10:20:00.320" end="10:20:04.160">
+        <tt:span style="textCyan">Das lässt du in Zukunft bleiben.</tt:span>
+        <tt:br />
+        <tt:span style="textCyan">Das will ich nicht haben.</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub363" style="textCenter" region="bottom" begin="10:20:04.240" end="10:20:07.200">
+        <tt:span style="textCyan">Du kannst mit mir reden,</tt:span>
+        <tt:br />
+        <tt:span style="textCyan">wenn wir allein sind.</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub364" style="textCenter" region="bottom" begin="10:20:07.280" end="10:20:11.760">
+        <tt:span style="textYellow">Dann musst du eben allen Kunden alle</tt:span>
+        <tt:br />
+        <tt:span style="textYellow">Schirme nachtragen, wie den da. Wau!</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub365" style="textCenter" region="bottom" begin="10:20:11.840" end="10:20:15.240">
+        <tt:span style="textCyan">Da hängt ja der Schirm noch.</tt:span>
+        <tt:br />
+        <tt:span style="textCyan">Ich möcht erst was essen.</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub366" style="textCenter" region="bottom" begin="10:20:15.320" end="10:20:19.520">
+        <tt:span style="textYellow">Ich hab auch einen Riesen-Schoko...</tt:span>
+        <tt:br />
+        <tt:span style="textYellow">äh, einen Wursthunger hab ich.</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub367" style="textCenter" region="bottom" begin="10:20:19.600" end="10:20:22.400">
+        <tt:span style="textCyan">Wir haben ja keine Wurst mehr.</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub368" style="textCenter" region="bottom" begin="10:20:22.480" end="10:20:26.120">
+        <tt:span style="textYellow">Oh. Holzwurm und Kartoffelkäfer,</tt:span>
+        <tt:br />
+        <tt:span style="textYellow">was machen wir denn da?</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub369" style="textCenter" region="bottom" begin="10:20:26.200" end="10:20:29.440">
+        <tt:span style="textYellow">Die Wurst hätten wir mitnehmen</tt:span>
+        <tt:br />
+        <tt:span style="textYellow">können. </tt:span>
+        <tt:span style="textCyan">- Pfui Teufel.</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub370" style="textCenter" region="bottom" begin="10:20:29.520" end="10:20:33.240">
+        <tt:span style="textYellow">Wenn wir sie abgewaschen hätten,</tt:span>
+        <tt:br />
+        <tt:span style="textYellow">hätte man nichts geschmeckt.</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub371" style="textCenter" region="bottom" begin="10:20:33.320" end="10:20:34.880">
+        <tt:span style="textCyan">Nein. Ich kauf eine neue.</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub372" style="textCenter" region="bottom" begin="10:20:34.960" end="10:20:38.280">
+        <tt:span style="textCyan">Ich nehm den Schirm mit</tt:span>
+        <tt:br />
+        <tt:span style="textCyan">und du bleibst daheim. </tt:span>
+        <tt:span style="textYellow">- Wau!</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub373" style="textCenter" region="bottom" begin="10:20:38.360" end="10:20:41.960">
+        <tt:span style="textCyan">Du hörst auf! </tt:span>
+        <tt:span style="textYellow">- Enkuldischung.</tt:span>
+        <tt:br />
+        <tt:span style="textYellow">Ich soll nicht mehr bellen.</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub374" style="textCenter" region="bottom" begin="10:20:42.040" end="10:20:45.720">
+        <tt:span style="textCyan">Ich will nicht noch mal</tt:span>
+        <tt:br />
+        <tt:span style="textCyan">eingesperrt werden.</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub375" style="textCenter" region="bottom" begin="10:20:46.560" end="10:20:49.280">
+        <tt:span style="textYellow">Aber schön war das Bellen</tt:span>
+        <tt:br />
+        <tt:span style="textYellow">eigentlich schon.</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub376" style="textCenter" region="bottom" begin="10:20:49.360" end="10:20:50.760">
+        <tt:span style="textYellow">Auuu!</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub377" style="textCenter" region="bottom" begin="10:21:08.040" end="10:21:10.680">
+        <tt:span style="textYellow">Wau! Wau! Wau! Wau!</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub378" style="textCenter" region="bottom" begin="10:21:12.480" end="10:21:15.360">
+        <tt:span style="textYellow">Aber wenn er nicht da ist,</tt:span>
+        <tt:br />
+        <tt:span style="textYellow">der Meister Eder,</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub379" style="textCenter" region="bottom" begin="10:21:15.440" end="10:21:18.160">
+        <tt:span style="textYellow">macht es überhaupt keinen Spaß.</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub380" style="textCenter" region="bottom" begin="10:21:18.240" end="10:21:23.760">
+        <tt:span style="textYellow">Dann setz ich mich eben einfach</tt:span>
+        <tt:br />
+        <tt:span style="textYellow">in meine Schaukel</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub381" style="textCenter" region="bottom" begin="10:21:23.840" end="10:21:27.600">
+        <tt:span style="textYellow">und mache ein</tt:span>
+        <tt:br />
+        <tt:span style="textYellow">Bellungs-Verbots-Gedicht.</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub382" style="textCenter" region="bottom" begin="10:21:27.680" end="10:21:31.160">
+        <tt:span style="textYellow">Jawohl. Ein</tt:span>
+        <tt:br />
+        <tt:span style="textYellow">Bellungs-Verbots-Gedicht mach ich.</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub383" style="textCenter" region="bottom" begin="10:21:33.240" end="10:21:37.760">
+        <tt:span style="textYellow">Ich darf nicht mehr bellen,</tt:span>
+        <tt:br />
+        <tt:span style="textYellow">an gar keinen Stellen.</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub384" style="textCenter" region="bottom" begin="10:21:37.840" end="10:21:41.680">
+        <tt:span style="textYellow">Ich darf auch nicht heulen,</tt:span>
+        <tt:br />
+        <tt:span style="textYellow">sonst kriege ich Beulen</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub385" style="textCenter" region="bottom" begin="10:21:41.760" end="10:21:47.160">
+        <tt:span style="textYellow">am Kopf und am Po,</tt:span>
+        <tt:br />
+        <tt:span style="textYellow">drum schweige ich, oh.</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub386" style="textCenter" region="bottom" begin="10:21:47.240" end="10:21:50.760">
+        <tt:span style="textYellow">Und bellt mal ein Hund,</tt:span>
+        <tt:br />
+        <tt:span style="textYellow">dann halt ich den Mund.</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub387" style="textCenter" region="bottom" begin="10:21:50.840" end="10:21:54.080">
+        <tt:span style="textYellow">Aber kommt eine Sau,</tt:span>
+        <tt:br />
+        <tt:span style="textYellow">dann mach ich &quot;wau, wau&quot;.</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub388" style="textCenter" region="bottom" begin="10:21:54.160" end="10:21:55.880">
+        <tt:span style="textYellow">Wau! Wau!</tt:span>
+      </tt:p>
+      <tt:p xml:id="sub389" style="textCenter" region="bottom" begin="10:22:01.280" end="10:22:03.280">
+        <tt:span style="textWhite">Untertitelung: BR 2020</tt:span>
+      </tt:p>
+    </tt:div>
+  </tt:body>
+</tt:tt>
