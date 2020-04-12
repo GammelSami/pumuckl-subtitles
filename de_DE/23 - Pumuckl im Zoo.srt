@@ -1,0 +1,1810 @@
+1
+00:00:00,00 --> 00:00:00,400
+<font color="#FFFFFF">.</font>
+
+2
+00:00:00,480 --> 00:00:01,480
+<font color="#FFFFFF">(Titelmusik)</font>
+
+3
+00:00:01,560 --> 00:00:05,00
+<font color="#FFFF00">Pumuckl neckt, Pumuckl versteckt</font>
+<font color="#FFFF00">und niemand was meckt.</font>
+
+4
+00:00:05,80 --> 00:00:08,160
+<font color="#FFFF00">Oh, das reimt sich ja.</font>
+<font color="#FFFF00">Und was sich reimt, ist gut!</font>
+
+5
+00:00:08,240 --> 00:00:11,320
+<font color="#FFFFFF">♪ Hurra, hurra,</font>
+<font color="#FFFFFF">der Kobold mit dem roten Haar,</font>
+
+6
+00:00:11,400 --> 00:00:15,400
+<font color="#FFFFFF">♪ hurra, hurra, der Pumuckl ist da!</font>
+
+7
+00:00:15,480 --> 00:00:18,960
+<font color="#FFFF00">♪ Hurra, hurra,</font>
+<font color="#FFFF00">der Kobold mit dem roten Haar,</font>
+
+8
+00:00:19,40 --> 00:00:22,960
+<font color="#FFFF00">♪ hurra, hurra, der Pumuckl ist da!</font>
+
+9
+00:00:23,40 --> 00:00:27,120
+<font color="#FFFFFF">♪ Am liebsten macht er Schabernack,</font>
+<font color="#FFFFFF">Leute ärgern nicht zu knapp.</font>
+
+10
+00:00:27,320 --> 00:00:31,600
+<font color="#FFFFFF">♪ Schwupp, schon ist die Feile weg.</font>
+<font color="#FFFFFF">Wer hat die wohl wegversteckt?</font>
+
+11
+00:00:31,680 --> 00:00:35,160
+<font color="#FFFF00">♪ Hurra, hurra,</font>
+<font color="#FFFF00">der Kobold mit dem roten Haar,</font>
+
+12
+00:00:35,240 --> 00:00:39,360
+<font color="#FFFF00">♪ hurra, hurra, der Pumuckl ist da!</font>
+
+13
+00:00:41,640 --> 00:00:43,480
+<font color="#FFFF00">Bäh, bäh, bäh, bäh!</font>
+
+14
+00:00:43,560 --> 00:00:46,240
+<font color="#FFFF00">Bäh, bäh, bäh, bäh, bäh, bäh!</font>
+
+15
+00:00:47,320 --> 00:00:50,840
+<font color="#FFFF00">Quak, quak, quak, quak,</font>
+<font color="#FFFF00">quak, quak, quak, quak!</font>
+
+16
+00:00:50,920 --> 00:00:54,400
+<font color="#FFFF00">Gack, gack, gack, gack,</font>
+<font color="#FFFF00">gack, gack, gack, gack!</font>
+
+17
+00:00:55,800 --> 00:00:57,800
+<font color="#FFFFFF">Untertitelung: BR 2020</font>
+
+18
+00:01:09,360 --> 00:01:14,40
+<font color="#00FFFF">Weißt du, Pumuckl, das ist so:</font>
+<font color="#00FFFF">Im Tierpark gibt's harmlose Tiere,</font>
+
+19
+00:01:14,120 --> 00:01:16,200
+<font color="#00FFFF">aber auch ganz gefährliche.</font>
+
+20
+00:01:16,280 --> 00:01:20,680
+<font color="#00FFFF">Wenn du z.B. zu einem Löwen</font>
+<font color="#00FFFF">oder Tiger in den Käfig gehst,</font>
+
+21
+00:01:20,760 --> 00:01:23,680
+<font color="#00FFFF">dann macht's "schnapp"</font>
+<font color="#00FFFF">und du bist weg.</font>
+
+22
+00:01:23,760 --> 00:01:27,920
+<font color="#FFFF00">Ach, so schnell geht das nicht.</font>
+<font color="#FFFF00">Klabautermänner gehen überall hin.</font>
+
+23
+00:01:28,00 --> 00:01:30,960
+<font color="#FFFF00">Aber selten zu Löwen in Käfigen</font>
+<font color="#FFFF00">in Tierparks.</font>
+
+24
+00:01:31,40 --> 00:01:33,680
+<font color="#00FFFF">Dann wollen wir es hoffen.</font>
+<font color="#00FFFF">Schauen wir mal.</font>
+
+25
+00:01:33,760 --> 00:01:36,360
+<font color="#00FFFF">Alles in Ordnung.</font>
+<font color="#00FFFF">Schlüssel hab ich auch.</font>
+
+26
+00:01:36,440 --> 00:01:39,960
+<font color="#00FFFF">Jetzt können wir gehen.</font>
+<font color="#FFFF00">- Ich bin schon ganz aufgeregt.</font>
+
+27
+00:01:40,40 --> 00:01:43,360
+<font color="#00FFFF">Wenn du sichtbar bist,</font>
+<font color="#00FFFF">geht's dir wie einem Menschen.</font>
+
+28
+00:01:43,440 --> 00:01:47,600
+<font color="#00FFFF">Dann kannst du gefressen werden.</font>
+<font color="#FFFF00">- Menschen können gefressen werden?</font>
+
+29
+00:01:47,680 --> 00:01:50,80
+<font color="#00FFFF">Freilich.</font>
+<font color="#FFFF00">- Wie schmeckt ihr eigentlich?</font>
+
+30
+00:01:50,160 --> 00:01:53,960
+<font color="#00FFFF">Das weiß ich nicht. </font>
+<font color="#FFFF00">- Warum</font>
+<font color="#FFFF00">gehen wir so früh in den Tierpark?</font>
+
+31
+00:01:54,40 --> 00:01:57,960
+<font color="#FFFF00">Da schlafen die Tiere noch</font>
+<font color="#FFFF00">oder sind vielleicht noch nicht da.</font>
+
+32
+00:01:58,40 --> 00:02:02,560
+<font color="#00FFFF">Nein, die sind da und wach. Mit dem</font>
+<font color="#00FFFF">ersten Sonnenstrahl sind die wach.</font>
+
+33
+00:02:02,640 --> 00:02:04,440
+<font color="#FFFF00">Warum gehen wir so früh?</font>
+
+34
+00:02:04,520 --> 00:02:08,840
+<font color="#00FFFF">Weil noch nicht so viele Menschen</font>
+<font color="#00FFFF">draußen sind, dann bist du sichtbar</font>
+
+35
+00:02:08,920 --> 00:02:12,200
+<font color="#00FFFF">und ich kann besser kontrollieren,</font>
+<font color="#00FFFF">was du anstellst.</font>
+
+36
+00:02:12,280 --> 00:02:17,360
+<font color="#FFFF00">Ich freu mich ja schon so. Auf die</font>
+<font color="#FFFF00">Spatzen, Regenwürmer, Schnecken,</font>
+
+37
+00:02:17,440 --> 00:02:19,920
+<font color="#FFFF00">Maulwürfe und so weiter.</font>
+
+38
+00:02:20,00 --> 00:02:22,00
+<font color="#00FFFF">Deshalb gehen wir nicht.</font>
+
+39
+00:02:22,80 --> 00:02:24,440
+<font color="#00FFFF">Wir sehen auch</font>
+<font color="#00FFFF">Elefanten und Kängurus.</font>
+
+40
+00:02:24,520 --> 00:02:27,120
+<font color="#FFFF00">Ei, ei, ei. Komm, jetzt gehen wir.</font>
+
+41
+00:02:27,200 --> 00:02:31,440
+<font color="#FFFF00">Heute bleibt die Werkstatt zu,</font>
+<font color="#FFFF00">wir gehen zu dem Känguru.</font>
+
+42
+00:02:53,840 --> 00:02:57,160
+<font color="#FFFF00">Was ist denn hier?</font>
+<font color="#FFFF00">Das sind ja Kurzbeinkühe.</font>
+
+43
+00:02:58,320 --> 00:03:01,640
+<font color="#00FFFF">Nein, das sind Kängurus.</font>
+<font color="#FFFF00">- Was für Kängurus?</font>
+
+44
+00:03:01,720 --> 00:03:05,760
+<font color="#FFFF00">Ah, das sind Känguru-Kühe.</font>
+<font color="#00FFFF">- Nein. Känguru heißen die.</font>
+
+45
+00:03:05,960 --> 00:03:08,120
+<font color="#FFFF00">Da ist ja eins mit zwei Köpfen.</font>
+
+46
+00:03:08,320 --> 00:03:13,80
+<font color="#00FFFF">Nein. Kängurus haben einen Beutel,</font>
+<font color="#00FFFF">da tragen sie das Junge rum.</font>
+
+47
+00:03:13,160 --> 00:03:15,280
+<font color="#FFFF00">Das ist ein kleines?</font>
+<font color="#00FFFF">- Ja.</font>
+
+48
+00:03:15,360 --> 00:03:18,00
+<font color="#FFFF00">Ein Pumuckl-kleines?</font>
+<font color="#FFFF00">Oh, da muss ich hin.</font>
+
+49
+00:03:18,80 --> 00:03:21,120
+<font color="#00FFFF">Nein, du bleibst da.</font>
+<font color="#FFFF00">- Ich komm ja gleich wieder.</font>
+
+50
+00:03:21,200 --> 00:03:23,320
+<font color="#00FFFF">Gib Obacht.</font>
+<font color="#FFFF00">- Ja, ja.</font>
+
+51
+00:03:23,520 --> 00:03:27,360
+<font color="#FFFF00">Grüß Gott, Frau Känguru.</font>
+<font color="#FFFF00">Ui, schau mal, das Kleine.</font>
+
+52
+00:03:27,440 --> 00:03:29,280
+<font color="#FFFF00">Das ist vielleicht nett.</font>
+
+53
+00:03:29,360 --> 00:03:31,840
+<font color="#FFFF00">Schau mal, die frisst es ja auf.</font>
+
+54
+00:03:31,920 --> 00:03:34,760
+<font color="#00FFFF">Nein. Das Abschlecken</font>
+<font color="#00FFFF">ist die Morgenwäsche.</font>
+
+55
+00:03:34,840 --> 00:03:38,880
+<font color="#FFFF00">Waschen? Also ich möchte von dir</font>
+<font color="#FFFF00">nicht so gewaschen werden.</font>
+
+56
+00:03:38,960 --> 00:03:41,480
+<font color="#00FFFF">Ich mach's auch nicht.</font>
+<font color="#FFFF00">- Da bin ich froh.</font>
+
+57
+00:03:41,560 --> 00:03:45,800
+<font color="#FFFF00">Jetzt kommt es raus. Guten Morgen.</font>
+<font color="#FFFF00">Das will sicher mit mir spielen.</font>
+
+58
+00:03:45,880 --> 00:03:47,720
+<font color="#FFFF00">Das ist ja fast Pumuckl-groß.</font>
+
+59
+00:03:47,800 --> 00:03:50,400
+<font color="#FFFF00">Oh, das ist ja wie</font>
+<font color="#FFFF00">in einer Einkaufstüte.</font>
+
+60
+00:03:50,480 --> 00:03:53,00
+<font color="#FFFF00">Mit der könnte man ja</font>
+<font color="#FFFF00">einkaufen gehen.</font>
+
+61
+00:03:53,80 --> 00:03:54,800
+<font color="#FFFF00">Oh, jetzt ist es weg.</font>
+
+62
+00:03:54,960 --> 00:03:57,200
+<font color="#00FFFF">Komm, jetzt gehen wir weiter.</font>
+
+63
+00:03:57,280 --> 00:04:01,480
+<font color="#FFFF00">Ich muss doch schauen, was da ...</font>
+<font color="#FFFF00">Ui, guck mal, wie die hüpfen.</font>
+
+64
+00:04:01,560 --> 00:04:04,560
+<font color="#FFFF00">Was die können, kann ich auch.</font>
+<font color="#FFFF00">Guck mal, hier.</font>
+
+65
+00:04:07,240 --> 00:04:10,440
+<font color="#FFFF00">So, jetzt gehen wir da rüber.</font>
+<font color="#FFFF00">Was ist denn da?</font>
+
+66
+00:04:10,520 --> 00:04:13,600
+<font color="#00FFFF">Schauen wir halt mal, was da ist.</font>
+
+67
+00:04:15,720 --> 00:04:19,800
+<font color="#00FFFF">Da, schau her. Die sind schön.</font>
+<font color="#00FFFF">Das sind Nashörner.</font>
+
+68
+00:04:25,920 --> 00:04:28,120
+<font color="#FFFF00">Hallo.</font>
+<font color="#00FFFF">- Wo bist du denn überhaupt?</font>
+
+69
+00:04:28,200 --> 00:04:31,320
+<font color="#FFFF00">Hallo Meister Eder.</font>
+<font color="#FFFF00">Schau, was ich gefunden habe.</font>
+
+70
+00:04:31,400 --> 00:04:34,840
+<font color="#00FFFF">Bist du verrückt geworden?</font>
+<font color="#00FFFF">Das ist ja ein Straußen-Ei.</font>
+
+71
+00:04:34,920 --> 00:04:36,920
+<font color="#00FFFF">Das bringst du sofort zurück.</font>
+
+72
+00:04:37,00 --> 00:04:40,160
+<font color="#FFFF00">Was? Nein, nein,</font>
+<font color="#FFFF00">das ist ein Elofanten-Ei.</font>
+
+73
+00:04:40,360 --> 00:04:43,840
+<font color="#00FFFF">Elefanten-Eier gibt es nicht.</font>
+<font color="#00FFFF">Bring das Ei sofort zurück!</font>
+
+74
+00:04:43,920 --> 00:04:47,400
+<font color="#00FFFF">Ich geh sonst heim. </font>
+<font color="#FFFF00">- Nein.</font>
+<font color="#FFFF00">Das wird unser Frühstücks-Ei.</font>
+
+75
+00:04:47,480 --> 00:04:50,520
+<font color="#FFFF00">Das können wir siebzehndrei Tage</font>
+<font color="#FFFF00">lang frühstücken</font>
+
+76
+00:04:50,600 --> 00:04:52,840
+<font color="#FFFF00">und müssen es nur einmal aufmachen.</font>
+
+77
+00:04:52,920 --> 00:04:54,920
+<font color="#00FFFF">Ich geh nicht mehr mit dir weg.</font>
+
+78
+00:04:55,00 --> 00:04:58,600
+<font color="#00FFFF">Ich sperr dich in der Werkstatt ein,</font>
+<font color="#00FFFF">wenn du nicht folgst.</font>
+
+79
+00:04:58,680 --> 00:05:02,400
+<font color="#FFFF00">Also wenn du mich so er...</font>
+<font color="#FFFF00">Ich bin zwar nicht erpresserlich.</font>
+
+80
+00:05:02,480 --> 00:05:05,400
+<font color="#FFFF00">Aber meinetwegen,</font>
+<font color="#FFFF00">ich bring es ein Stück zurück.</font>
+
+81
+00:05:05,480 --> 00:05:10,320
+<font color="#00FFFF">Bring es sofort zurück. </font>
+<font color="#FFFF00">- Bäh, bäh.</font>
+<font color="#00FFFF">- Bäh, bäh. Bissl schneller, bitte.</font>
+
+82
+00:05:11,480 --> 00:05:14,00
+<font color="#FFFF00">Ausnahmsweise.</font>
+<font color="#00FFFF">- Die Leute schauen schon.</font>
+
+83
+00:05:14,80 --> 00:05:15,760
+<font color="#FFFF00">Sind ja gar keine da.</font>
+<font color="#00FFFF">- Geh.</font>
+
+84
+00:05:15,960 --> 00:05:18,480
+<font color="#FFFF00">Hihi, dann kann ich es</font>
+<font color="#FFFF00">ja doch behalten.</font>
+
+85
+00:05:18,560 --> 00:05:22,240
+<font color="#00FFFF">Nein! Das Ei kommt zurück,</font>
+<font color="#00FFFF">oder ich red nicht mehr mit dir.</font>
+
+86
+00:05:22,320 --> 00:05:26,240
+<font color="#FFFF00">Ach ja. Da machst was mit.</font>
+<font color="#FFFF00">So ein schönes Spiegelei.</font>
+
+87
+00:05:30,480 --> 00:05:33,240
+<font color="#FFFF00">Oh, schau mal. Ein Elofant.</font>
+
+88
+00:05:34,160 --> 00:05:37,640
+<font color="#00FFFF">Sag mal, wo bist du eigentlich?</font>
+<font color="#FFFF00">- Auf deiner Schulter.</font>
+
+89
+00:05:37,840 --> 00:05:41,00
+<font color="#FFFF00">Aber da ist ein Elofant.</font>
+<font color="#00FFFF">- Elefant.</font>
+
+90
+00:05:41,80 --> 00:05:46,360
+<font color="#FFFF00">Ein Olefant? </font>
+<font color="#00FFFF">- Nein. Nix ole.</font>
+<font color="#00FFFF">Elefant. "Ole" ist spanisch.</font>
+
+91
+00:05:46,440 --> 00:05:48,200
+<font color="#FFFF00">Ach so.</font>
+<font color="#00FFFF">- Ja. Elefant.</font>
+
+92
+00:05:48,400 --> 00:05:53,560
+<font color="#FFFF00">Also ein Nasentier. Ui, guck mal,</font>
+<font color="#FFFF00">der hat einen Zahnstocher im Mund.</font>
+
+93
+00:05:53,640 --> 00:05:55,840
+<font color="#FFFF00">Der Elofant ist elogant.</font>
+
+94
+00:05:55,920 --> 00:06:00,160
+<font color="#00FFFF">Schau dir den anderen an.</font>
+<font color="#00FFFF">Die haben zwei Elfenbeinzähne.</font>
+
+95
+00:06:00,240 --> 00:06:04,80
+<font color="#00FFFF">Das ist ein alter Elefant und</font>
+<font color="#00FFFF">der eine ist ihm rausgebrochen.</font>
+
+96
+00:06:04,160 --> 00:06:06,00
+<font color="#00FFFF">Der andere ist abgebrochen</font>
+
+97
+00:06:06,80 --> 00:06:09,960
+<font color="#00FFFF">und da hat ihm ein Tier-Zahnarzt</font>
+<font color="#00FFFF">eine schön Plombe draufgemacht.</font>
+
+98
+00:06:10,40 --> 00:06:13,40
+<font color="#FFFF00">Eine Bombe?</font>
+<font color="#00FFFF">- Nein, eine silberne Krone.</font>
+
+99
+00:06:13,120 --> 00:06:15,400
+<font color="#FFFF00">Guck mal, was ist denn da?</font>
+<font color="#00FFFF">- Wo?</font>
+
+100
+00:06:15,600 --> 00:06:18,840
+<font color="#FFFF00">Ui! Ui!</font>
+<font color="#00FFFF">- Das sind Meerschweinchen.</font>
+
+101
+00:06:18,920 --> 00:06:22,840
+<font color="#FFFF00">Aha. Weil es so viele sind,</font>
+<font color="#FFFF00">darum sind es mehr Schweinchen.</font>
+
+102
+00:06:22,920 --> 00:06:26,240
+<font color="#00FFFF">Nein. Das ist eine</font>
+<font color="#00FFFF">besonders kleine Gattung.</font>
+
+103
+00:06:26,320 --> 00:06:30,200
+<font color="#00FFFF">Das sind Nagetiere. Die haben</font>
+<font color="#00FFFF">mit Schweinen gar nix zu tun.</font>
+
+104
+00:06:30,280 --> 00:06:32,680
+<font color="#00FFFF">Die heißen nur Meerschweinchen.</font>
+
+105
+00:06:32,760 --> 00:06:34,680
+<font color="#FFFF00">Das ist aber eine Sauerei,</font>
+
+106
+00:06:34,880 --> 00:06:37,800
+<font color="#FFFF00">dass die Schweinchen heißen</font>
+<font color="#FFFF00">und gar keine sind.</font>
+
+107
+00:06:37,880 --> 00:06:42,640
+<font color="#FFFF00">Und wenn das Nageltiere sind,</font>
+<font color="#FFFF00">warum nageln die dann nicht? </font>
+<font color="#00FFFF">- Geh.</font>
+
+108
+00:06:42,720 --> 00:06:46,280
+<font color="#FFFF00">Was ist denn? Na ja, vielleicht</font>
+<font color="#FFFF00">haben sie keinen Hammer.</font>
+
+109
+00:06:46,360 --> 00:06:48,920
+<font color="#FFFF00">Die leben unter Bäumen,</font>
+<font color="#FFFF00">unter Wurzeln.</font>
+
+110
+00:06:49,00 --> 00:06:51,840
+<font color="#FFFF00">Könnten die auch</font>
+<font color="#FFFF00">unter Brettern leben?</font>
+
+111
+00:06:52,40 --> 00:06:54,560
+<font color="#00FFFF">Vielleicht leben die</font>
+<font color="#00FFFF">auch unter Brettern.</font>
+
+112
+00:06:54,640 --> 00:06:58,520
+<font color="#FFFF00">Vielleicht bei uns in der Werkstatt.</font>
+<font color="#00FFFF">- Nein, da leben keine.</font>
+
+113
+00:06:58,600 --> 00:07:01,680
+<font color="#FFFF00">Warum nicht? </font>
+<font color="#00FFFF">- Weil ich die</font>
+<font color="#00FFFF">da nicht brauchen kann.</font>
+
+114
+00:07:01,760 --> 00:07:03,760
+<font color="#00FFFF">Ich muss ja arbeiten.</font>
+<font color="#FFFF00">- Schade.</font>
+
+115
+00:07:03,840 --> 00:07:06,720
+<font color="#00FFFF">Das ist ja eine Schreinerei</font>
+<font color="#00FFFF">und kein Tierpark.</font>
+
+116
+00:07:06,800 --> 00:07:10,440
+<font color="#FFFF00">Wir könnten eine gemischte</font>
+<font color="#FFFF00">Tierpark-Schreinerei aufmachen.</font>
+
+117
+00:07:10,520 --> 00:07:14,520
+<font color="#00FFFF">Nein. Komm, wir gehen.</font>
+<font color="#FFFF00">- Ui, schau mal. Lauter Affen.</font>
+
+118
+00:07:18,160 --> 00:07:20,760
+<font color="#FFFF00">Schau mal, der alte Opa da.</font>
+
+119
+00:07:20,840 --> 00:07:22,600
+<font color="#FFFF00">Was machen die denn da?</font>
+
+120
+00:07:23,760 --> 00:07:27,120
+<font color="#00FFFF">Die suchen Läuse.</font>
+<font color="#FFFF00">- Läuse? Brrr.</font>
+
+121
+00:07:27,200 --> 00:07:29,440
+<font color="#FFFF00">Schmeckt das? Die essen das ja auf.</font>
+
+122
+00:07:29,520 --> 00:07:32,760
+<font color="#00FFFF">Denen schmeckt's.</font>
+<font color="#00FFFF">Mir tät es nicht schmecken.</font>
+
+123
+00:07:32,960 --> 00:07:36,640
+<font color="#FFFF00">Wenn ich den und dich ...</font>
+<font color="#FFFF00">und dich und den da drüben ...</font>
+
+124
+00:07:36,720 --> 00:07:40,360
+<font color="#FFFF00">Eine gewisse Ähnlichkeit habt ihr</font>
+<font color="#FFFF00">schon. </font>
+<font color="#00FFFF">- Werd nicht frech.</font>
+
+125
+00:07:40,440 --> 00:07:44,80
+<font color="#00FFFF">Schau, was der Kleine für</font>
+<font color="#00FFFF">eine Ähnlichkeit der mit dir hat.</font>
+
+126
+00:07:44,160 --> 00:07:45,680
+<font color="#FFFF00">Oh! Das ist ...</font>
+
+127
+00:07:45,880 --> 00:07:49,960
+<font color="#FFFF00">Ich hab zwar rote Haare, aber nicht</font>
+<font color="#FFFF00">so einen roten Popo wie der da.</font>
+
+128
+00:07:50,40 --> 00:07:52,760
+<font color="#00FFFF">Zieh mal die Hose aus,</font>
+<font color="#00FFFF">dann schauen wir nach.</font>
+
+129
+00:07:52,840 --> 00:07:56,440
+<font color="#FFFF00">Jetzt will ich wieder gehen.</font>
+<font color="#FFFF00">Hier gefällt's mir gar nicht.</font>
+
+130
+00:07:56,520 --> 00:07:58,320
+<font color="#00FFFF">Gehen wir weiter.</font>
+
+131
+00:08:08,680 --> 00:08:12,440
+<font color="#00FFFF">Jetzt tun mir die Füße weh.</font>
+<font color="#00FFFF">Wir machen eine Pause.</font>
+
+132
+00:08:12,520 --> 00:08:17,280
+<font color="#FFFF00">Guck mal da. Die sind ja süß.</font>
+<font color="#FFFF00">Ich will noch keine Pause machen.</font>
+
+133
+00:08:17,360 --> 00:08:19,400
+<font color="#00FFFF">Doch.</font>
+<font color="#FFFF00">- Die sind schön.</font>
+
+134
+00:08:19,600 --> 00:08:21,920
+<font color="#00FFFF">Die sind schön, gell?</font>
+<font color="#00FFFF">Das sind Ponys.</font>
+
+135
+00:08:22,00 --> 00:08:25,720
+<font color="#FFFF00">Ach, das sind keine Pferde?</font>
+<font color="#00FFFF">- Kleine Pferde nennt man Ponys.</font>
+
+136
+00:08:25,920 --> 00:08:28,760
+<font color="#FFFF00">Schau mal da,</font>
+<font color="#FFFF00">ein Pumuckl-großes Pony.</font>
+
+137
+00:08:28,840 --> 00:08:30,960
+<font color="#FFFF00">Auf dem will ich bitte reiten.</font>
+
+138
+00:08:31,40 --> 00:08:35,280
+<font color="#00FFFF">Wie kommst du denn hin? Da musst du</font>
+<font color="#00FFFF">über die anderen drübersteigen.</font>
+
+139
+00:08:35,360 --> 00:08:39,40
+<font color="#FFFF00">Das trau ich mich aber nicht.</font>
+<font color="#00FFFF">- Ich heb dich hin. Komm.</font>
+
+140
+00:08:39,120 --> 00:08:42,360
+<font color="#FFFF00">Das kommt ja zu mir.</font>
+<font color="#00FFFF">- Jetzt setz dich hin.</font>
+
+141
+00:08:42,440 --> 00:08:45,760
+<font color="#FFFF00">Danke. Wie schön das ist.</font>
+<font color="#00FFFF">- Jetzt halt dich fest.</font>
+
+142
+00:08:45,960 --> 00:08:48,960
+<font color="#FFFF00">Wie schön. </font>
+<font color="#00FFFF">- Schön.</font>
+<font color="#FFFF00">- Wie ich draufsitze.</font>
+
+143
+00:08:49,40 --> 00:08:52,440
+<font color="#FFFF00">Ah! Hilfe!</font>
+<font color="#00FFFF">- Halt dich fest! Nein, spring ab!</font>
+
+144
+00:08:52,520 --> 00:08:55,240
+<font color="#FFFF00">Hilfe!</font>
+<font color="#00FFFF">- Um Gottes willen, spring ab!</font>
+
+145
+00:08:59,680 --> 00:09:01,600
+<font color="#00FFFF">Pumuckl!</font>
+
+146
+00:09:06,200 --> 00:09:07,880
+<font color="#00FFFF">Pumuckl!</font>
+
+147
+00:09:08,240 --> 00:09:12,80
+<font color="#FFFF00">Hallo, ich bin doch hier.</font>
+<font color="#FFFF00">Wo galoppierst du denn hin?</font>
+
+148
+00:09:13,40 --> 00:09:14,720
+<font color="#00FFFF">Pumuckl!</font>
+
+149
+00:09:14,800 --> 00:09:16,920
+<font color="#FFFFFF">Hallo. Hallo.</font>
+
+150
+00:09:19,720 --> 00:09:21,600
+<font color="#00FFFF">Pumuckl.</font>
+
+151
+00:09:22,160 --> 00:09:24,80
+<font color="#FFFF00">Hallo, hier bin ich doch.</font>
+
+152
+00:09:24,160 --> 00:09:27,480
+<font color="#FFFF00">Ich wusste gar nicht,</font>
+<font color="#FFFF00">dass der so gut laufen kann.</font>
+
+153
+00:09:33,240 --> 00:09:36,160
+<font color="#FFFFFF">He, Sie,</font>
+<font color="#FFFFFF">was machen Sie denn hier drin?</font>
+
+154
+00:09:36,240 --> 00:09:39,520
+<font color="#00FFFF">Ich will ein Pony streicheln.</font>
+<font color="#FFFFFF">- Das können Sie nicht.</font>
+
+155
+00:09:39,600 --> 00:09:42,560
+<font color="#FFFFFF">Sie können ja auch nicht</font>
+<font color="#FFFFFF">Löwen streicheln.</font>
+
+156
+00:09:42,640 --> 00:09:46,600
+<font color="#00FFFF">Ich geh nicht zu den Löwen rein.</font>
+<font color="#00FFFF">Ich will nicht gefressen werden.</font>
+
+157
+00:09:46,680 --> 00:09:49,920
+<font color="#FFFFFF">Die fressen auch nicht jeden Dreck.</font>
+<font color="#00FFFF">- Passen Sie auf.</font>
+
+158
+00:09:50,00 --> 00:09:52,80
+<font color="#00FFFF">Pumuckl!</font>
+<font color="#FFFFFF">- Was ist denn los?</font>
+
+159
+00:09:52,160 --> 00:09:56,680
+<font color="#00FFFF">Vergessen Sie es. Ich muss ja ...</font>
+<font color="#FFFFFF">- Gehen Sie zu den Ziegen.</font>
+
+160
+00:09:56,760 --> 00:10:00,600
+<font color="#FFFFFF">Da können Sie streicheln.</font>
+<font color="#FFFFFF">Da ist die Streichelzone.</font>
+
+161
+00:10:01,760 --> 00:10:03,760
+<font color="#FFFFFF">O Gott. Da machst du was mit.</font>
+
+162
+00:10:10,960 --> 00:10:16,120
+<font color="#FFFF00">♪ Wenn der Sturmwind in die Segel</font>
+<font color="#FFFF00">bläst und wenn die Balken krachen.</font>
+
+163
+00:10:18,360 --> 00:10:20,360
+<font color="#FFFF00">Hihihihihi.</font>
+
+164
+00:10:22,360 --> 00:10:25,880
+<font color="#FFFF00">Es ist ein bisschen heiß.</font>
+<font color="#FFFF00">Ich muss was trinken.</font>
+
+165
+00:10:25,960 --> 00:10:28,560
+<font color="#FFFF00">Darf ich was trinken? Danke schön.</font>
+
+166
+00:10:29,200 --> 00:10:31,360
+<font color="#FFFFFF">* Er schlürft. *</font>
+
+167
+00:10:32,840 --> 00:10:35,240
+<font color="#FFFF00">So. Und jetzt gehen wir wieder.</font>
+
+168
+00:10:35,320 --> 00:10:38,680
+<font color="#FFFF00">Wir haben noch so viel anzusehen.</font>
+<font color="#FFFF00">Komm, wir gehen.</font>
+
+169
+00:10:38,760 --> 00:10:41,480
+<font color="#FFFF00">Hallo? Wie kann man nur</font>
+<font color="#FFFF00">so lange schlafen?</font>
+
+170
+00:10:41,560 --> 00:10:45,320
+<font color="#FFFF00">Steh jetzt auf, du Schnarchwurm.</font>
+<font color="#FFFF00">Hopp! Auf! Hallo.</font>
+
+171
+00:10:45,400 --> 00:10:48,240
+<font color="#FFFF00">Wenn du nicht sofort sagst,</font>
+<font color="#FFFF00">dass wenn du ...</font>
+
+172
+00:10:48,320 --> 00:10:53,480
+<font color="#FFFF00">Also wenn du nichts sagst, ich dann</font>
+<font color="#FFFF00">gehen darf, dann darf ich gehen.</font>
+
+173
+00:10:53,560 --> 00:10:55,720
+<font color="#FFFF00">Ja. Das ist dann die Erlaubnis.</font>
+
+174
+00:10:55,800 --> 00:10:59,720
+<font color="#FFFF00">Also, wenn du nichts sagst,</font>
+<font color="#FFFF00">dann geh ich. Tschüss. Pfüa Gott.</font>
+
+175
+00:10:59,800 --> 00:11:03,520
+<font color="#FFFFFF">Kriegen Sie noch was? Hallo, Sie.</font>
+<font color="#FFFFFF">Kriegen Sie noch was?</font>
+
+176
+00:11:03,600 --> 00:11:05,520
+<font color="#00FFFF">Nein, danke. Mir langt's.</font>
+
+177
+00:11:10,200 --> 00:11:12,80
+<font color="#00FFFF">Jessas.</font>
+
+178
+00:11:16,920 --> 00:11:20,240
+<font color="#FFFF00">Ist das aber ein schönes</font>
+<font color="#FFFF00">ausgestopftes Tier.</font>
+
+179
+00:11:21,520 --> 00:11:24,360
+<font color="#FFFF00">Oh, sieht der toll aus.</font>
+<font color="#FFFF00">Fast wie echt.</font>
+
+180
+00:11:24,440 --> 00:11:26,320
+<font color="#FFFF00">Man könnte meinen, du lebst.</font>
+
+181
+00:11:26,440 --> 00:11:28,400
+<font color="#FFFF00">Uah! Sag mal, lebst du?</font>
+
+182
+00:11:28,480 --> 00:11:30,280
+<font color="#FFFFFF">* Der Tiger knurrt. *</font>
+
+183
+00:11:33,240 --> 00:11:36,560
+<font color="#FFFF00">Puh, da tiger ich mich lieber</font>
+<font color="#FFFF00">in Sicherheit.</font>
+
+184
+00:11:36,640 --> 00:11:39,80
+<font color="#FFFF00">Huch, wer bist denn du?</font>
+
+185
+00:11:39,160 --> 00:11:41,640
+<font color="#FFFF00">Du brauchst doch</font>
+<font color="#FFFF00">keine Angst zu haben.</font>
+
+186
+00:11:41,720 --> 00:11:44,800
+<font color="#FFFF00">Ich geh ja schon wieder.</font>
+<font color="#FFFF00">Ich tu dir doch nichts.</font>
+
+187
+00:11:44,880 --> 00:11:47,400
+<font color="#FFFF00">Geh ich eben zu deiner Schwester.</font>
+
+188
+00:11:47,480 --> 00:11:49,960
+<font color="#FFFF00">Hier pennt ja alles. Hallo!</font>
+
+189
+00:11:50,480 --> 00:11:52,640
+<font color="#FFFF00">Grüß dich. Wer bist denn du?</font>
+
+190
+00:11:52,720 --> 00:11:54,720
+<font color="#FFFF00">Gib mir mal die Hand.</font>
+
+191
+00:11:54,800 --> 00:11:57,480
+<font color="#FFFF00">He, grüß dich. Ich bin der Pumuckl.</font>
+
+192
+00:11:57,560 --> 00:11:59,960
+<font color="#FFFF00">Oh nein, das ist mir</font>
+<font color="#FFFF00">doch etwas zu groß.</font>
+
+193
+00:12:00,40 --> 00:12:03,240
+<font color="#FFFF00">Zeig doch mal. Du hast</font>
+<font color="#FFFF00">vielleicht dreckige Fußnägel.</font>
+
+194
+00:12:03,320 --> 00:12:05,640
+<font color="#FFFF00">Pfui, schäm dich.</font>
+
+195
+00:12:26,440 --> 00:12:29,120
+<font color="#00FFFF">Jetzt wär ich beinah eingeschlafen.</font>
+
+196
+00:12:32,960 --> 00:12:35,40
+<font color="#FFFF00">Schauen wir mal, was hier los ist.</font>
+
+197
+00:12:35,120 --> 00:12:36,840
+<font color="#FFFF00">Ah!</font>
+
+198
+00:12:36,920 --> 00:12:39,400
+<font color="#FFFF00">Bitte, bitte, geh mal da hinter.</font>
+
+199
+00:12:39,480 --> 00:12:42,640
+<font color="#FFFF00">Ich tu dir auch bestimmt nichts.</font>
+
+200
+00:12:42,960 --> 00:12:45,00
+<font color="#FFFF00">Platz, Hektor. Platz.</font>
+
+201
+00:12:45,80 --> 00:12:48,40
+<font color="#FFFF00">So. Ich bin nämlich</font>
+<font color="#FFFF00">ein großer Dompteur.</font>
+
+202
+00:12:48,480 --> 00:12:50,360
+<font color="#FFFF00">Verstehst du?</font>
+
+203
+00:12:50,560 --> 00:12:54,720
+<font color="#FFFF00">Halt du mal Abstand, dann kann ich</font>
+<font color="#FFFF00">mit Anstand verschwinden.</font>
+
+204
+00:13:03,160 --> 00:13:06,480
+<font color="#FFFFFF">Kriegen Sie jetzt noch was?</font>
+<font color="#00FFFF">- Grüß Gott. Bitte?</font>
+
+205
+00:13:06,560 --> 00:13:08,960
+<font color="#FFFFFF">Ob Sie noch was bekommen.</font>
+
+206
+00:13:09,40 --> 00:13:12,200
+<font color="#00FFFF">Geben Sie mir noch eine Radler-Mass.</font>
+<font color="#FFFFFF">- Ja.</font>
+
+207
+00:13:14,760 --> 00:13:19,760
+<font color="#00FFFF">So, Pumuckl. Eine Mass trinken wir</font>
+<font color="#00FFFF">noch und dann gehen wir weiter.</font>
+
+208
+00:13:21,200 --> 00:13:23,520
+<font color="#00FFFF">Zu den Nilpferden, Rhinozeros,</font>
+
+209
+00:13:23,600 --> 00:13:26,680
+<font color="#00FFFF">Schildkröten haben wir</font>
+<font color="#00FFFF">noch nicht gesehen.</font>
+
+210
+00:13:26,760 --> 00:13:28,480
+<font color="#00FFFF">Gell?</font>
+
+211
+00:13:30,480 --> 00:13:32,120
+<font color="#00FFFF">Pumuckl.</font>
+
+212
+00:13:33,920 --> 00:13:35,680
+<font color="#00FFFF">Pumuckl.</font>
+
+213
+00:13:36,520 --> 00:13:38,720
+<font color="#00FFFF">Ist der davon? Pumuckl.</font>
+
+214
+00:13:42,400 --> 00:13:45,600
+<font color="#00FFFF">Das Bier hat er getrunken</font>
+<font color="#00FFFF">mit dem Strohhalm. Pumuckl!</font>
+
+215
+00:13:45,800 --> 00:13:48,480
+<font color="#FFFF00">Über die Brücke kommt kein Elofant.</font>
+
+216
+00:13:48,560 --> 00:13:51,560
+<font color="#FFFF00">Ah! Hilfe! Hilfe! Geh weg!</font>
+<font color="#FFFF00">Bleib drüben!</font>
+
+217
+00:13:51,640 --> 00:13:53,680
+<font color="#FFFF00">Hör mal, renn doch nicht so.</font>
+
+218
+00:13:53,880 --> 00:13:56,120
+<font color="#FFFF00">Lass doch erst mal mit dir reden.</font>
+
+219
+00:13:56,200 --> 00:13:59,120
+<font color="#FFFF00">Wenn du drüben bleibst,</font>
+<font color="#FFFF00">tu ich dir auch nichts.</font>
+
+220
+00:13:59,200 --> 00:14:01,440
+<font color="#FFFF00">Geh schön. So. Danke schön.</font>
+
+221
+00:14:01,520 --> 00:14:03,360
+<font color="#FFFF00">Geh schön wieder zurück.</font>
+
+222
+00:14:03,560 --> 00:14:07,120
+<font color="#FFFF00">Danke schön. Ah!</font>
+<font color="#FFFF00">Was ist denn da schon wieder?</font>
+
+223
+00:14:07,320 --> 00:14:09,920
+<font color="#FFFF00">Ach, das ist ja nur</font>
+<font color="#FFFF00">ein dämlicher Papagei.</font>
+
+224
+00:14:10,00 --> 00:14:12,720
+<font color="#FFFF00">Und das da drüben ist</font>
+<font color="#FFFF00">ein herrlicher Mamagei.</font>
+
+225
+00:14:12,800 --> 00:14:15,80
+<font color="#FFFF00">Nein. Also auch</font>
+<font color="#FFFF00">ein dämlicher Papagei.</font>
+
+226
+00:14:15,160 --> 00:14:17,760
+<font color="#FFFF00">Habt ihr auch einen</font>
+<font color="#FFFF00">dämlichen Kindergei?</font>
+
+227
+00:14:17,840 --> 00:14:19,880
+<font color="#FFFF00">Hm? Antworte doch mal.</font>
+
+228
+00:14:20,80 --> 00:14:21,960
+<font color="#FFFF00">He, was machst du denn?</font>
+
+229
+00:14:22,40 --> 00:14:25,880
+<font color="#FFFF00">Bleib weg, bleib weg.</font>
+<font color="#FFFF00">Was hast du denn mit mir vor?</font>
+
+230
+00:14:28,640 --> 00:14:31,600
+<font color="#FFFFFF">Ui, schau mal,</font>
+<font color="#FFFFFF">die reizenden Papageien.</font>
+
+231
+00:14:33,240 --> 00:14:35,400
+<font color="#FFFFFF">Lora. - Guten Morgen.</font>
+
+232
+00:14:35,480 --> 00:14:39,80
+<font color="#FFFFFF">Lora.</font>
+<font color="#FFFF00">- Guten Abend.</font>
+
+233
+00:14:40,280 --> 00:14:42,360
+<font color="#FFFFFF">Nein. - Hast du das gehört?</font>
+
+234
+00:14:42,440 --> 00:14:44,280
+<font color="#FFFFFF">Ja, nett.</font>
+
+235
+00:14:44,920 --> 00:14:47,440
+<font color="#FFFF00">Du, ich beiß dich gleich in den Fuß.</font>
+
+236
+00:14:47,640 --> 00:14:51,640
+<font color="#FFFFFF">"Ich beiß dich gleich in den Fuß."</font>
+<font color="#FFFFFF">Das kannst du doch gar nicht.</font>
+
+237
+00:14:51,720 --> 00:14:54,200
+<font color="#FFFFFF">Bist doch viel zu weit weg.</font>
+<font color="#FFFFFF">- Au!</font>
+
+238
+00:14:54,280 --> 00:14:56,720
+<font color="#FFFFFF">Was hast du denn?</font>
+
+239
+00:14:56,800 --> 00:14:59,960
+<font color="#FFFFFF">Er hat mich doch gebissen.</font>
+<font color="#FFFFFF">- Geh. Das ist unmöglich.</font>
+
+240
+00:15:00,40 --> 00:15:03,120
+<font color="#FFFFFF">Ein Vogel, der da oben sitzt,</font>
+<font color="#FFFFFF">kann dich doch nicht</font>
+
+241
+00:15:03,200 --> 00:15:06,680
+<font color="#FFFFFF">da unten in den Fuß beißen.</font>
+<font color="#FFFFFF">- Er hat mich aber gebissen.</font>
+
+242
+00:15:06,760 --> 00:15:10,00
+<font color="#FFFFFF">Du weißt doch,</font>
+<font color="#FFFFFF">ich kann es nicht leiden,</font>
+
+243
+00:15:10,80 --> 00:15:12,360
+<font color="#FFFFFF">wenn deine Fantasie</font>
+<font color="#FFFFFF">mit dir durchgeht.</font>
+
+244
+00:15:12,440 --> 00:15:14,720
+<font color="#FFFFFF">Ich weiß nicht,</font>
+<font color="#FFFFFF">wie er es gemacht hat.</font>
+
+245
+00:15:14,800 --> 00:15:17,80
+<font color="#FFFFFF">Aber er hat mich gebissen.</font>
+<font color="#FFFF00">- Hihihi.</font>
+
+246
+00:15:17,160 --> 00:15:20,760
+<font color="#FFFFFF">Lachen tut er auch noch.</font>
+<font color="#FFFFFF">- Kann ich Ihnen helfen?</font>
+
+247
+00:15:20,840 --> 00:15:24,240
+<font color="#FFFFFF">Ja. Der Papagei hat mich</font>
+<font color="#FFFFFF">in den Fuß gebissen.</font>
+
+248
+00:15:24,320 --> 00:15:26,840
+<font color="#FFFFFF">Wie sind Sie</font>
+<font color="#FFFFFF">mit dem Fuß da raufgekommen?</font>
+
+249
+00:15:27,40 --> 00:15:28,840
+<font color="#FFFFFF">Meine Schwägerin ...</font>
+
+250
+00:15:28,920 --> 00:15:32,440
+<font color="#FFFFFF">Und gesagt hat er:</font>
+<font color="#FFFFFF">"Ich beiß dich in den Fuß."</font>
+
+251
+00:15:32,640 --> 00:15:34,200
+<font color="#FFFFFF">Der Gutaussehende? - Ja.</font>
+
+252
+00:15:34,400 --> 00:15:37,560
+<font color="#FFFFFF">Der kann gar nicht reden.</font>
+<font color="#FFFFFF">- Das hab ich auch gehört.</font>
+
+253
+00:15:37,760 --> 00:15:41,720
+<font color="#FFFFFF">Sie sind ja auch die Schwägerin</font>
+<font color="#FFFFFF">der Dame mit der vielen Fantasie.</font>
+
+254
+00:15:41,800 --> 00:15:46,840
+<font color="#FFFFFF">Unterlassen Sie die Bemerkungen.</font>
+<font color="#FFFFFF">Aber sagen Sie: Lachen kann er doch.</font>
+
+255
+00:15:46,920 --> 00:15:49,440
+<font color="#FFFFFF">Kommt ganz drauf an,</font>
+<font color="#FFFFFF">wer vor ihm steht.</font>
+
+256
+00:15:49,640 --> 00:15:52,560
+<font color="#FFFFFF">Ich verbitte mir</font>
+<font color="#FFFFFF">diese Anzüglichkeiten.</font>
+
+257
+00:15:52,640 --> 00:15:54,760
+<font color="#FFFF00">Auf Wiedersehen.</font>
+
+258
+00:15:56,00 --> 00:15:58,720
+<font color="#FFFF00">Da staunst du, was?</font>
+
+259
+00:16:17,240 --> 00:16:19,240
+<font color="#00FFFF">Pumuckl.</font>
+
+260
+00:16:27,200 --> 00:16:30,00
+<font color="#FFFFFF">* Pumuckl singt. *</font>
+
+261
+00:16:34,960 --> 00:16:36,960
+<font color="#FFFF00">So, danke, jetzt genügt's.</font>
+
+262
+00:16:37,40 --> 00:16:39,80
+<font color="#FFFF00">Danke, vielen Dank.</font>
+
+263
+00:16:40,480 --> 00:16:42,800
+<font color="#FFFF00">Danke, auf Wiedersehen.</font>
+
+264
+00:16:44,00 --> 00:16:46,40
+<font color="#FFFF00">Aua! Blöde Sau.</font>
+
+265
+00:16:46,240 --> 00:16:48,840
+<font color="#00FFFF">Pumuckl, sag was, wenn du da bist.</font>
+
+266
+00:16:48,920 --> 00:16:52,160
+<font color="#00FFFF">Komm, lass es mich wissen.</font>
+<font color="#00FFFF">Ich muss ja ...</font>
+
+267
+00:16:52,240 --> 00:16:55,240
+<font color="#FFFFFF">Hey. Sie sind ja schon wieder da.</font>
+<font color="#00FFFF">- Grüß Gott.</font>
+
+268
+00:16:55,320 --> 00:16:58,40
+<font color="#00FFFF">Sie sind auch schon wieder da.</font>
+<font color="#FFFFFF">- Natürlich.</font>
+
+269
+00:16:58,120 --> 00:17:01,560
+<font color="#00FFFF">Ich wollte nur wissen,</font>
+<font color="#00FFFF">ob die Ponys noch alle da sind.</font>
+
+270
+00:17:01,640 --> 00:17:04,80
+<font color="#FFFFFF">Die werden von mir</font>
+<font color="#FFFFFF">jeden Abend gezählt.</font>
+
+271
+00:17:04,160 --> 00:17:08,280
+<font color="#00FFFF">Das ist schön. </font>
+<font color="#FFFFFF">- Machen Sie bitte,</font>
+<font color="#FFFFFF">dass Sie aus dem Gehege kommen.</font>
+
+272
+00:17:08,360 --> 00:17:10,920
+<font color="#00FFFF">Könnten Sie mal bissl weggehen?</font>
+<font color="#FFFFFF">- Warum?</font>
+
+273
+00:17:11,00 --> 00:17:14,200
+<font color="#00FFFF">Ich such was und das kann ich</font>
+<font color="#00FFFF">nur finden, wenn ...</font>
+
+274
+00:17:14,280 --> 00:17:17,720
+<font color="#FFFFFF">Wenn ich was finde ...</font>
+<font color="#FFFFFF">Sagen Sie mir doch, was es ist.</font>
+
+275
+00:17:17,800 --> 00:17:20,880
+<font color="#00FFFF">Das verstehen Sie nicht.</font>
+<font color="#00FFFF">Sie finden es auch nicht.</font>
+
+276
+00:17:20,960 --> 00:17:23,640
+<font color="#00FFFF">Das ist mir fast peinlich, aber ...</font>
+<font color="#00FFFF">Pumuckl!</font>
+
+277
+00:17:23,720 --> 00:17:26,760
+<font color="#FFFFFF">Was? Keine Beleidigung.</font>
+<font color="#00FFFF">- Nein, entschuldigen Sie.</font>
+
+278
+00:17:26,840 --> 00:17:29,880
+<font color="#00FFFF">Ich geh schon. Wenn Sie</font>
+<font color="#00FFFF">was finden, sagen Sie es.</font>
+
+279
+00:17:29,960 --> 00:17:32,960
+<font color="#00FFFF">Pumuckl!</font>
+<font color="#00FFFF">Wenn du da bist, kommst du mit.</font>
+
+280
+00:17:33,520 --> 00:17:36,520
+<font color="#00FFFF">Pumuckl, komm mit.</font>
+<font color="#FFFFFF">- Ich komm nicht mit.</font>
+
+281
+00:17:37,520 --> 00:17:42,00
+<font color="#FFFF00">So, da bin ich wieder,</font>
+<font color="#FFFF00">ihr lieben kleinen Vieleschweinchen.</font>
+
+282
+00:17:42,80 --> 00:17:46,320
+<font color="#FFFF00">Jetzt komm ich zu euch.</font>
+<font color="#FFFF00">Hier ist es nicht so gefährlich.</font>
+
+283
+00:17:46,400 --> 00:17:48,240
+<font color="#FFFF00">So.</font>
+
+284
+00:17:48,320 --> 00:17:51,480
+<font color="#FFFF00">Kannst du mal deinen Hintern</font>
+<font color="#FFFF00">da wegnehmen?</font>
+
+285
+00:17:51,560 --> 00:17:54,880
+<font color="#FFFF00">Danke. Jetzt machen wir</font>
+<font color="#FFFF00">es uns gemütlich.</font>
+
+286
+00:17:54,960 --> 00:17:58,80
+<font color="#FFFF00">Oh, oh, oh. Hilfe, ich werde</font>
+<font color="#FFFF00">sichtbar, ich spür's.</font>
+
+287
+00:17:58,320 --> 00:18:00,880
+<font color="#FFFF00">Hilfe! Ich bin sichtbar.</font>
+
+288
+00:18:06,320 --> 00:18:08,520
+<font color="#FFFF00">Ich darf doch nicht sichtbar sein.</font>
+
+289
+00:18:08,600 --> 00:18:12,600
+<font color="#FFFF00">Wenn mich ein Mensch sieht,</font>
+<font color="#FFFF00">muss ich bei ihm bleiben.</font>
+
+290
+00:18:13,200 --> 00:18:15,680
+<font color="#FFFF00">Wo bleibt denn der Meister Eder?</font>
+
+291
+00:18:16,800 --> 00:18:20,200
+<font color="#FFFF00">Immer, wenn man ihn braucht,</font>
+<font color="#FFFF00">ist er nicht da.</font>
+
+292
+00:18:25,800 --> 00:18:28,960
+<font color="#FFFF00">Oh, da ist er.</font>
+<font color="#FFFF00">Hallo! Meister Eder! Hallo!</font>
+
+293
+00:18:30,440 --> 00:18:33,80
+<font color="#FFFF00">Da bin ich! Hier! Hallo!</font>
+
+294
+00:18:35,400 --> 00:18:38,720
+<font color="#FFFF00">Er sieht mich. Ja, hier! Nein! Hier!</font>
+
+295
+00:18:38,800 --> 00:18:40,720
+<font color="#FFFF00">Hilfe! Hilfe!</font>
+
+296
+00:18:41,480 --> 00:18:43,600
+<font color="#FFFF00">Hier bin ich doch!</font>
+
+297
+00:18:45,320 --> 00:18:47,960
+<font color="#FFFFFF">Siehst du? Nett, gell?</font>
+
+298
+00:18:51,960 --> 00:18:53,800
+<font color="#00FFFF">Pumuckl.</font>
+
+299
+00:18:53,880 --> 00:18:57,760
+<font color="#FFFFFF">Sind sie nicht doch nett?</font>
+<font color="#FFFFFF">Schau mal, den da.</font>
+
+300
+00:18:58,240 --> 00:19:02,760
+<font color="#FFFFFF">Na ja. Im Sitzen sind sie ja</font>
+<font color="#FFFFFF">noch erträglich. Aber sonst ...</font>
+
+301
+00:19:04,960 --> 00:19:07,200
+<font color="#00FFFF">Grüß Gott. Sind Sie schon länger da?</font>
+
+302
+00:19:07,280 --> 00:19:10,200
+<font color="#FFFFFF">Nein, wir sind auch</font>
+<font color="#FFFFFF">erst grad gekommen.</font>
+
+303
+00:19:10,280 --> 00:19:13,520
+<font color="#00FFFF">Sie gehen auch</font>
+<font color="#00FFFF">nicht so schnell wieder weg?</font>
+
+304
+00:19:13,600 --> 00:19:16,200
+<font color="#FFFFFF">Anwachsen wollen wir hier</font>
+<font color="#FFFFFF">bestimmt nicht.</font>
+
+305
+00:19:16,280 --> 00:19:20,200
+<font color="#00FFFF">Die Affen sind ja nix Besonderes.</font>
+<font color="#00FFFF">Die sind ja nicht so schön.</font>
+
+306
+00:19:20,280 --> 00:19:22,40
+<font color="#FFFFFF">Hörst du?</font>
+
+307
+00:19:22,120 --> 00:19:26,120
+<font color="#00FFFF">Sie müssen mal zu den Papageien</font>
+<font color="#00FFFF">gehen, die sind originell.</font>
+
+308
+00:19:26,200 --> 00:19:29,520
+<font color="#FFFFFF">Nein, nein. Hören Sie mir bloß</font>
+<font color="#FFFFFF">mit den Papageien auf.</font>
+
+309
+00:19:29,600 --> 00:19:32,560
+<font color="#FFFFFF">Stellen Sie sich vor,</font>
+<font color="#FFFFFF">was der zu mir gesagt hat.</font>
+
+310
+00:19:32,640 --> 00:19:36,800
+<font color="#00FFFF">Frau Bernbacher, grüß Gott.</font>
+<font color="#FFFFFF">- Herr Eder, so ein Zufall.</font>
+
+311
+00:19:36,880 --> 00:19:39,720
+<font color="#00FFFF">Ich hätt Sie gar nicht</font>
+<font color="#00FFFF">gekannt mit dem Hut.</font>
+
+312
+00:19:39,800 --> 00:19:42,720
+<font color="#FFFFFF">So ein Zufall.</font>
+<font color="#00FFFF">- Was hat der Papagei gesagt?</font>
+
+313
+00:19:42,800 --> 00:19:47,560
+<font color="#FFFFFF">Der hat gesagt: "Ich beiß dich</font>
+<font color="#FFFFFF">gleich in den Fuß. Hihihihi."</font>
+
+314
+00:19:47,640 --> 00:19:50,280
+<font color="#FFFFFF">Hilde. </font>
+<font color="#00FFFF">- Hat der gesagt?</font>
+<font color="#FFFFFF">- Ja.</font>
+
+315
+00:19:50,360 --> 00:19:55,00
+<font color="#00FFFF">Dann weiß ich ja, wo ich ihn find.</font>
+<font color="#00FFFF">Ich mein, wo ich jetzt hingehe.</font>
+
+316
+00:19:55,80 --> 00:19:58,320
+<font color="#00FFFF">Entschuldigen Sie mich.</font>
+<font color="#00FFFF">Also dann, auf Wiedersehen.</font>
+
+317
+00:19:58,400 --> 00:20:02,480
+<font color="#FFFFFF">Wiedersehen. Wiederschauen.</font>
+<font color="#FFFFFF">- Ist das ein netter Herr.</font>
+
+318
+00:20:02,560 --> 00:20:06,520
+<font color="#FFFFFF">Na ja. Das ist ja auch der Freund</font>
+<font color="#FFFFFF">von meinem Mann. - So.</font>
+
+319
+00:20:06,600 --> 00:20:08,120
+<font color="#FFFFFF">Ja.</font>
+
+320
+00:20:08,320 --> 00:20:12,680
+<font color="#FFFF00">Hoffentlich sieht mich hier niemand,</font>
+<font color="#FFFF00">sonst muss ich mit dem mitgehen</font>
+
+321
+00:20:12,760 --> 00:20:17,600
+<font color="#FFFF00">und muss bei dem bleiben und</font>
+<font color="#FFFF00">kann nie wieder zum Meister Eder.</font>
+
+322
+00:20:17,680 --> 00:20:20,280
+<font color="#FFFF00">Uah! Geh doch weg.</font>
+
+323
+00:20:21,760 --> 00:20:23,760
+<font color="#FFFF00">Lass mich los!</font>
+
+324
+00:20:24,200 --> 00:20:26,520
+<font color="#FFFFFF">Schau, die schauen wir uns an.</font>
+
+325
+00:20:31,800 --> 00:20:35,880
+<font color="#FFFFFF">(Kind) Was ist denn da oben?</font>
+<font color="#FFFFFF">- Auch Meerschweinchen. Schau.</font>
+
+326
+00:20:35,960 --> 00:20:38,600
+<font color="#FFFFFF">Sind die lieb.</font>
+<font color="#FFFFFF">- Wie viele sind denn das?</font>
+
+327
+00:20:38,680 --> 00:20:40,960
+<font color="#FFFFFF">Das gepünkelte gefällt mir so gut.</font>
+
+328
+00:20:41,40 --> 00:20:44,120
+<font color="#FFFFFF">Das hat ein besonders</font>
+<font color="#FFFFFF">schönes Pünktchen, gell?</font>
+
+329
+00:20:44,200 --> 00:20:47,960
+<font color="#FFFFFF">Ja. Wie viele sind denn das?</font>
+<font color="#FFFFFF">- Das weiß ich nicht.</font>
+
+330
+00:20:48,40 --> 00:20:50,40
+<font color="#FFFFFF">Wie viele werden das sein?</font>
+
+331
+00:20:52,120 --> 00:20:55,920
+<font color="#FFFFFF">Müssen wir mal zählen.</font>
+<font color="#FFFFFF">Gehen wir mal da rum.</font>
+
+332
+00:20:56,00 --> 00:20:59,00
+<font color="#FFFFFF">Nein, das kannst du</font>
+<font color="#FFFFFF">von hier auch sehen.</font>
+
+333
+00:20:59,80 --> 00:21:01,280
+<font color="#FFFFFF">Also, das gefleckte da hinten.</font>
+
+334
+00:21:01,360 --> 00:21:06,280
+<font color="#FFFFFF">Eins, zwei, drei, das schwarze.</font>
+
+335
+00:21:06,360 --> 00:21:08,360
+<font color="#FFFFFF">Vier.</font>
+
+336
+00:21:12,240 --> 00:21:14,200
+<font color="#00FFFF">Pumuckl.</font>
+
+337
+00:21:14,280 --> 00:21:16,160
+<font color="#FFFFFF">* Der Papagei schreit. *</font>
+
+338
+00:21:16,360 --> 00:21:18,80
+<font color="#00FFFF">Pumuckl.</font>
+
+339
+00:21:19,40 --> 00:21:21,280
+<font color="#00FFFF">Pumuckl, ich geh allein heim.</font>
+
+340
+00:21:29,880 --> 00:21:33,80
+<font color="#00FFFF">Jetzt kann er nur noch</font>
+<font color="#00FFFF">bei den Meerschweinchen sein.</font>
+
+341
+00:21:33,280 --> 00:21:35,680
+<font color="#FFFFFF">15. - Schau, wer kommt denn da?</font>
+
+342
+00:21:35,760 --> 00:21:37,880
+<font color="#FFFFFF">Die fressen Kohl.</font>
+
+343
+00:21:38,880 --> 00:21:40,920
+<font color="#FFFFFF">16, 17 ...</font>
+<font color="#00FFFF">- Grüß Gott.</font>
+
+344
+00:21:41,00 --> 00:21:42,800
+<font color="#FFFFFF">Grüß Gott.</font>
+
+345
+00:21:42,880 --> 00:21:46,720
+<font color="#FFFFFF">Schau mal das da im Trog an.</font>
+<font color="#00FFFF">- Die sind nett, gell?</font>
+
+346
+00:21:46,800 --> 00:21:50,320
+<font color="#00FFFF">Aber die da unten sind auch</font>
+<font color="#00FFFF">recht nett. Die schlafen da.</font>
+
+347
+00:21:50,400 --> 00:21:51,400
+<font color="#FFFFFF">Die?</font>
+<font color="#00FFFF">- Ja.</font>
+
+348
+00:21:51,480 --> 00:21:54,800
+<font color="#FFFFFF">Da sind noch mal drei.</font>
+<font color="#00FFFF">- Nein, vier sind es.</font>
+
+349
+00:21:54,880 --> 00:21:58,960
+<font color="#FFFFFF">Vier sind es. Die da oben</font>
+<font color="#FFFFFF">sind viel schöner, find ich.</font>
+
+350
+00:21:59,40 --> 00:22:03,520
+<font color="#00FFFF">Aber die Affen sind noch schöner.</font>
+<font color="#FFFFFF">- Die mag die Inge nicht.</font>
+
+351
+00:22:03,600 --> 00:22:06,520
+<font color="#00FFFF">Und der Papagei,</font>
+<font color="#00FFFF">der immer "Lora" sagt?</font>
+
+352
+00:22:06,600 --> 00:22:09,280
+<font color="#FFFFFF">Ja, den schauen wir uns nachher an.</font>
+
+353
+00:22:09,360 --> 00:22:13,440
+<font color="#00FFFF">Ich hab sie schon gezählt.</font>
+<font color="#00FFFF">Es sind 28 Meerschweinchen.</font>
+
+354
+00:22:13,520 --> 00:22:15,680
+<font color="#FFFFFF">28? - Wann gehen wir wieder?</font>
+
+355
+00:22:15,760 --> 00:22:19,760
+<font color="#FFFFFF">Du hast noch gar nicht richtig</font>
+<font color="#FFFFFF">geschaut. Schau, die beim Kohl.</font>
+
+356
+00:22:19,840 --> 00:22:22,240
+<font color="#FFFFFF">Mami. - Na gut, dann gehen wir.</font>
+
+357
+00:22:22,320 --> 00:22:25,720
+<font color="#FFFFFF">Also dann.</font>
+<font color="#00FFFF">- Wiederschauen. Schönen Tag noch.</font>
+
+358
+00:22:25,800 --> 00:22:29,440
+<font color="#FFFFFF">Danke schön. Komm, Inge.</font>
+<font color="#00FFFF">- Wie kommst du da überhaupt rein?</font>
+
+359
+00:22:29,520 --> 00:22:32,320
+<font color="#FFFF00">Mach mich schnell los,</font>
+<font color="#FFFF00">ich bin doch sichtbar.</font>
+
+360
+00:22:32,400 --> 00:22:35,400
+<font color="#FFFF00">Schnell, mach auf,</font>
+<font color="#FFFF00">ich häng da draußen irgendwo.</font>
+
+361
+00:22:35,480 --> 00:22:38,840
+<font color="#00FFFF">Um Gottes willen.</font>
+<font color="#00FFFF">Jetzt komm raus da.</font>
+
+362
+00:22:39,120 --> 00:22:41,40
+<font color="#FFFF00">Da macht man was mit. Huiuiui.</font>
+
+363
+00:22:41,120 --> 00:22:43,880
+<font color="#FFFF00">Da bleib ich lieber</font>
+<font color="#FFFF00">bei dir auf der Schulter,</font>
+
+364
+00:22:43,960 --> 00:22:45,960
+<font color="#FFFF00">als bei diesen Vieleschweinchen.</font>
+
+365
+00:22:46,40 --> 00:22:48,760
+<font color="#00FFFF">Ich glaub auch.</font>
+<font color="#00FFFF">Du hast wieder nicht gefolgt.</font>
+
+366
+00:22:48,840 --> 00:22:52,400
+<font color="#FFFF00">Doch, ich hab gefragt.</font>
+<font color="#00FFFF">- Geh zu. Ich hab nix gehört.</font>
+
+367
+00:22:54,160 --> 00:22:58,560
+<font color="#FFFF00">Huiuiui. Da macht man ganz schön</font>
+<font color="#FFFF00">was mit. </font>
+<font color="#00FFFF">- Das kann man wohl sagen.</font>
+
+368
+00:22:58,640 --> 00:23:02,160
+<font color="#FFFF00">Ich bin aber sehr froh,</font>
+<font color="#FFFF00">dass du doch noch gekommen bist.</font>
+
+369
+00:23:02,240 --> 00:23:05,280
+<font color="#FFFF00">Ich hab ja gezittert.</font>
+<font color="#00FFFF">- Das geschieht dir recht.</font>
+
+370
+00:23:05,360 --> 00:23:07,680
+<font color="#00FFFF">Das kommt davon,</font>
+<font color="#00FFFF">weil du nicht folgst.</font>
+
+371
+00:23:07,760 --> 00:23:10,880
+<font color="#FFFF00">Jetzt ist es wieder vorbei.</font>
+<font color="#FFFF00">Was machen wir jetzt?</font>
+
+372
+00:23:10,960 --> 00:23:13,480
+<font color="#00FFFF">Jetzt gehen wir heim,</font>
+<font color="#00FFFF">und zwar sofort.</font>
+
+373
+00:23:13,560 --> 00:23:16,40
+<font color="#FFFF00">Jetzt gehen wir schon heim?</font>
+<font color="#00FFFF">- Ja.</font>
+
+374
+00:23:16,120 --> 00:23:19,80
+<font color="#FFFF00">Aber dann nehmen wir</font>
+<font color="#FFFF00">so einen schönen Vogel mit.</font>
+
+375
+00:23:19,160 --> 00:23:21,560
+<font color="#00FFFF">Geh, was willst du denn</font>
+<font color="#00FFFF">mit dem Vogel?</font>
+
+376
+00:23:21,640 --> 00:23:23,720
+<font color="#FFFF00">So einen mit einem Frühstücksei.</font>
+
+377
+00:23:23,800 --> 00:23:27,80
+<font color="#FFFF00">Oder ein Elefant, der eine</font>
+<font color="#FFFF00">Einkaufstüte am Bauch hat.</font>
+
+378
+00:23:27,160 --> 00:23:30,160
+<font color="#FFFF00">Oder so ein Känguru</font>
+<font color="#FFFF00">mit einem langen Rüssel.</font>
+
+379
+00:23:30,240 --> 00:23:32,560
+<font color="#FFFF00">Oder so einen Rosa-Popo-Affen.</font>
+
+380
+00:23:32,640 --> 00:23:36,560
+<font color="#00FFFF">Nein, komm. Wo sollen wir denn</font>
+<font color="#00FFFF">damit hin in der Werkstatt?</font>
+
+381
+00:23:36,640 --> 00:23:38,680
+<font color="#00FFFF">Da haben wir doch keinen Platz.</font>
+
+382
+00:23:38,760 --> 00:23:41,480
+<font color="#FFFF00">Wenn wir keinen Platz</font>
+<font color="#FFFF00">in der Werkstatt haben,</font>
+
+383
+00:23:41,560 --> 00:23:44,760
+<font color="#FFFF00">tragen wir die Werkstatt</font>
+<font color="#FFFF00">einfach hier in den Zoo.</font>
+
+384
+00:23:44,840 --> 00:23:48,80
+<font color="#FFFF00">Da ist Platz genug.</font>
+<font color="#FFFF00">Dann sind alle Tiere bei uns.</font>
+
+385
+00:23:48,160 --> 00:23:50,400
+<font color="#FFFF00">Das wird schön.</font>
+<font color="#00FFFF">- Wunderschön.</font>
+
+386
+00:23:58,200 --> 00:24:00,200
+<font color="#FFFFFF">Untertitelung: BR 2020</font>
+
