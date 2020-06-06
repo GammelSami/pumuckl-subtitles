@@ -1,0 +1,1603 @@
+1
+00:00:00,00 --> 00:00:00,400
+<font color="#FFFFFF">.</font>
+
+2
+00:00:00,480 --> 00:00:01,480
+<font color="#FFFFFF">(Titelmusik)</font>
+
+3
+00:00:01,560 --> 00:00:05,00
+<font color="#FFFF00">Pumuckl neckt, Pumuckl versteckt</font>
+<font color="#FFFF00">und niemand was meckt.</font>
+
+4
+00:00:05,80 --> 00:00:08,160
+<font color="#FFFF00">Oh, das reimt sich ja.</font>
+<font color="#FFFF00">Und was sich reimt, ist gut!</font>
+
+5
+00:00:08,240 --> 00:00:11,320
+<font color="#FFFFFF">♪ Hurra, hurra,</font>
+<font color="#FFFFFF">der Kobold mit dem roten Haar,</font>
+
+6
+00:00:11,400 --> 00:00:15,400
+<font color="#FFFFFF">♪ hurra, hurra, der Pumuckl ist da!</font>
+
+7
+00:00:15,600 --> 00:00:19,80
+<font color="#FFFF00">♪ Hurra, hurra,</font>
+<font color="#FFFF00">der Kobold mit dem roten Haar,</font>
+
+8
+00:00:19,160 --> 00:00:23,80
+<font color="#FFFF00">♪ hurra, hurra, der Pumuckl ist da!</font>
+
+9
+00:00:23,440 --> 00:00:27,360
+<font color="#FFFFFF">♪ Am liebsten macht er Schabernack,</font>
+<font color="#FFFFFF">Leute ärgern nicht zu knapp.</font>
+
+10
+00:00:27,440 --> 00:00:31,440
+<font color="#FFFFFF">♪ Schwupp, schon ist die Feile weg.</font>
+<font color="#FFFFFF">Wer hat die wohl wegversteckt?</font>
+
+11
+00:00:31,520 --> 00:00:35,00
+<font color="#FFFF00">♪ Hurra, hurra,</font>
+<font color="#FFFF00">der Kobold mit dem roten Haar,</font>
+
+12
+00:00:35,80 --> 00:00:39,200
+<font color="#FFFF00">♪ hurra, hurra, der Pumuckl ist da!</font>
+
+13
+00:00:41,800 --> 00:00:43,640
+<font color="#FFFF00">Bäh, bäh, bäh, bäh!</font>
+
+14
+00:00:43,720 --> 00:00:46,400
+<font color="#FFFF00">Bäh, bäh, bäh, bäh, bäh, bäh!</font>
+
+15
+00:00:47,480 --> 00:00:51,00
+<font color="#FFFF00">Quak, quak, quak, quak,</font>
+<font color="#FFFF00">quak, quak, quak, quak!</font>
+
+16
+00:00:51,80 --> 00:00:54,560
+<font color="#FFFF00">Gack, gack, gack, gack,</font>
+<font color="#FFFF00">gack, gack, gack gack!</font>
+
+17
+00:00:55,720 --> 00:00:57,720
+<font color="#FFFFFF">Untertitelung: BR 2020</font>
+
+18
+00:01:10,640 --> 00:01:16,920
+<font color="#FFFF00">Außerdem bringt Besuch, vor allem</font>
+<font color="#FFFF00">Nichten und Tanten, nur Probleme.</font>
+
+19
+00:01:17,00 --> 00:01:20,80
+<font color="#FFFF00">Dann darf man wieder nicht merken,</font>
+<font color="#FFFF00">dass ich da bin.</font>
+
+20
+00:01:20,160 --> 00:01:23,560
+<font color="#FFFF00">Dann muss mein Bettchen weg</font>
+<font color="#FFFF00">und meine Schaukel.</font>
+
+21
+00:01:23,640 --> 00:01:26,480
+<font color="#FFFF00">Die bringen alles durcheinander.</font>
+
+22
+00:01:26,680 --> 00:01:29,160
+<font color="#00FFFF">Was sollen die denn</font>
+<font color="#00FFFF">durcheinanderbringen?</font>
+
+23
+00:01:29,240 --> 00:01:33,360
+<font color="#FFFF00">Alles. Das kenn ich schon,</font>
+<font color="#FFFF00">bei Mädchen ganz besonders.</font>
+
+24
+00:01:33,440 --> 00:01:35,680
+<font color="#00FFFF">Du darfst dich da</font>
+<font color="#00FFFF">nicht reinsteigern.</font>
+
+25
+00:01:35,760 --> 00:01:40,280
+<font color="#00FFFF">Die Bärbel ist eine zauberhafte,</font>
+<font color="#00FFFF">kleine Person mit blonden Locken.</font>
+
+26
+00:01:40,480 --> 00:01:44,640
+<font color="#FFFF00">Was, Locken?</font>
+<font color="#FFFF00">Locken können mich nicht locken.</font>
+
+27
+00:01:44,840 --> 00:01:46,800
+<font color="#00FFFF">Locken hat sie nicht.</font>
+
+28
+00:01:46,880 --> 00:01:49,720
+<font color="#00FFFF">Sie hat lange blonde Haare,</font>
+<font color="#00FFFF">schöne blaue Augen.</font>
+
+29
+00:01:49,920 --> 00:01:52,840
+<font color="#FFFF00">Ich find schwarze Augen</font>
+<font color="#FFFF00">viel schöner.</font>
+
+30
+00:01:53,40 --> 00:01:56,200
+<font color="#00FFFF">Außerdem ist sie</font>
+<font color="#00FFFF">so ein gescheites Mädel.</font>
+
+31
+00:01:56,280 --> 00:02:01,520
+<font color="#FFFF00">Was? Blond, blau und gescheit?</font>
+<font color="#FFFF00">Das ist ja zu dumm.</font>
+
+32
+00:02:01,720 --> 00:02:05,480
+<font color="#00FFFF">Außerdem hab ich</font>
+<font color="#00FFFF">meine Schwester und die Bärbel</font>
+
+33
+00:02:05,560 --> 00:02:08,80
+<font color="#00FFFF">schon ewig nimmer gesehen.</font>
+
+34
+00:02:08,160 --> 00:02:10,840
+<font color="#00FFFF">Sie bleiben ja nur eine Nacht.</font>
+
+35
+00:02:10,920 --> 00:02:14,400
+<font color="#00FFFF">Das wirst du schon ertragen</font>
+<font color="#00FFFF">und dich anständig aufführen.</font>
+
+36
+00:02:14,600 --> 00:02:16,640
+<font color="#FFFF00">Oh ja, aufführen.</font>
+
+37
+00:02:16,840 --> 00:02:20,360
+<font color="#00FFFF">Ich hör nix, spür nix</font>
+<font color="#00FFFF">und merk nix von dir, basta.</font>
+
+38
+00:02:20,440 --> 00:02:24,640
+<font color="#FFFF00">Das "basta" mir eben nicht,</font>
+<font color="#FFFF00">weil dann können wir nicht reden.</font>
+
+39
+00:02:24,720 --> 00:02:26,720
+<font color="#FFFF00">Aber bitte, lass sie nur kommen.</font>
+
+40
+00:02:26,800 --> 00:02:30,760
+<font color="#FFFF00">Du wirst schon sehen, was ich werde.</font>
+<font color="#00FFFF">- Was denn?</font>
+
+41
+00:02:30,840 --> 00:02:33,960
+<font color="#FFFF00">Das weiß ich noch nicht,</font>
+<font color="#FFFF00">aber ich werde ...</font>
+
+42
+00:02:34,40 --> 00:02:37,320
+<font color="#00FFFF">Ich werde jetzt meine Schwester</font>
+<font color="#00FFFF">und die Bärbel abholen</font>
+
+43
+00:02:37,400 --> 00:02:39,760
+<font color="#00FFFF">und du wirst</font>
+<font color="#00FFFF">in die Werkstatt gehen ...</font>
+
+44
+00:02:39,840 --> 00:02:42,440
+<font color="#FFFF00">Nein, ich "wirst"</font>
+<font color="#FFFF00">auf den Kuchen aufpassen.</font>
+
+45
+00:02:42,520 --> 00:02:46,160
+<font color="#00FFFF">Da gibt's nix zum Aufpassen.</font>
+<font color="#00FFFF">Ab in die Werkstatt.</font>
+
+46
+00:02:47,720 --> 00:02:49,720
+<font color="#FFFFFF">(Bärbel) Ganz allein?</font>
+
+47
+00:02:49,800 --> 00:02:53,480
+<font color="#00FFFF">Dahinten wohn ich</font>
+<font color="#00FFFF">und da vorn wohnen noch andere.</font>
+
+48
+00:02:53,560 --> 00:02:55,680
+<font color="#00FFFF">Aber manchmal ist es unpraktisch.</font>
+
+49
+00:02:55,760 --> 00:03:00,80
+<font color="#00FFFF">Wenn Feierabend ist, kommen sie</font>
+<font color="#00FFFF">mit einem kaputten Stuhl oder so</font>
+
+50
+00:03:00,160 --> 00:03:02,200
+<font color="#00FFFF">und den soll ich dann reparieren.</font>
+
+51
+00:03:02,280 --> 00:03:04,960
+<font color="#00FFFF">Aber sonst wohnt man</font>
+<font color="#00FFFF">schön und ruhig.</font>
+
+52
+00:03:05,40 --> 00:03:07,680
+<font color="#00FFFF">Da kann ich mich nicht beschweren.</font>
+
+53
+00:03:07,760 --> 00:03:09,760
+<font color="#00FFFF">Kommt rein.</font>
+
+54
+00:03:09,840 --> 00:03:13,280
+<font color="#FFFFFF">Jedes Mal, wenn wir</font>
+<font color="#FFFFFF">nach München kommen, regnet's.</font>
+
+55
+00:03:13,360 --> 00:03:15,760
+<font color="#FFFFFF">Bin ich froh, dass wir da sind.</font>
+
+56
+00:03:15,840 --> 00:03:18,800
+<font color="#FFFFFF">Das Zugfahren</font>
+<font color="#FFFFFF">ist immer eine Strapaze.</font>
+
+57
+00:03:18,880 --> 00:03:22,920
+<font color="#FFFFFF">Schau mal, Mama.</font>
+<font color="#FFFFFF">- Das ist die Werkstatt vom Onkel.</font>
+
+58
+00:03:23,00 --> 00:03:25,00
+<font color="#00FFFF">Geh nur rein.</font>
+
+59
+00:03:25,80 --> 00:03:27,680
+<font color="#FFFFFF">Gell, daran kannst du</font>
+<font color="#FFFFFF">dich nimmer erinnern?</font>
+
+60
+00:03:27,760 --> 00:03:29,760
+<font color="#FFFFFF">Da warst du noch zu klein.</font>
+
+61
+00:03:29,840 --> 00:03:32,400
+<font color="#FFFFFF">Den Schirm</font>
+<font color="#FFFFFF">können wir hier aufspannen.</font>
+
+62
+00:03:32,480 --> 00:03:36,480
+<font color="#FFFFFF">Gibst du mir deinen auch?</font>
+<font color="#FFFFFF">Mei, ist der nass.</font>
+
+63
+00:03:37,320 --> 00:03:39,320
+<font color="#FFFFFF">Was ist denn das?</font>
+
+64
+00:03:39,400 --> 00:03:45,480
+<font color="#00FFFF">Das ist der Spiegel von</font>
+<font color="#00FFFF">der Lachkabine von der Auer Dult.</font>
+
+65
+00:03:45,680 --> 00:03:49,960
+<font color="#FFFFFF">Nicht reinlangen, man muss nicht</font>
+<font color="#FFFFFF">alles mit den Fingern anschauen.</font>
+
+66
+00:03:50,40 --> 00:03:53,360
+<font color="#00FFFF">Das hat unsere Mama</font>
+<font color="#00FFFF">zu dir auch immer gesagt.</font>
+
+67
+00:03:53,840 --> 00:03:55,840
+<font color="#FFFFFF">Schau mal, Mama.</font>
+
+68
+00:03:55,920 --> 00:04:00,120
+<font color="#FFFFFF">Ach, ein Puppenbett.</font>
+<font color="#FFFFFF">Hast du das gemacht? </font>
+<font color="#00FFFF">- Ja.</font>
+
+69
+00:04:00,200 --> 00:04:02,840
+<font color="#FFFFFF">Das ist aber nett.</font>
+<font color="#00FFFF">- Das ist ein Modell.</font>
+
+70
+00:04:02,920 --> 00:04:04,920
+<font color="#FFFFFF">Au!</font>
+<font color="#FFFFFF">- Was hast du denn?</font>
+
+71
+00:04:05,00 --> 00:04:09,640
+<font color="#FFFFFF">Mich hat was gezwickt.</font>
+<font color="#00FFFF">- Schau, eine Schiffschaukel.</font>
+
+72
+00:04:09,720 --> 00:04:14,00
+<font color="#FFFFFF">Machst du jetzt auch Schiffschaukeln?</font>
+<font color="#00FFFF">- Das ist ein Versuch, in klein.</font>
+
+73
+00:04:14,80 --> 00:04:17,680
+<font color="#FFFFFF">Da passt meine Puppe rein.</font>
+<font color="#FFFFFF">Darf die da drin mal schaukeln?</font>
+
+74
+00:04:17,760 --> 00:04:21,960
+<font color="#00FFFF">Selbstverständlich, aber jetzt</font>
+<font color="#00FFFF">gehen wir erst mal Kaffee trinken.</font>
+
+75
+00:04:22,40 --> 00:04:25,640
+<font color="#FFFFFF">Ein Bilderbuch.</font>
+<font color="#FFFFFF">Du wirst auch immer erwachsener.</font>
+
+76
+00:04:27,200 --> 00:04:29,800
+<font color="#FFFFFF">Aaah!</font>
+<font color="#FFFFFF">- Was hast du denn gemacht?</font>
+
+77
+00:04:30,00 --> 00:04:32,160
+<font color="#FFFFFF">Ich kam da überhaupt nicht hin.</font>
+
+78
+00:04:35,120 --> 00:04:37,680
+<font color="#00FFFF">Vorsicht!</font>
+<font color="#FFFFFF">- Aaah!</font>
+
+79
+00:04:39,720 --> 00:04:42,640
+<font color="#00FFFF">Eine Schreinerei</font>
+<font color="#00FFFF">ist ja kein Spielplatz.</font>
+
+80
+00:04:42,720 --> 00:04:46,240
+<font color="#00FFFF">Geht rauf, der Kaffee</font>
+<font color="#00FFFF">ist sicher schon fertig.</font>
+
+81
+00:04:46,320 --> 00:04:49,760
+<font color="#FFFFFF">Meine Tasche.</font>
+<font color="#FFFFFF">- Du hattest sie grad noch.</font>
+
+82
+00:04:49,840 --> 00:04:53,720
+<font color="#FFFFFF">Die suchen wir nachher.</font>
+<font color="#FFFFFF">- Ohne meine Tasche geh ich nicht.</font>
+
+83
+00:04:53,800 --> 00:04:56,280
+<font color="#FFFFFF">Das ist sie.</font>
+<font color="#FFFFFF">- Pass auf!</font>
+
+84
+00:04:57,320 --> 00:04:59,120
+<font color="#00FFFF">Nein!</font>
+
+85
+00:05:00,00 --> 00:05:04,480
+<font color="#00FFFF">Jetzt geht bitte rauf.</font>
+<font color="#00FFFF">Es ist alles hergerichtet.</font>
+
+86
+00:05:04,600 --> 00:05:06,600
+<font color="#00FFFF">Pumuckl!</font>
+
+87
+00:05:06,800 --> 00:05:08,800
+<font color="#00FFFF">Pumuckl!</font>
+
+88
+00:05:08,880 --> 00:05:11,640
+<font color="#00FFFF">Wo auch immer du bist,</font>
+<font color="#00FFFF">jetzt ist Schluss.</font>
+
+89
+00:05:11,720 --> 00:05:16,200
+<font color="#00FFFF">Sonst sperr ich dich in ein dunkles</font>
+<font color="#00FFFF">Schränkchen, ohne Essen und Trinken.</font>
+
+90
+00:05:16,280 --> 00:05:18,280
+<font color="#00FFFF">Jetzt ist Schluss!</font>
+
+91
+00:05:18,360 --> 00:05:20,360
+<font color="#00FFFF">Sauerei!</font>
+
+92
+00:05:25,320 --> 00:05:32,200
+<font color="#FFFF00">Schluss ist hier noch lange nicht,</font>
+<font color="#FFFF00">erst der Anfang ist in Sicht.</font>
+
+93
+00:05:34,440 --> 00:05:37,800
+<font color="#FFFFFF">Die Schaukel und das Bett,</font>
+<font color="#FFFFFF">das sind schöne Spielsachen.</font>
+
+94
+00:05:37,880 --> 00:05:41,160
+<font color="#FFFFFF">Kann ich die vielleicht haben?</font>
+<font color="#00FFFF">- Ähm ...</font>
+
+95
+00:05:41,720 --> 00:05:45,40
+<font color="#FFFFFF">Bitte.</font>
+<font color="#00FFFF">- Ich kann dir welche machen.</font>
+
+96
+00:05:45,640 --> 00:05:49,520
+<font color="#00FFFF">Ein Bettchen für die Puppe</font>
+<font color="#00FFFF">und eine Schaukel.</font>
+
+97
+00:05:49,600 --> 00:05:52,800
+<font color="#00FFFF">Aber die zwei Sachen</font>
+<font color="#00FFFF">unten in der Werkstatt ...</font>
+
+98
+00:05:52,880 --> 00:05:56,840
+<font color="#FFFFFF">Du kannst ja welche machen</font>
+<font color="#FFFFFF">und die mir jetzt schon geben.</font>
+
+99
+00:05:56,920 --> 00:06:00,880
+<font color="#00FFFF">Nein, die kann ich dir nicht geben.</font>
+<font color="#FFFFFF">- Bitte.</font>
+
+100
+00:06:00,960 --> 00:06:03,80
+<font color="#00FFFF">Die brauch ich als Modell.</font>
+
+101
+00:06:03,160 --> 00:06:07,760
+<font color="#00FFFF">Ich muss ja wissen, wie groß und ...</font>
+<font color="#FFFFFF">- Bitte, bitte.</font>
+
+102
+00:06:07,840 --> 00:06:09,840
+<font color="#00FFFF">Das geht leider nicht.</font>
+
+103
+00:06:09,920 --> 00:06:13,880
+<font color="#00FFFF">Wie die Schiffschaukel schwingt,</font>
+<font color="#00FFFF">das muss man alles ausprobieren.</font>
+
+104
+00:06:14,720 --> 00:06:16,520
+<font color="#FFFFFF">* Weinen *</font>
+
+105
+00:06:16,600 --> 00:06:18,600
+<font color="#00FFFF">Eine solche Gemeinheit.</font>
+
+106
+00:06:18,800 --> 00:06:21,480
+<font color="#00FFFF">Pumuckl, reiß dich zusammen!</font>
+
+107
+00:06:21,680 --> 00:06:24,320
+<font color="#FFFFFF">Meine Puppe hat keine Augen mehr.</font>
+
+108
+00:06:26,240 --> 00:06:28,240
+<font color="#00FFFF">Gib mal her.</font>
+
+109
+00:06:29,240 --> 00:06:33,240
+<font color="#00FFFF">Das kann ich dir wieder richten</font>
+<font color="#00FFFF">in der Werkstatt.</font>
+
+110
+00:06:33,440 --> 00:06:36,920
+<font color="#FFFFFF">Vorsicht, die Mutti.</font>
+<font color="#FFFFFF">- Ich geh jetzt zum Zahnarzt.</font>
+
+111
+00:06:37,00 --> 00:06:41,520
+<font color="#00FFFF">Gib Obacht, dass du nicht wieder</font>
+<font color="#00FFFF">eine dicke Backe kriegst.</font>
+
+112
+00:06:41,600 --> 00:06:45,840
+<font color="#FFFFFF">Hoffentlich traktiert er mich nicht</font>
+<font color="#FFFFFF">gar so mit meinem Weisheitszahn.</font>
+
+113
+00:06:46,40 --> 00:06:48,320
+<font color="#FFFFFF">Servus.</font>
+<font color="#00FFFF">- Wiederschauen.</font>
+
+114
+00:06:49,80 --> 00:06:51,80
+<font color="#00FFFF">Das lässt sich wieder richten.</font>
+
+115
+00:06:51,160 --> 00:06:55,00
+<font color="#00FFFF">Das machen wir gleich</font>
+<font color="#00FFFF">in der Werkstatt.</font>
+
+116
+00:06:55,80 --> 00:06:57,800
+<font color="#00FFFF">Gib Obacht,</font>
+<font color="#00FFFF">leg sie direkt neben dich,</font>
+
+117
+00:06:57,880 --> 00:07:01,40
+<font color="#00FFFF">damit der Pumuckl sie</font>
+<font color="#00FFFF">nicht noch mal runterschmeißt.</font>
+
+118
+00:07:01,120 --> 00:07:03,120
+<font color="#FFFFFF">Wer?</font>
+
+119
+00:07:03,320 --> 00:07:07,600
+<font color="#00FFFF">Pumuckl heißt er. Pumuckl!</font>
+<font color="#FFFFFF">- Da bin ich nicht hingekommen.</font>
+
+120
+00:07:07,800 --> 00:07:10,920
+<font color="#00FFFF">Ich weiß,</font>
+<font color="#00FFFF">das war wieder der Pumuckl.</font>
+
+121
+00:07:11,00 --> 00:07:13,00
+<font color="#00FFFF">Der, der in der Werkstatt</font>
+
+122
+00:07:13,80 --> 00:07:16,400
+<font color="#00FFFF">die Bretter und das Schränkchen</font>
+<font color="#00FFFF">runtergeschmissen hat,</font>
+
+123
+00:07:16,480 --> 00:07:21,120
+<font color="#00FFFF">der die Leisten umgeschmissen hat.</font>
+<font color="#FFFFFF">- Ich hab aber nix gesehen.</font>
+
+124
+00:07:21,320 --> 00:07:23,320
+<font color="#00FFFF">Das war alles der Pumuckl.</font>
+
+125
+00:07:23,400 --> 00:07:26,680
+<font color="#00FFFF">Jetzt ist Ruhe,</font>
+<font color="#00FFFF">das hab ich ihm vorhin schon gesagt.</font>
+
+126
+00:07:26,760 --> 00:07:28,760
+<font color="#00FFFF">Das ist ein Kobold.</font>
+
+127
+00:07:28,840 --> 00:07:31,200
+<font color="#FFFFFF">Ist das so was</font>
+<font color="#FFFFFF">wie ein Heinzelmännchen?</font>
+
+128
+00:07:31,280 --> 00:07:33,840
+<font color="#00FFFF">Sag das nicht.</font>
+<font color="#00FFFF">Da ist er sofort beleidigt.</font>
+
+129
+00:07:33,920 --> 00:07:37,280
+<font color="#00FFFF">Ein Heinzelmännchen</font>
+<font color="#00FFFF">ist was Braves, Folgsames.</font>
+
+130
+00:07:37,360 --> 00:07:39,680
+<font color="#00FFFF">Der hilft dir auch mal.</font>
+
+131
+00:07:40,120 --> 00:07:43,400
+<font color="#00FFFF">Pumuckl! Herrschaftszeiten!</font>
+<font color="#00FFFF">Jetzt mag ich nimmer.</font>
+
+132
+00:07:43,480 --> 00:07:47,240
+<font color="#00FFFF">Weil er gar so frech ist,</font>
+<font color="#00FFFF">erzähl ich dir die ganze Geschichte.</font>
+
+133
+00:07:47,440 --> 00:07:53,920
+<font color="#00FFFF">Eines Tages bin ich in der Werkstatt</font>
+<font color="#00FFFF">zum Kästchen-Reparieren einer Frau.</font>
+
+134
+00:07:54,00 --> 00:07:56,360
+<font color="#00FFFF">Ich war am Arbeiten,</font>
+
+135
+00:07:56,440 --> 00:07:59,960
+<font color="#00FFFF">dann waren die Schrauben weg</font>
+<font color="#00FFFF">und der Schraubenzieher.</font>
+
+136
+00:08:00,160 --> 00:08:04,960
+<font color="#FFFFFF">Alles der Pumuckl?</font>
+<font color="#00FFFF">- Ja, hab ich aber nicht gewusst.</font>
+
+137
+00:08:05,40 --> 00:08:07,200
+<font color="#00FFFF">Ich hab die Sachen immer gesucht</font>
+
+138
+00:08:07,280 --> 00:08:10,880
+<font color="#00FFFF">und ich bin nicht fertig geworden</font>
+<font color="#00FFFF">mit dem Schränkchen.</font>
+
+139
+00:08:10,960 --> 00:08:13,560
+<font color="#00FFFF">Auf einmal</font>
+<font color="#00FFFF">hat's in der Ecke geraschelt,</font>
+
+140
+00:08:13,760 --> 00:08:16,00
+<font color="#00FFFF">da hab ich</font>
+<font color="#00FFFF">einen Holzhammer geworfen.</font>
+
+141
+00:08:16,80 --> 00:08:19,400
+<font color="#FFFFFF">Auf den Pumuckl?</font>
+<font color="#00FFFF">- Nein, auf den Leimtopf.</font>
+
+142
+00:08:19,480 --> 00:08:23,640
+<font color="#00FFFF">Da ist er hängen geblieben</font>
+<font color="#00FFFF">und ist sichtbar geworden.</font>
+
+143
+00:08:23,720 --> 00:08:25,720
+<font color="#00FFFF">Für mich, für andere nicht.</font>
+
+144
+00:08:25,920 --> 00:08:29,120
+<font color="#00FFFF">Ich seh ihn ganz allein.</font>
+<font color="#00FFFF">Das ist Koboldsgesetz.</font>
+
+145
+00:08:29,200 --> 00:08:32,440
+<font color="#00FFFF">Wenn er bei jemandem pappen bleibt</font>
+<font color="#00FFFF">und sichtbar wird,</font>
+
+146
+00:08:32,520 --> 00:08:35,560
+<font color="#00FFFF">dann muss er bei dem bleiben.</font>
+
+147
+00:08:35,640 --> 00:08:40,840
+<font color="#FFFFFF">Isst er denn was?</font>
+<font color="#00FFFF">- Ja, alles. Nur Käse mag er nicht.</font>
+
+148
+00:08:40,920 --> 00:08:43,200
+<font color="#FFFFFF">Kann ich ihm Bonbons geben?</font>
+
+149
+00:08:43,400 --> 00:08:46,560
+<font color="#00FFFF">Was? Zur Belohnung,</font>
+<font color="#00FFFF">weil er mich so ärgert?</font>
+
+150
+00:08:46,640 --> 00:08:48,640
+<font color="#FFFFFF">Aber er muss doch so f...</font>
+
+151
+00:08:49,680 --> 00:08:51,640
+<font color="#00FFFF">Pumuckl! Hast du das gesehen?</font>
+
+152
+00:08:51,840 --> 00:08:56,280
+<font color="#FFFFFF">Er muss doch frech sein,</font>
+<font color="#FFFFFF">wenn er ein Kobold ist.</font>
+
+153
+00:08:56,720 --> 00:08:59,920
+<font color="#00FFFF">Aber keiner muss böse sein.</font>
+
+154
+00:09:00,120 --> 00:09:02,120
+<font color="#FFFFFF">Ich erlaub's ihm.</font>
+
+155
+00:09:02,200 --> 00:09:05,640
+<font color="#FFFFFF">Darum bekommt er jetzt</font>
+<font color="#FFFFFF">Bonbons von mir.</font>
+
+156
+00:09:08,160 --> 00:09:10,160
+<font color="#00FFFF">Aber eines sag ich dir:</font>
+
+157
+00:09:10,240 --> 00:09:13,440
+<font color="#00FFFF">Wenn du jetzt drauf wartest,</font>
+<font color="#00FFFF">dass er die gleich isst,</font>
+
+158
+00:09:13,520 --> 00:09:15,520
+<font color="#00FFFF">dann tut er's bestimmt nicht.</font>
+
+159
+00:09:15,600 --> 00:09:18,800
+<font color="#00FFFF">Wenn man ihm was befiehlt,</font>
+<font color="#00FFFF">tut er's erst recht nicht.</font>
+
+160
+00:09:18,880 --> 00:09:21,760
+<font color="#00FFFF">Wenn man ihm was verbietet,</font>
+<font color="#00FFFF">dann tut er's.</font>
+
+161
+00:09:21,840 --> 00:09:23,840
+<font color="#FFFFFF">Pumuckl, zwick mich mal.</font>
+
+162
+00:09:23,920 --> 00:09:27,00
+<font color="#00FFFF">Das tut er nicht,</font>
+<font color="#00FFFF">wenn du's ihm befiehlst.</font>
+
+163
+00:09:27,80 --> 00:09:31,320
+<font color="#FFFFFF">Dann zwick mich nicht. Au!</font>
+<font color="#00FFFF">- Siehst du? Jetzt weißt du's.</font>
+
+164
+00:09:31,520 --> 00:09:34,560
+<font color="#FFFFFF">Ich ess noch schnell</font>
+<font color="#FFFFFF">meinen Kuchen auf.</font>
+
+165
+00:09:34,640 --> 00:09:37,320
+<font color="#00FFFF">Ich trink noch meinen Kaffee auf.</font>
+
+166
+00:09:39,360 --> 00:09:42,680
+<font color="#00FFFF">Komm, jetzt gehen wir.</font>
+<font color="#00FFFF">Nimm deine Puppe mit.</font>
+
+167
+00:09:42,760 --> 00:09:45,800
+<font color="#FFFFFF">Kriegst du sie sicher wieder hin?</font>
+<font color="#00FFFF">- Sicher.</font>
+
+168
+00:09:48,400 --> 00:09:51,560
+<font color="#FFFF00">Das ist aber lecker, mmmh.</font>
+
+169
+00:09:51,640 --> 00:09:56,80
+<font color="#FFFF00">Muss er doch tatsächlich</font>
+<font color="#FFFF00">meine Geschichte erzählen.</font>
+
+170
+00:09:56,160 --> 00:09:59,200
+<font color="#FFFF00">Sozusagen</font>
+<font color="#FFFF00">in der Halb-Öffentlichkeit.</font>
+
+171
+00:09:59,280 --> 00:10:02,600
+<font color="#FFFF00">Was hat die gesagt?</font>
+<font color="#FFFF00">Ein Kobold muss frech sein.</font>
+
+172
+00:10:02,680 --> 00:10:06,720
+<font color="#FFFF00">Jawohl, ein frecher lieber Kobold</font>
+<font color="#FFFF00">ist ein lieber frecher Kobold.</font>
+
+173
+00:10:08,200 --> 00:10:12,320
+<font color="#FFFFFF">Ist dir die Bärbel nicht auf</font>
+<font color="#FFFFFF">die Nerven gegangen am Nachmittag?</font>
+
+174
+00:10:12,400 --> 00:10:15,40
+<font color="#00FFFF">Überhaupt nicht.</font>
+<font color="#FFFFFF">- Dann bin ich froh.</font>
+
+175
+00:10:15,120 --> 00:10:20,00
+<font color="#00FFFF">Die Bärbel ist ein ganz liebes Madl.</font>
+<font color="#FFFFFF">- Jaja, wie die Mutter.</font>
+
+176
+00:10:20,80 --> 00:10:24,720
+<font color="#00FFFF">Das hat sie vom Vater.</font>
+<font color="#00FFFF">Die Madln haben alles vom Vater.</font>
+
+177
+00:10:24,800 --> 00:10:26,800
+<font color="#FFFFFF">Was habt ihr gemacht?</font>
+
+178
+00:10:26,880 --> 00:10:29,360
+<font color="#00FFFF">Ich hab ihr</font>
+<font color="#00FFFF">ein paar Geschichten erzählt.</font>
+
+179
+00:10:29,440 --> 00:10:31,440
+<font color="#FFFFFF">Hoffentlich nichts Grausiges.</font>
+
+180
+00:10:31,520 --> 00:10:34,960
+<font color="#FFFFFF">Die Fantasie</font>
+<font color="#FFFFFF">ist sowieso so lebhaft bei ihr.</font>
+
+181
+00:10:35,40 --> 00:10:39,440
+<font color="#00FFFF">Nein, das war was Komisches.</font>
+<font color="#FFFFFF">- Da bin ich aber froh.</font>
+
+182
+00:10:39,520 --> 00:10:43,80
+<font color="#FFFFFF">Die nimmt nämlich alles</font>
+<font color="#FFFFFF">gleich für bare Münze.</font>
+
+183
+00:10:43,160 --> 00:10:46,160
+<font color="#00FFFF">Apropos komisch,</font>
+<font color="#00FFFF">wie geht's deiner Backe?</font>
+
+184
+00:10:46,360 --> 00:10:48,360
+<font color="#FFFFFF">* Er lacht. *</font>
+
+185
+00:10:48,440 --> 00:10:51,600
+<font color="#FFFFFF">Lach mich nicht immer aus.</font>
+<font color="#FFFFFF">Das tut sowieso weh.</font>
+
+186
+00:10:51,680 --> 00:10:55,440
+<font color="#00FFFF">Hast du deinen Weisheitszahn drin?</font>
+<font color="#FFFFFF">- Ja, auf der andern Seite.</font>
+
+187
+00:10:55,520 --> 00:10:57,760
+<font color="#00FFFF">Da wird der Zahnarzt froh sein.</font>
+<font color="#FFFFFF">- Au.</font>
+
+188
+00:10:57,840 --> 00:11:00,440
+<font color="#FFFFFF">Ich kann nicht lachen. Hör doch auf.</font>
+
+189
+00:11:00,520 --> 00:11:03,880
+<font color="#00FFFF">Es langt doch, wenn ich lach.</font>
+<font color="#FFFFFF">- Du bist so gemein.</font>
+
+190
+00:11:03,960 --> 00:11:06,960
+<font color="#00FFFF">Also dann, Prost.</font>
+<font color="#FFFFFF">- Prost.</font>
+
+191
+00:11:08,640 --> 00:11:12,00
+<font color="#00FFFF">Und so willst du morgen heimfahren?</font>
+
+192
+00:11:12,80 --> 00:11:16,00
+<font color="#FFFFFF">Ich hoff, dass das morgen besser ist.</font>
+<font color="#00FFFF">- Meinst du?</font>
+
+193
+00:11:16,80 --> 00:11:18,80
+<font color="#FFFFFF">Gesagt hat es der Zahnarzt.</font>
+
+194
+00:11:18,920 --> 00:11:20,920
+<font color="#FFFF00">Jetzt wird's langsam Zeit,</font>
+
+195
+00:11:21,00 --> 00:11:23,680
+<font color="#FFFF00">dass Meister Eder</font>
+<font color="#FFFF00">mal wieder Geburtstag hat</font>
+
+196
+00:11:23,760 --> 00:11:28,80
+<font color="#FFFF00">und ich ein schönes neues</font>
+<font color="#FFFF00">Maulwurfsbuch bekomme.</font>
+
+197
+00:11:36,160 --> 00:11:38,160
+<font color="#FFFFFF">Pumuckl?</font>
+
+198
+00:11:38,360 --> 00:11:40,680
+<font color="#FFFFFF">Ich bin's, die Bärbel.</font>
+
+199
+00:11:42,240 --> 00:11:44,240
+<font color="#FFFFFF">Wo bist denn du?</font>
+
+200
+00:11:45,680 --> 00:11:48,760
+<font color="#FFFFFF">Ich möcht dich nur ganz kurz sehen.</font>
+
+201
+00:11:49,560 --> 00:11:51,800
+<font color="#FFFFFF">Wo steckst du denn?</font>
+
+202
+00:11:54,880 --> 00:11:58,160
+<font color="#FFFFFF">Ich halt dich auch</font>
+<font color="#FFFFFF">nur ganz kurz fest.</font>
+
+203
+00:11:58,920 --> 00:12:02,480
+<font color="#FFFFFF">Wart halt. Wo bist du denn jetzt?</font>
+
+204
+00:12:02,560 --> 00:12:06,560
+<font color="#FFFFFF">Ich schimpf auch nicht so mit dir</font>
+<font color="#FFFFFF">wie der Onkel Franz.</font>
+
+205
+00:12:06,640 --> 00:12:10,560
+<font color="#FFFFFF">Ich koch was für dich,</font>
+<font color="#FFFFFF">wie für meine Puppen.</font>
+
+206
+00:12:15,920 --> 00:12:19,520
+<font color="#FFFFFF">Wirf doch was runter,</font>
+<font color="#FFFFFF">damit ich weiß, wo du bist.</font>
+
+207
+00:12:19,600 --> 00:12:21,600
+<font color="#FFFFFF">Wo bist du denn?</font>
+
+208
+00:12:26,160 --> 00:12:28,160
+<font color="#FFFFFF">Mmmh.</font>
+
+209
+00:12:31,160 --> 00:12:34,440
+<font color="#FFFFFF">Oder magst du lieber am Leim pappen?</font>
+
+210
+00:12:42,00 --> 00:12:45,200
+<font color="#FFFFFF">So, jetzt kannst du sichtbar werden.</font>
+
+211
+00:12:51,280 --> 00:12:54,280
+<font color="#FFFFFF">Irgendwann wird er müde</font>
+<font color="#FFFFFF">und geht ins Bett.</font>
+
+212
+00:13:05,600 --> 00:13:08,880
+<font color="#FFFFFF">Oder vielleicht willst du schaukeln.</font>
+
+213
+00:13:26,920 --> 00:13:30,320
+<font color="#FFFFFF">Vielleicht ist er überhaupt nicht da.</font>
+
+214
+00:13:40,00 --> 00:13:45,240
+<font color="#FFFFFF">♪ In den Bergen wohnt die Freiheit,</font>
+
+215
+00:13:45,320 --> 00:13:49,560
+<font color="#FFFFFF">♪ in den Tälern der Neid.</font>
+
+216
+00:13:49,640 --> 00:13:52,840
+<font color="#FFFFFF">* Sie summt die Melodie weiter. *</font>
+
+217
+00:13:52,920 --> 00:13:53,920
+
+218
+00:14:36,280 --> 00:14:39,40
+<font color="#FFFF00">(leise)</font>
+<font color="#FFFF00">Haha, so kriegst du mich nie.</font>
+
+219
+00:14:39,120 --> 00:14:41,120
+<font color="#FFFF00">Mit Leim will die mich fangen.</font>
+
+220
+00:14:41,200 --> 00:14:46,480
+<font color="#FFFF00">Als ob ich schon jemals</font>
+<font color="#FFFF00">am Leim kleben geblieben wäre, haha.</font>
+
+221
+00:14:47,640 --> 00:14:49,640
+<font color="#FFFFFF">* Klatschen *</font>
+
+222
+00:14:52,280 --> 00:14:54,240
+<font color="#FFFF00">Da müssen schon andere kommen,</font>
+
+223
+00:14:54,320 --> 00:14:57,160
+<font color="#FFFF00">nicht so kleine Mädchen</font>
+<font color="#FFFF00">mit so großen Füßen.</font>
+
+224
+00:14:57,240 --> 00:14:59,240
+<font color="#FFFF00">Ui, sind die kalt.</font>
+
+225
+00:14:59,320 --> 00:15:01,920
+<font color="#FFFF00">Die stirbt vielleicht</font>
+<font color="#FFFF00">mit so kalten Füßen.</font>
+
+226
+00:15:02,00 --> 00:15:05,560
+<font color="#FFFF00">Vielleicht ist sie schon</font>
+<font color="#FFFF00">gesterbselt.</font>
+
+227
+00:15:05,640 --> 00:15:08,440
+<font color="#FFFF00">Ob ich vielleicht</font>
+<font color="#FFFF00">die Füße mit Leim einklebe,</font>
+
+228
+00:15:08,520 --> 00:15:11,960
+<font color="#FFFF00">weil es wird heiß und kalt,</font>
+<font color="#FFFF00">wenn man am Leim klebt.</font>
+
+229
+00:15:12,40 --> 00:15:14,440
+<font color="#FFFF00">Aber nein,</font>
+<font color="#FFFF00">das hilft bei Menschen nicht.</font>
+
+230
+00:15:14,520 --> 00:15:15,880
+<font color="#FFFF00">Hallo?</font>
+
+231
+00:15:15,960 --> 00:15:18,800
+<font color="#FFFF00">Oh, ich glaube,</font>
+<font color="#FFFF00">sie ist doch schon gesterbselt.</font>
+
+232
+00:15:18,880 --> 00:15:20,880
+<font color="#FFFF00">Vielleicht hilft ein Schrei.</font>
+
+233
+00:15:21,80 --> 00:15:24,520
+<font color="#FFFF00">Uuuiii!</font>
+<font color="#FFFFFF">- Mami! Mama!</font>
+
+234
+00:15:24,960 --> 00:15:28,880
+<font color="#00FFFF">Das ist in der Werkstatt.</font>
+<font color="#FFFFFF">- Das ist doch die Bärbel.</font>
+
+235
+00:15:29,80 --> 00:15:30,640
+<font color="#FFFFFF">Mami!</font>
+
+236
+00:15:30,840 --> 00:15:33,640
+<font color="#00FFFF">Um Gottes willen, das Kind schreit.</font>
+
+237
+00:15:33,720 --> 00:15:36,920
+<font color="#FFFFFF">Was ist denn los?</font>
+<font color="#FFFFFF">Hast du dich verletzt?</font>
+
+238
+00:15:37,00 --> 00:15:40,640
+<font color="#FFFFFF">Ich wollte nur den Pumuckl sehen.</font>
+<font color="#FFFFFF">- Was heißt denn Pumuckl?</font>
+
+239
+00:15:40,720 --> 00:15:42,720
+<font color="#00FFFF">Den kannst du nicht sehen.</font>
+
+240
+00:15:42,800 --> 00:15:46,80
+<font color="#FFFFFF">Du gehörst ins Bett.</font>
+<font color="#FFFFFF">Was machst du in der Werkstatt?</font>
+
+241
+00:15:46,160 --> 00:15:49,120
+<font color="#00FFFF">Geht rauf.</font>
+<font color="#FFFFFF">- Du bist ja ganz kalt.</font>
+
+242
+00:15:49,200 --> 00:15:52,960
+<font color="#FFFFFF">Wir gehen wieder ins Bett.</font>
+<font color="#FFFFFF">- Ich will aber den Pumuckl sehen.</font>
+
+243
+00:15:53,40 --> 00:15:56,920
+<font color="#00FFFF">Das ist bloß eine Geschichte.</font>
+<font color="#FFFFFF">- Du mit deinen Geschichten immer.</font>
+
+244
+00:15:57,00 --> 00:16:00,480
+<font color="#FFFFFF">Ich erzähl dir jetzt was</font>
+<font color="#FFFFFF">von Elfen, Zwergen und Feen.</font>
+
+245
+00:16:00,600 --> 00:16:03,760
+<font color="#FFFFFF">(Bärbel) Blöde Feen!</font>
+<font color="#FFFFFF">Eine Pumuckl-Geschichte.</font>
+
+246
+00:16:04,760 --> 00:16:08,520
+<font color="#00FFFF">Pumuckl, wo steckst du?</font>
+<font color="#00FFFF">Was hast du wieder angestellt?</font>
+
+247
+00:16:08,720 --> 00:16:11,680
+<font color="#FFFF00">Du kleiner Holzwurm,</font>
+<font color="#FFFF00">was hast du angestellt?</font>
+
+248
+00:16:11,880 --> 00:16:15,160
+<font color="#00FFFF">Das kann man wieder aufhängen.</font>
+<font color="#00FFFF">Was hast du angestellt?</font>
+
+249
+00:16:15,240 --> 00:16:18,40
+<font color="#FFFF00">Wieso ich? Du bist der Angestellte!</font>
+
+250
+00:16:18,120 --> 00:16:20,800
+<font color="#FFFF00">Wer hat denn der Bärbel</font>
+<font color="#FFFF00">vom Pumuckl erzählt?</font>
+
+251
+00:16:21,00 --> 00:16:22,960
+<font color="#00FFFF">Jetzt schlägt's aber 13.</font>
+
+252
+00:16:23,40 --> 00:16:27,600
+<font color="#00FFFF">Du hast dich heut aufgeführt, dass</font>
+<font color="#00FFFF">mir nix anders übrig geblieben ist.</font>
+
+253
+00:16:27,680 --> 00:16:31,120
+<font color="#FFFF00">Wieso bleibt dir da nichts übrig?</font>
+
+254
+00:16:31,320 --> 00:16:33,400
+<font color="#00FFFF">Ich lass mir nicht alles gefallen.</font>
+
+255
+00:16:33,600 --> 00:16:37,160
+<font color="#FFFF00">Du willst wieder nicht wissen,</font>
+<font color="#FFFF00">was hier los war.</font>
+
+256
+00:16:37,240 --> 00:16:39,120
+<font color="#00FFFF">Geh in dein Bett und sei stad.</font>
+
+257
+00:16:39,200 --> 00:16:43,40
+<font color="#FFFF00">Weißt du, dass sie fast gestorben</font>
+<font color="#FFFF00">wär und ich sie gerettet hab?</font>
+
+258
+00:16:43,240 --> 00:16:44,840
+<font color="#00FFFF">Genau.</font>
+
+259
+00:16:45,40 --> 00:16:47,840
+<font color="#FFFF00">Ich hab gemerkt,</font>
+<font color="#FFFF00">dass sie eiskalte Füße hat.</font>
+
+260
+00:16:47,920 --> 00:16:51,00
+<font color="#FFFF00">Aber du hast nicht nötig zu fragen,</font>
+<font color="#FFFF00">was los ist.</font>
+
+261
+00:16:51,200 --> 00:16:52,880
+<font color="#00FFFF">Geh in dein Bett.</font>
+
+262
+00:16:53,80 --> 00:16:55,360
+<font color="#FFFF00">Schau doch erst mal,</font>
+<font color="#FFFF00">was hier los ist.</font>
+
+263
+00:16:55,440 --> 00:16:57,440
+<font color="#FFFF00">Überall klebt Leim.</font>
+
+264
+00:16:57,520 --> 00:17:01,480
+<font color="#FFFF00">Ich habe mein Buch geopfert, dass</font>
+<font color="#FFFF00">das Kind gerettet werden kann.</font>
+
+265
+00:17:01,680 --> 00:17:05,80
+<font color="#FFFF00">Ich hab sogar</font>
+<font color="#FFFF00">den Leimtopf weggeschoben, so ...</font>
+
+266
+00:17:06,880 --> 00:17:09,640
+<font color="#FFFF00">Ich klebe.</font>
+<font color="#FFFF00">Bitte, bitte mach mich weg.</font>
+
+267
+00:17:09,840 --> 00:17:13,920
+<font color="#00FFFF">Ah, das sind ganz andere Töne</font>
+<font color="#00FFFF">auf einmal.</font>
+
+268
+00:17:14,00 --> 00:17:16,960
+<font color="#00FFFF">Also gut,</font>
+<font color="#00FFFF">einmal tu ich dich noch weg.</font>
+
+269
+00:17:18,800 --> 00:17:21,160
+<font color="#FFFF00">Du musst doch jede Not</font>
+<font color="#FFFF00">immer ausnützen.</font>
+
+270
+00:17:21,240 --> 00:17:23,40
+<font color="#00FFFF">Und du nicht?</font>
+
+271
+00:17:23,120 --> 00:17:26,240
+<font color="#FFFF00">Ich bin der brave Pumuckl,</font>
+<font color="#FFFF00">der Übermuckl.</font>
+
+272
+00:17:26,440 --> 00:17:29,600
+<font color="#FFFF00">Jetzt geh ich ins Bett</font>
+<font color="#FFFF00">und träume von lieben Bärbeln</font>
+
+273
+00:17:29,680 --> 00:17:31,720
+<font color="#FFFF00">und nicht von blöden Schreinern.</font>
+
+274
+00:17:31,920 --> 00:17:35,720
+<font color="#00FFFF">Nur schade, dass die Bärbel</font>
+<font color="#00FFFF">dich so nicht sehen kann.</font>
+
+275
+00:17:35,920 --> 00:17:39,80
+<font color="#FFFF00">Das ist sehr schade.</font>
+
+276
+00:17:39,160 --> 00:17:43,800
+<font color="#FFFF00">Denn die Bärbel hätte mir eine Suppe</font>
+<font color="#FFFF00">gekocht wie für ihre Puppe.</font>
+
+277
+00:17:43,880 --> 00:17:46,200
+<font color="#FFFF00">Und sie hat mir Bonbons hingelegt.</font>
+
+278
+00:17:46,400 --> 00:17:49,160
+<font color="#00FFFF">Ja.</font>
+<font color="#FFFF00">- Das ist so ein liebes Kind,</font>
+
+279
+00:17:49,240 --> 00:17:52,680
+<font color="#FFFF00">dass ich ihr sogar</font>
+<font color="#FFFF00">mein Heftchen geopfert habe.</font>
+
+280
+00:17:52,760 --> 00:17:55,600
+<font color="#FFFF00">Sie würde mit mir spielen</font>
+<font color="#FFFF00">und nicht schimpfen.</font>
+
+281
+00:17:55,680 --> 00:17:58,480
+<font color="#00FFFF">Träum schön, von der Bärbel.</font>
+<font color="#FFFF00">- Das mach ich.</font>
+
+282
+00:17:58,560 --> 00:18:02,360
+<font color="#00FFFF">Gute Nacht.</font>
+<font color="#FFFF00">- Du kannst gehen. Gute Nacht.</font>
+
+283
+00:18:02,440 --> 00:18:04,440
+<font color="#FFFF00">Licht aus!</font>
+
+284
+00:18:04,520 --> 00:18:11,280
+<font color="#FFFF00">Oh Bärbelein, fein, möchtest du</font>
+<font color="#FFFF00">vielleicht in mein Träumlein hinein?</font>
+
+285
+00:18:11,360 --> 00:18:15,520
+<font color="#FFFF00">Dann wäre der Pumuckl</font>
+<font color="#FFFF00">nicht so allein.</font>
+
+286
+00:18:25,400 --> 00:18:30,00
+<font color="#FFFFFF">Das ist mir noch nie passiert, dass</font>
+<font color="#FFFFFF">ich meinen Schal nicht gefunden hab.</font>
+
+287
+00:18:30,80 --> 00:18:32,640
+<font color="#FFFFFF">Mami, meine Tasche.</font>
+
+288
+00:18:32,720 --> 00:18:36,480
+<font color="#FFFFFF">Du hattest sie doch grade.</font>
+<font color="#FFFFFF">Dann such sie schnell.</font>
+
+289
+00:18:36,560 --> 00:18:40,200
+<font color="#FFFFFF">Wir fahren zum Bahnhof.</font>
+<font color="#FFFFFF">Wir haben Eile.</font>
+
+290
+00:18:45,160 --> 00:18:48,200
+<font color="#FFFFFF">Ich wusst doch, dass es dich gibt.</font>
+
+291
+00:18:49,920 --> 00:18:53,920
+<font color="#FFFFFF">Schade, dass ich dich</font>
+<font color="#FFFFFF">nicht doch noch gesehen hab.</font>
+
+292
+00:18:54,00 --> 00:18:57,40
+<font color="#FFFFFF">Vielleicht klappt's nächstes Mal.</font>
+
+293
+00:19:00,120 --> 00:19:03,120
+<font color="#FFFFFF">Das ist für dich.</font>
+
+294
+00:19:04,160 --> 00:19:07,160
+<font color="#FFFFFF">Lass es dir schmecken.</font>
+
+295
+00:19:09,400 --> 00:19:12,120
+<font color="#FFFFFF">Bärbel, wo bleibst du?</font>
+<font color="#FFFFFF">- Ich komme.</font>
+
+296
+00:19:12,200 --> 00:19:14,00
+<font color="#FFFFFF">Servus.</font>
+
+297
+00:19:14,200 --> 00:19:16,200
+<font color="#00FFFF">Bärbel, jetzt komm.</font>
+
+298
+00:19:16,280 --> 00:19:20,360
+<font color="#FFFFFF">Einen schönen Gruß an Pumuckl.</font>
+<font color="#FFFFFF">Du darfst ihn ja nicht schimpfen.</font>
+
+299
+00:19:20,440 --> 00:19:22,640
+<font color="#00FFFF">Ich werd's ausrichten.</font>
+
+300
+00:19:22,720 --> 00:19:28,80
+<font color="#00FFFF">Wiederschauen. Kommt gut heim.</font>
+<font color="#FFFFFF">- Wiedersehen, Franz, danke.</font>
+
+301
+00:19:28,560 --> 00:19:30,560
+<font color="#00FFFF">Was ist jetzt?</font>
+
+302
+00:19:30,640 --> 00:19:33,520
+<font color="#FFFFFF">Ich hab keine Ahnung,</font>
+<font color="#FFFFFF">wo mein Zündschlüssel ist.</font>
+
+303
+00:19:33,600 --> 00:19:35,600
+<font color="#FFFFFF">Was ist denn?</font>
+
+304
+00:19:36,320 --> 00:19:38,320
+<font color="#FFFFFF">* Er räuspert sich. *</font>
+
+305
+00:19:39,440 --> 00:19:43,360
+<font color="#00FFFF">(flüsternd) Pumuckl,</font>
+<font color="#00FFFF">gib sofort den Schlüssel her.</font>
+
+306
+00:19:48,00 --> 00:19:51,560
+<font color="#00FFFF">Ist es vielleicht der?</font>
+<font color="#FFFFFF">- Ja.</font>
+
+307
+00:19:51,640 --> 00:19:56,00
+<font color="#FFFFFF">So was ist mir noch nie passiert.</font>
+<font color="#FFFFFF">- Jetzt aber los.</font>
+
+308
+00:19:56,80 --> 00:19:58,840
+<font color="#FFFFFF">Die Zeit ist sowieso schon so knapp.</font>
+
+309
+00:20:00,240 --> 00:20:04,480
+<font color="#FFFFFF">Was ist denn jetzt wieder?</font>
+<font color="#FFFFFF">- Du darfst ihn ja nicht schimpfen.</font>
+
+310
+00:20:04,560 --> 00:20:08,360
+<font color="#00FFFF">Nein, jetzt pfüat di</font>
+<font color="#00FFFF">und Grüße an deinen Papa.</font>
+
+311
+00:20:16,160 --> 00:20:18,880
+<font color="#FFFF00">Solltest du mir nicht etwas sagen?</font>
+
+312
+00:20:19,80 --> 00:20:21,760
+<font color="#00FFFF">Hm?</font>
+<font color="#FFFF00">- Solltest du mir nicht etwas sagen?</font>
+
+313
+00:20:21,840 --> 00:20:25,320
+<font color="#00FFFF">Einen schönen Gruß.</font>
+<font color="#FFFF00">- Und noch was?</font>
+
+314
+00:20:25,520 --> 00:20:29,560
+<font color="#00FFFF">Ich soll dich nicht schimpfen,</font>
+<font color="#00FFFF">aber das tu ich sowieso nicht.</font>
+
+315
+00:20:29,760 --> 00:20:31,760
+<font color="#00FFFF">Das hab ich schon aufgegeben.</font>
+
+316
+00:20:31,840 --> 00:20:36,760
+<font color="#00FFFF">Ich müsst dich eigentlich einsperren</font>
+<font color="#00FFFF">für das, was du alles gemacht hast.</font>
+
+317
+00:20:36,960 --> 00:20:43,120
+<font color="#FFFF00">Nein! Ich hab doch bloß gehofft,</font>
+<font color="#FFFF00">dass die Bärbel dableibt.</font>
+
+318
+00:20:43,200 --> 00:20:46,960
+<font color="#FFFF00">Aber sag doch mal:</font>
+<font color="#FFFF00">Was hat die Bärbel zu dir gesagt?</font>
+
+319
+00:20:47,40 --> 00:20:49,520
+<font color="#FFFF00">Ich möcht's so gern noch mal hören.</font>
+
+320
+00:20:49,600 --> 00:20:53,920
+<font color="#00FFFF">Einen schönen Gruß an den Pumuckl.</font>
+<font color="#FFFF00">- Das hat sie gesagt? Oh.</font>
+
+321
+00:20:54,00 --> 00:20:56,600
+<font color="#FFFF00">Mir ist so flau über dem Bauch.</font>
+
+322
+00:20:56,800 --> 00:20:59,240
+<font color="#00FFFF">Pumuckl, du bist ja verliebt.</font>
+
+323
+00:21:00,880 --> 00:21:07,160
+<font color="#FFFF00">Ich, verliebt? Nein.</font>
+<font color="#FFFF00">Ich bin doch nicht verliebt.</font>
+
+324
+00:21:07,360 --> 00:21:11,680
+<font color="#00FFFF">So schnell kann sich alles ändern.</font>
+<font color="#FFFF00">- Wieso? Was hat sich geändert?</font>
+
+325
+00:21:11,880 --> 00:21:15,680
+<font color="#00FFFF">Erst mochtest du die schwarzen</font>
+<font color="#00FFFF">Mädchen lieber als die blonden.</font>
+
+326
+00:21:15,880 --> 00:21:17,200
+<font color="#FFFF00">Nein.</font>
+
+327
+00:21:17,400 --> 00:21:20,160
+<font color="#00FFFF">"Blonde Locken</font>
+<font color="#00FFFF">können mich nicht locken."</font>
+
+328
+00:21:20,240 --> 00:21:23,840
+<font color="#FFFF00">Ich habe immer gesagt,</font>
+<font color="#FFFF00">blonde Mädchen und blaue Augen.</font>
+
+329
+00:21:23,920 --> 00:21:28,00
+<font color="#00FFFF">Du hast gesagt: "Mädchen sind dumm."</font>
+<font color="#00FFFF">Jaja, ist schon gut.</font>
+
+330
+00:21:28,80 --> 00:21:31,480
+<font color="#FFFF00">Stell dir vor, die Bärbel</font>
+<font color="#FFFF00">hat Servus gesagt zu mir.</font>
+
+331
+00:21:31,560 --> 00:21:36,840
+<font color="#FFFF00">Und bevor sie gegangen ist ...</font>
+<font color="#FFFF00">Schau mal, was da drüben liegt.</font>
+
+332
+00:21:37,40 --> 00:21:39,800
+<font color="#FFFF00">Schau mal genau hin,</font>
+<font color="#FFFF00">was in dem Bett liegt.</font>
+
+333
+00:21:39,880 --> 00:21:42,520
+<font color="#00FFFF">Da liegt ein rotes Bonbon, na und?</font>
+
+334
+00:21:42,600 --> 00:21:45,640
+<font color="#FFFF00">Schau, was unter dem</font>
+<font color="#FFFF00">Kopfkissen liegt.</font>
+
+335
+00:21:45,840 --> 00:21:48,400
+<font color="#00FFFF">Noch ein rotes Bonbon.</font>
+<font color="#FFFF00">- Oh ja.</font>
+
+336
+00:21:49,240 --> 00:21:52,920
+<font color="#FFFF00">Oh, ich hab ganz weiche Knie.</font>
+
+337
+00:21:53,00 --> 00:21:57,520
+<font color="#FFFF00">Ich glaub, ich leg mich jetzt</font>
+<font color="#FFFF00">zu den Bunbans von der Bärbel.</font>
+
+338
+00:21:57,600 --> 00:21:59,840
+<font color="#00FFFF">Wenn das so weitergeht mit dir,</font>
+
+339
+00:21:59,920 --> 00:22:03,00
+<font color="#00FFFF">dann muss meine Schwester</font>
+<font color="#00FFFF">wieder Zahnweh kriegen.</font>
+
+340
+00:22:03,80 --> 00:22:08,880
+<font color="#FFFF00">Oh, dann kommt die Bärbel wieder.</font>
+<font color="#00FFFF">- Stell dir vor, ja.</font>
+
+341
+00:22:09,80 --> 00:22:11,80
+<font color="#FFFF00">Servus hat sie gesagt.</font>
+
+342
+00:22:11,160 --> 00:22:15,520
+<font color="#FFFF00">♪ Sag zum Abschied leise "Servus".</font>
+
+343
+00:22:15,600 --> 00:22:19,40
+<font color="#00FFFF">♪ Nicht "Leb wohl"</font>
+<font color="#00FFFF">und nicht "Adieu".</font>
+
+344
+00:22:19,120 --> 00:22:22,760
+<font color="#00FFFF">Jetzt singst du weiter.</font>
+<font color="#FFFF00">- Jetzt fällt mir nichts mehr ein.</font>
+
+345
+00:22:22,840 --> 00:22:24,840
+<font color="#00FFFF">Oh, Pumuckl.</font>
+
+346
+00:22:28,960 --> 00:22:30,960
+<font color="#FFFFFF">Untertitelung: BR 2020</font>
+
