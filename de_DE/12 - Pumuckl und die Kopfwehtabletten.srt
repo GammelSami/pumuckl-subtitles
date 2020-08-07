@@ -1,0 +1,1526 @@
+1
+00:00:00,00 --> 00:00:00,400
+<font color="#FFFFFF">.</font>
+
+2
+00:00:00,480 --> 00:00:01,480
+<font color="#FFFFFF">(Titelmusik)</font>
+
+3
+00:00:01,560 --> 00:00:05,00
+<font color="#FFFF00">Pumuckl neckt, Pumuckl versteckt</font>
+<font color="#FFFF00">und niemand was meckt.</font>
+
+4
+00:00:05,80 --> 00:00:08,160
+<font color="#FFFF00">Oh, das reimt sich ja.</font>
+<font color="#FFFF00">Und was sich reimt, ist gut!</font>
+
+5
+00:00:08,240 --> 00:00:11,320
+<font color="#FFFFFF">♪ Hurra, hurra,</font>
+<font color="#FFFFFF">der Kobold mit dem roten Haar,</font>
+
+6
+00:00:11,400 --> 00:00:15,400
+<font color="#FFFFFF">♪ hurra, hurra, der Pumuckl ist da!</font>
+
+7
+00:00:15,600 --> 00:00:19,80
+<font color="#FFFF00">♪ Hurra, hurra,</font>
+<font color="#FFFF00">der Kobold mit dem roten Haar,</font>
+
+8
+00:00:19,160 --> 00:00:23,80
+<font color="#FFFF00">♪ hurra, hurra, der Pumuckl ist da!</font>
+
+9
+00:00:23,440 --> 00:00:27,360
+<font color="#FFFFFF">♪ Am liebsten macht er Schabernack,</font>
+<font color="#FFFFFF">Leute ärgern nicht zu knapp.</font>
+
+10
+00:00:27,440 --> 00:00:31,440
+<font color="#FFFFFF">♪ Schwupp, schon ist die Feile weg.</font>
+<font color="#FFFFFF">Wer hat die wohl wegversteckt?</font>
+
+11
+00:00:31,520 --> 00:00:35,00
+<font color="#FFFF00">♪ Hurra, hurra,</font>
+<font color="#FFFF00">der Kobold mit dem roten Haar,</font>
+
+12
+00:00:35,80 --> 00:00:39,200
+<font color="#FFFF00">♪ hurra, hurra, der Pumuckl ist da!</font>
+
+13
+00:00:41,800 --> 00:00:43,640
+<font color="#FFFF00">Bäh, bäh, bäh, bäh!</font>
+
+14
+00:00:43,720 --> 00:00:46,400
+<font color="#FFFF00">Bäh, bäh, bäh, bäh, bäh, bäh!</font>
+
+15
+00:00:47,480 --> 00:00:51,00
+<font color="#FFFF00">Quak, quak, quak, quak,</font>
+<font color="#FFFF00">quak, quak, quak, quak!</font>
+
+16
+00:00:51,80 --> 00:00:54,560
+<font color="#FFFF00">Gack, gack, gack, gack,</font>
+<font color="#FFFF00">gack, gack, gack, gack!</font>
+
+17
+00:00:55,720 --> 00:00:57,720
+<font color="#FFFFFF">Untertitelung: BR 2020</font>
+
+18
+00:01:06,00 --> 00:01:10,00
+<font color="#FFFF00">Es wird Zeit, dass du mal</font>
+<font color="#FFFF00">runterkommst und was arbeitest.</font>
+
+19
+00:01:10,320 --> 00:01:14,80
+<font color="#00FFFF">Nein, ich hab das Gefühl,</font>
+<font color="#00FFFF">ich hab Fieber.</font>
+
+20
+00:01:14,160 --> 00:01:17,680
+<font color="#00FFFF">Und Kopfweh.</font>
+<font color="#00FFFF">Da meine ich, es zerreißt mir ...</font>
+
+21
+00:01:17,760 --> 00:01:22,440
+<font color="#FFFF00">Da holen wir eine ganz große Schnur</font>
+<font color="#FFFF00">und binden deinen Kopf zusammen.</font>
+
+22
+00:01:22,520 --> 00:01:27,560
+<font color="#FFFF00">Dann fallen die Teile nicht so weit</font>
+<font color="#FFFF00">weg, wenn dir der Kopf platzt.</font>
+
+23
+00:01:27,640 --> 00:01:29,640
+<font color="#00FFFF">Pumuckl, nicht so.</font>
+
+24
+00:01:29,720 --> 00:01:32,240
+<font color="#00FFFF">Ich bin jetzt krank.</font>
+<font color="#00FFFF">Fieber hab ich auch.</font>
+
+25
+00:01:32,320 --> 00:01:34,320
+<font color="#FFFF00">Dann machen wir es so:</font>
+
+26
+00:01:34,400 --> 00:01:38,200
+<font color="#FFFF00">Du bleibst im Bett liegen</font>
+<font color="#FFFF00">und der Pumuckl unterhält dich.</font>
+
+27
+00:01:38,280 --> 00:01:41,120
+<font color="#00FFFF">Nein, keine Unterhaltung.</font>
+<font color="#FFFF00">- Oh doch.</font>
+
+28
+00:01:41,200 --> 00:01:45,240
+<font color="#FFFF00">Mach doch mal den Fensterladen auf.</font>
+<font color="#FFFF00">Guten Morgen.</font>
+
+29
+00:01:47,640 --> 00:01:49,640
+<font color="#FFFF00">Schau mich mal an.</font>
+
+30
+00:01:49,720 --> 00:01:56,240
+<font color="#FFFF00">Oh, schaust du aus! Lach doch mal.</font>
+<font color="#00FFFF">- Mir ist heut nicht zum Lachen.</font>
+
+31
+00:01:56,320 --> 00:01:58,440
+<font color="#FFFF00">Ach so, hm ...</font>
+
+32
+00:01:58,640 --> 00:02:02,80
+<font color="#FFFF00">Wenn ich ein Gesicht schneide,</font>
+<font color="#FFFF00">kannst du dann lachen?</font>
+
+33
+00:02:02,160 --> 00:02:04,160
+<font color="#FFFF00">Schau doch mal.</font>
+
+34
+00:02:05,360 --> 00:02:08,240
+<font color="#00FFFF">Pumuckl, lass das sein.</font>
+
+35
+00:02:08,320 --> 00:02:11,40
+<font color="#FFFF00">Du hast auch schon mal</font>
+<font color="#FFFF00">besser gelacht.</font>
+
+36
+00:02:11,120 --> 00:02:15,00
+<font color="#FFFF00">Dann machen wir den Laden wieder zu</font>
+<font color="#FFFF00">und ich sag dir ein Gedicht.</font>
+
+37
+00:02:15,200 --> 00:02:18,720
+<font color="#FFFF00">Vielleicht ist das</font>
+<font color="#FFFF00">eine schöne Unterhalterung.</font>
+
+38
+00:02:20,240 --> 00:02:24,960
+<font color="#00FFFF">Ich brauch ein paar Tabletten.</font>
+<font color="#00FFFF">Das hat ja alles keinen Sinn.</font>
+
+39
+00:02:26,880 --> 00:02:31,40
+<font color="#00FFFF">Ich hab Schüttelfrost</font>
+<font color="#00FFFF">und schwindelig ist mir.</font>
+
+40
+00:02:31,120 --> 00:02:34,200
+<font color="#00FFFF">Pumuckl, bitte geh in die Küche.</font>
+
+41
+00:02:34,280 --> 00:02:37,840
+<font color="#00FFFF">An die Schublade im Büfett,</font>
+<font color="#00FFFF">wo du sonst nicht hindarfst,</font>
+
+42
+00:02:37,920 --> 00:02:42,280
+<font color="#00FFFF">hab ich so weiße Tabletten</font>
+<font color="#00FFFF">in einem Plastikröhrchen.</font>
+
+43
+00:02:42,360 --> 00:02:44,760
+<font color="#FFFF00">Jawohl, bin gleich wieder da.</font>
+
+44
+00:02:54,40 --> 00:02:56,960
+<font color="#FFFF00">Da ist gar keine weiße Schachtel.</font>
+
+45
+00:02:57,40 --> 00:02:59,40
+<font color="#FFFF00">Vielleicht hinter der da.</font>
+
+46
+00:03:00,400 --> 00:03:04,720
+<font color="#FFFF00">Da ist eine weiße Schachtel,</font>
+<font color="#FFFF00">sehr schön.</font>
+
+47
+00:03:06,40 --> 00:03:09,760
+<font color="#FFFF00">Hier, bitte schön.</font>
+<font color="#00FFFF">- Danke, Pumuckl.</font>
+
+48
+00:03:11,320 --> 00:03:15,880
+<font color="#FFFF00">Jetzt kannst du die Tabletten nehmen</font>
+<font color="#FFFF00">und dann bist du schon gesund.</font>
+
+49
+00:03:20,240 --> 00:03:24,520
+<font color="#00FFFF">Da ist ja nix mehr drin.</font>
+<font color="#00FFFF">Hast du da was genommen?</font>
+
+50
+00:03:24,600 --> 00:03:28,920
+<font color="#FFFF00">Ich, nein, nie.</font>
+<font color="#FFFF00">Die sind so, wie sie waren.</font>
+
+51
+00:03:29,120 --> 00:03:33,360
+<font color="#00FFFF">So ein leerer Streifen</font>
+<font color="#00FFFF">nutzt mir gar nix.</font>
+
+52
+00:03:34,440 --> 00:03:38,600
+<font color="#00FFFF">Wenn ich dich wenigstens</font>
+<font color="#00FFFF">in die Apotheke schicken könnte.</font>
+
+53
+00:03:38,800 --> 00:03:41,120
+<font color="#FFFF00">Das kannst du, nur es hilft nichts.</font>
+
+54
+00:03:41,200 --> 00:03:46,640
+<font color="#FFFF00">Wenn ich sage "Medozin, bitte",</font>
+<font color="#FFFF00">fallen die Leute tot um vor Schreck.</font>
+
+55
+00:03:46,720 --> 00:03:50,80
+<font color="#FFFF00">Was, wenn ich einfach</font>
+<font color="#FFFF00">die Schachtel mitnehme?</font>
+
+56
+00:03:50,160 --> 00:03:52,120
+<font color="#00FFFF">Nein, die schmeißen sie weg.</font>
+
+57
+00:03:52,200 --> 00:03:57,440
+<font color="#FFFF00">Wenn ich einen Zettel mitnehme?</font>
+<font color="#00FFFF">- Den schmeißen sie auch weg.</font>
+
+58
+00:03:57,520 --> 00:03:59,920
+<font color="#00FFFF">Da denken sie,</font>
+<font color="#00FFFF">den hat jemand vergessen.</font>
+
+59
+00:04:00,00 --> 00:04:02,00
+<font color="#FFFF00">Dann klau ich die Tubletten.</font>
+
+60
+00:04:02,80 --> 00:04:05,120
+<font color="#00FFFF">Um Gottes willen,</font>
+<font color="#00FFFF">dann bringst du mir was Falsches</font>
+
+61
+00:04:05,200 --> 00:04:09,00
+<font color="#00FFFF">und ich krieg einen Durchmarsch</font>
+<font color="#00FFFF">oder so was.</font>
+
+62
+00:04:09,80 --> 00:04:13,160
+<font color="#00FFFF">Aber das ist keine schlechte Idee,</font>
+<font color="#00FFFF">das mit dem Zettel.</font>
+
+63
+00:04:13,240 --> 00:04:16,960
+<font color="#FFFF00">Einen Zettel klauen?</font>
+<font color="#00FFFF">- Nein, ich schreib dir einen.</font>
+
+64
+00:04:17,40 --> 00:04:20,00
+<font color="#00FFFF">Du weißt doch,</font>
+<font color="#00FFFF">wo die Frau Eichinger wohnt.</font>
+
+65
+00:04:20,80 --> 00:04:27,560
+<font color="#00FFFF">Im 2. Stock, dann die Tür links.</font>
+<font color="#00FFFF">Du schmeißt den Zettel bei ihr rein.</font>
+
+66
+00:04:27,640 --> 00:04:29,640
+<font color="#FFFF00">Hat die eine Apotheke?</font>
+
+67
+00:04:29,720 --> 00:04:31,720
+<font color="#00FFFF">Nein, ich schreib drauf,</font>
+
+68
+00:04:31,800 --> 00:04:36,80
+<font color="#00FFFF">dass sie in der Apotheke</font>
+<font color="#00FFFF">Kopfwehtabletten holen soll.</font>
+
+69
+00:04:36,160 --> 00:04:38,360
+<font color="#FFFF00">Der Pumuckl macht alles für dich.</font>
+
+70
+00:04:38,600 --> 00:04:42,840
+<font color="#FFFF00">2. Tür, 2. Stock,</font>
+<font color="#FFFF00">3. Tür, 6. Stock ... Aha.</font>
+
+71
+00:04:44,880 --> 00:04:47,880
+<font color="#FFFFFF">* Ein Mann singt. *</font>
+
+72
+00:04:56,600 --> 00:04:58,600
+<font color="#FFFF00">Uh!</font>
+
+73
+00:05:09,600 --> 00:05:13,920
+<font color="#FFFF00">2. Stock, 12. Türe,</font>
+<font color="#FFFF00">rechts oder lieber links?</font>
+
+74
+00:05:14,00 --> 00:05:17,840
+<font color="#FFFF00">Hallo, Sie?</font>
+<font color="#FFFF00">Äh, das geht ja gar nicht.</font>
+
+75
+00:05:20,440 --> 00:05:25,00
+<font color="#FFFFFF">Bärbel, komm,</font>
+<font color="#FFFFFF">wir müssen in den Kindergarten.</font>
+
+76
+00:05:25,960 --> 00:05:27,960
+<font color="#FFFFFF">Hörst du?</font>
+<font color="#FFFFFF">- Ja.</font>
+
+77
+00:05:31,240 --> 00:05:33,240
+<font color="#FFFFFF">Bärbel, komm.</font>
+
+78
+00:05:34,400 --> 00:05:36,760
+<font color="#FFFF00">Sehr gut, tipptopp.</font>
+
+79
+00:05:39,320 --> 00:05:41,720
+<font color="#FFFFFF">Immer sind wir die Letzten.</font>
+
+80
+00:05:42,400 --> 00:05:46,160
+<font color="#FFFFFF">Da ist ein Brief.</font>
+<font color="#FFFFFF">- Was ist das für ein Zettel?</font>
+
+81
+00:05:47,200 --> 00:05:51,40
+<font color="#FFFFFF">"Liebe Frau Eichinger,</font>
+<font color="#FFFFFF">ich liege mit Kopfweh im Bett."</font>
+
+82
+00:05:51,120 --> 00:05:53,120
+<font color="#FFFFFF">Die ist doch da drüben.</font>
+
+83
+00:05:53,200 --> 00:05:56,600
+<font color="#FFFFFF">Genau, wir geben es ihr</font>
+<font color="#FFFFFF">und dann ab in den Kindergarten.</font>
+
+84
+00:05:56,800 --> 00:05:59,160
+<font color="#FFFFFF">Zieh dich mal gescheit an.</font>
+
+85
+00:06:01,120 --> 00:06:03,120
+<font color="#FFFFFF">* Türklingeln *</font>
+
+86
+00:06:05,40 --> 00:06:08,720
+<font color="#FFFFFF">"... Können Sie mir bitte</font>
+<font color="#FFFFFF">Kopfwehtabletten besorgen?</font>
+
+87
+00:06:08,800 --> 00:06:11,00
+<font color="#FFFFFF">Vielen Dank, Eder."</font>
+
+88
+00:06:11,720 --> 00:06:13,680
+<font color="#FFFFFF">Frau Eichinger!</font>
+
+89
+00:06:13,880 --> 00:06:16,640
+<font color="#00FFFF">Hast du den Zettel</font>
+<font color="#00FFFF">richtig reingesteckt?</font>
+
+90
+00:06:16,720 --> 00:06:20,800
+<font color="#FFFF00">Ja, im 2. Stock, ich kann doch</font>
+<font color="#FFFF00">schließlich noch bis sieben zählen.</font>
+
+91
+00:06:20,880 --> 00:06:23,720
+<font color="#00FFFF">Links und rechts</font>
+<font color="#00FFFF">hast du auch richtig gemacht?</font>
+
+92
+00:06:23,800 --> 00:06:25,800
+<font color="#FFFF00">Das ist doch einfach.</font>
+
+93
+00:06:25,880 --> 00:06:31,720
+<font color="#FFFF00">Alle Kobolde stecken, verstecken</font>
+<font color="#FFFF00">und necken mit der linken Hand.</font>
+
+94
+00:06:31,800 --> 00:06:34,480
+<font color="#00FFFF">Das ist mir</font>
+<font color="#00FFFF">noch gar nicht aufgefallen.</font>
+
+95
+00:06:34,560 --> 00:06:37,120
+<font color="#00FFFF">Essen tust du jedenfalls</font>
+<font color="#00FFFF">mit der rechten.</font>
+
+96
+00:06:37,200 --> 00:06:40,400
+<font color="#FFFF00">Das ist mir</font>
+<font color="#FFFF00">noch gar nicht aufgefallen.</font>
+
+97
+00:06:40,480 --> 00:06:42,880
+<font color="#00FFFF">Weil du grad "stecken" gesagt hast,</font>
+
+98
+00:06:42,960 --> 00:06:50,00
+<font color="#00FFFF">diesen Zettel musst du mir noch</font>
+<font color="#00FFFF">in die Fensterscheibe reinstecken.</font>
+
+99
+00:06:50,80 --> 00:06:54,760
+<font color="#FFFF00">Was steht da drauf?</font>
+<font color="#00FFFF">- "Wegen Krankheit geschlossen".</font>
+
+100
+00:07:02,240 --> 00:07:04,240
+<font color="#FFFF00">Ui, falsch.</font>
+
+101
+00:07:08,160 --> 00:07:10,160
+<font color="#FFFF00">Sehr schön.</font>
+
+102
+00:07:14,160 --> 00:07:17,200
+<font color="#00FFFF">Hast du's so reingestellt,</font>
+<font color="#00FFFF">dass man es lesen kann?</font>
+
+103
+00:07:17,280 --> 00:07:20,800
+<font color="#FFFF00">Ja, und zwar hab ich's</font>
+<font color="#FFFF00">mit der linken Hand hingestellt.</font>
+
+104
+00:07:20,880 --> 00:07:23,720
+<font color="#00FFFF">Aber das ist die rechte Hand</font>
+<font color="#00FFFF">und das die linke.</font>
+
+105
+00:07:23,800 --> 00:07:25,800
+<font color="#FFFF00">Ich hab ja nur linke Hände.</font>
+
+106
+00:07:26,00 --> 00:07:30,320
+<font color="#00FFFF">Nein, du hast wie ein Mensch</font>
+<font color="#00FFFF">eine rechte und eine linke Hand.</font>
+
+107
+00:07:30,400 --> 00:07:33,560
+<font color="#00FFFF">Wenn du den Zettel</font>
+<font color="#00FFFF">auch falsch reingeschmissen hast,</font>
+
+108
+00:07:33,640 --> 00:07:36,280
+<font color="#00FFFF">krieg ich meine Tabletten nie.</font>
+
+109
+00:07:36,360 --> 00:07:41,480
+<font color="#FFFF00">Ein Glück, dass du nicht zwei Köpfe</font>
+<font color="#FFFF00">hast, so wie ich zwei linke Hände.</font>
+
+110
+00:07:41,560 --> 00:07:47,800
+<font color="#00FFFF">Du hast eine linke und eine rechte.</font>
+<font color="#00FFFF">Pumuckl, was tun wir denn jetzt?</font>
+
+111
+00:07:48,00 --> 00:07:52,920
+<font color="#FFFF00">Du schreibst den Zettel noch mal</font>
+<font color="#FFFF00">und ich mach alles wieder gut.</font>
+
+112
+00:07:53,00 --> 00:07:56,680
+<font color="#FFFF00">Dann nehm ich den Zettel</font>
+<font color="#FFFF00">in die Nicht-linke-Hand</font>
+
+113
+00:07:56,760 --> 00:07:59,840
+<font color="#FFFF00">und werfe ihn ein</font>
+<font color="#FFFF00">bei Frau Eichinger.</font>
+
+114
+00:08:01,00 --> 00:08:05,40
+<font color="#FFFF00">Diesmal ist es</font>
+<font color="#FFFF00">die richtige linke Eichinger-Tür.</font>
+
+115
+00:08:30,520 --> 00:08:33,80
+<font color="#FFFFFF">Herr Eder?</font>
+
+116
+00:08:34,480 --> 00:08:37,80
+<font color="#FFFFFF">Sie machen vielleicht Geschichten.</font>
+
+117
+00:08:37,160 --> 00:08:39,400
+<font color="#FFFFFF">Ich komm grad von der Bio-Kosmologin</font>
+
+118
+00:08:39,480 --> 00:08:43,760
+<font color="#FFFFFF">und die hat direkt geahnt,</font>
+<font color="#FFFFFF">dass Ihnen was fehlt.</font>
+
+119
+00:08:45,160 --> 00:08:49,320
+<font color="#FFFFFF">Um Gottes willen,</font>
+<font color="#FFFFFF">der Puls geht ja rasend schnell.</font>
+
+120
+00:08:49,400 --> 00:08:52,480
+<font color="#00FFFF">Kommen Sie nicht zu nah,</font>
+<font color="#00FFFF">sonst stecken Sie sich an.</font>
+
+121
+00:08:52,560 --> 00:08:55,80
+<font color="#FFFFFF">Nein, ich bin gut bestrahlt.</font>
+
+122
+00:08:55,160 --> 00:08:59,80
+<font color="#FFFFFF">Beim Ministerialdirektor</font>
+<font color="#FFFFFF">ist es auch so angegangen.</font>
+
+123
+00:08:59,280 --> 00:09:03,440
+<font color="#FFFFFF">Vier Tage später war er tot.</font>
+<font color="#00FFFF">- Unkraut verdirbt nicht so schnell.</font>
+
+124
+00:09:03,520 --> 00:09:05,680
+<font color="#FFFFFF">Sagen Sie das nicht.</font>
+
+125
+00:09:05,880 --> 00:09:09,280
+<font color="#FFFFFF">Jeden erwischt's mal.</font>
+
+126
+00:09:09,480 --> 00:09:12,440
+<font color="#FFFFFF">Noch dazu,</font>
+<font color="#FFFFFF">wenn man so alt ist wie Sie.</font>
+
+127
+00:09:12,520 --> 00:09:15,800
+<font color="#00FFFF">Ich hab Ihnen</font>
+<font color="#00FFFF">einen Zettel geschickt.</font>
+
+128
+00:09:15,880 --> 00:09:17,880
+<font color="#FFFFFF">Ich war nicht daheim.</font>
+
+129
+00:09:17,960 --> 00:09:21,560
+<font color="#00FFFF">Jetzt kann ich's Ihnen ja sagen.</font>
+
+130
+00:09:21,760 --> 00:09:24,760
+<font color="#00FFFF">Sind Sie so nett</font>
+<font color="#00FFFF">und gehen Sie zum Apotheker</font>
+
+131
+00:09:24,840 --> 00:09:28,40
+<font color="#00FFFF">und lassen Sie sich</font>
+<font color="#00FFFF">ein Kopfwehmittel geben.</font>
+
+132
+00:09:28,120 --> 00:09:31,760
+<font color="#FFFFFF">Ich kann Ihnen doch nicht</font>
+<font color="#FFFFFF">irgendwas holen.</font>
+
+133
+00:09:31,840 --> 00:09:34,480
+<font color="#FFFFFF">Mein Onkel hat irgendwas eingenommen,</font>
+
+134
+00:09:34,560 --> 00:09:38,600
+<font color="#FFFFFF">dann ist er eingeschlafen</font>
+<font color="#FFFFFF">und wär beinahe nimmer aufgewacht,</font>
+
+135
+00:09:38,680 --> 00:09:42,40
+<font color="#FFFFFF">wenn sie ihm nicht</font>
+<font color="#FFFFFF">den Magen ausgepumpt hätten.</font>
+
+136
+00:09:42,120 --> 00:09:44,80
+<font color="#00FFFF">Nein!</font>
+
+137
+00:09:44,280 --> 00:09:48,760
+<font color="#FFFFFF">Jetzt hol ich Ihnen das Telefon.</font>
+<font color="#00FFFF">- Ich will nicht telefonieren.</font>
+
+138
+00:09:48,840 --> 00:09:50,800
+<font color="#FFFFFF">Wenn's ginge, stehen Sie auf.</font>
+
+139
+00:09:50,880 --> 00:09:53,720
+<font color="#FFFFFF">Vier Wochen später</font>
+<font color="#FFFFFF">war Frau Müller tot.</font>
+
+140
+00:09:55,640 --> 00:09:58,160
+<font color="#FFFFFF">Aber eine schöne Beerdigung war's.</font>
+
+141
+00:09:58,360 --> 00:10:02,00
+<font color="#00FFFF">Vielleicht fallen Ihnen</font>
+<font color="#00FFFF">noch ein paar Tote ein.</font>
+
+142
+00:10:02,80 --> 00:10:04,440
+<font color="#00FFFF">Das hat so was Aufmunterndes.</font>
+
+143
+00:10:07,880 --> 00:10:11,480
+<font color="#FFFFFF">Jetzt mach ich Ihnen noch</font>
+<font color="#FFFFFF">eine Haferschleimsuppe.</font>
+
+144
+00:10:11,560 --> 00:10:15,360
+<font color="#00FFFF">Nein, da hab ich</font>
+<font color="#00FFFF">als Kind schon gespieben.</font>
+
+145
+00:10:15,440 --> 00:10:17,440
+<font color="#FFFFFF">Vielleicht ist es sogar gut.</font>
+
+146
+00:10:17,520 --> 00:10:20,520
+<font color="#00FFFF">Das mir ausgerechnet jetzt</font>
+<font color="#00FFFF">das passieren muss.</font>
+
+147
+00:10:20,600 --> 00:10:24,360
+<font color="#00FFFF">Jetzt möcht ich ein bisschen Schlaf,</font>
+<font color="#00FFFF">aber keine Suppe.</font>
+
+148
+00:10:24,560 --> 00:10:26,560
+<font color="#FFFFFF">* Telefonklingeln *</font>
+
+149
+00:10:31,840 --> 00:10:35,840
+<font color="#00FFFF">Die sollen mich alle gernhaben.</font>
+
+150
+00:10:35,920 --> 00:10:37,920
+<font color="#FFFFFF">* Telefonklingeln *</font>
+
+151
+00:10:38,00 --> 00:10:40,00
+<font color="#00FFFF">Ich bin heut nicht da.</font>
+
+152
+00:10:40,80 --> 00:10:43,800
+<font color="#00FFFF">Das ist bestimmt der alte Wimmer.</font>
+<font color="#00FFFF">Der ruft schon wieder an.</font>
+
+153
+00:10:45,640 --> 00:10:51,640
+<font color="#00FFFF">So penetrant ist auch bloß</font>
+<font color="#00FFFF">der alte Wimmer.</font>
+
+154
+00:10:56,400 --> 00:11:01,40
+<font color="#FFFFFF">Das versteh ich nicht.</font>
+<font color="#FFFFFF">Der muss doch um die Zeit da sein.</font>
+
+155
+00:11:01,720 --> 00:11:05,680
+<font color="#FFFF00">Warum gehst du nicht ans Telefon?</font>
+<font color="#00FFFF">- Ich bin heut nicht da.</font>
+
+156
+00:11:05,760 --> 00:11:10,520
+<font color="#FFFF00">Das kann man nicht machen.</font>
+<font color="#FFFF00">Ich helf dir mit dem Tele-Ding.</font>
+
+157
+00:11:13,160 --> 00:11:15,160
+<font color="#FFFF00">Hier, bitte schön.</font>
+
+158
+00:11:19,920 --> 00:11:22,640
+<font color="#00FFFF">Nein, Herr Wimmer ...</font>
+<font color="#FFFFFF">- Hallo, Herr Eder.</font>
+
+159
+00:11:22,720 --> 00:11:26,640
+<font color="#FFFFFF">Ich bin's, die Frau Hartl.</font>
+
+160
+00:11:26,840 --> 00:11:30,880
+<font color="#00FFFF">Ach, Sie sind's. Ich kann</font>
+<font color="#00FFFF">heut nicht Schnee schaufeln.</font>
+
+161
+00:11:31,80 --> 00:11:33,840
+<font color="#FFFF00">Aber ich kann Schnee saufeln.</font>
+
+162
+00:11:34,40 --> 00:11:39,360
+<font color="#00FFFF">Der ist noch nicht fertig.</font>
+<font color="#00FFFF">Tut mir leid, ich bin krank.</font>
+
+163
+00:11:39,560 --> 00:11:42,600
+<font color="#FFFFFF">Krank sind Sie? Was fehlt Ihnen denn?</font>
+
+164
+00:11:43,200 --> 00:11:45,200
+<font color="#FFFFFF">Oh, das tut mir aber leid.</font>
+
+165
+00:11:46,560 --> 00:11:49,640
+<font color="#FFFFFF">Die Grippe.</font>
+<font color="#FFFFFF">Haben Sie einen gescheiten Arzt?</font>
+
+166
+00:11:49,720 --> 00:11:51,720
+<font color="#FFFFFF">Ich hab wunderbare Tabletten.</font>
+
+167
+00:11:52,720 --> 00:11:57,520
+<font color="#00FFFF">Sie brauchen sich nicht sorgen.</font>
+<font color="#00FFFF">Ich krieg schon welche.</font>
+
+168
+00:11:57,600 --> 00:12:01,200
+<font color="#00FFFF">Bemühen Sie sich bitte nicht.</font>
+
+169
+00:12:01,400 --> 00:12:05,360
+<font color="#FFFFFF">Reden Sie nicht dagegen.</font>
+<font color="#FFFFFF">Ich komm sofort rüber.</font>
+
+170
+00:12:05,440 --> 00:12:07,240
+<font color="#FFFFFF">Augenblick.</font>
+
+171
+00:12:08,320 --> 00:12:12,120
+<font color="#00FFFF">Danke schön.</font>
+<font color="#00FFFF">Jetzt bringt die auch Tabletten.</font>
+
+172
+00:12:12,200 --> 00:12:16,480
+<font color="#FFFF00">Das versteh ich nicht.</font>
+<font color="#00FFFF">- Die Eichinger bringt auch welche.</font>
+
+173
+00:12:16,560 --> 00:12:21,360
+<font color="#FFFF00">Da muss die mich überholt haben.</font>
+<font color="#FFFF00">Kürzt die über die Zäune ab?</font>
+
+174
+00:12:21,440 --> 00:12:24,960
+<font color="#00FFFF">Nein, die ist zufällig</font>
+<font color="#00FFFF">vorbeigekommen.</font>
+
+175
+00:12:25,40 --> 00:12:27,440
+<font color="#FFFF00">Von alleine?</font>
+<font color="#00FFFF">- Ja.</font>
+
+176
+00:12:27,520 --> 00:12:30,480
+<font color="#FFFF00">Dann hab ich die Zettel</font>
+<font color="#FFFF00">umsonst rüber geschleppt.</font>
+
+177
+00:12:30,560 --> 00:12:33,600
+<font color="#00FFFF">Ist ja gut. Lass mich doch in Ruhe.</font>
+
+178
+00:12:34,960 --> 00:12:37,520
+<font color="#FFFFFF">Herr Eder?</font>
+<font color="#00FFFF">- Ja, was ist?</font>
+
+179
+00:12:37,720 --> 00:12:41,00
+<font color="#FFFFFF">Herr Eder.</font>
+<font color="#00FFFF">- Ach, Sie sind's.</font>
+
+180
+00:12:41,80 --> 00:12:46,200
+<font color="#FFFFFF">Der Zettel an die Frau Eichinger</font>
+<font color="#FFFFFF">ist bei mir eingeworfen worden.</font>
+
+181
+00:12:46,280 --> 00:12:50,80
+<font color="#FFFFFF">Und weil ich gewusst hab,</font>
+<font color="#FFFFFF">dass Frau Eichinger unterwegs ist,</font>
+
+182
+00:12:50,160 --> 00:12:53,640
+<font color="#FFFFFF">hab ich die Bärbel</font>
+<font color="#FFFFFF">zur Apotheke geschickt.</font>
+
+183
+00:12:53,840 --> 00:12:56,360
+<font color="#00FFFF">Das ist nett von Ihnen.</font>
+
+184
+00:12:56,560 --> 00:13:00,320
+<font color="#FFFFFF">Das ist selbstverständlich.</font>
+<font color="#FFFFFF">Kann ich sonst noch was tun?</font>
+
+185
+00:13:00,400 --> 00:13:03,40
+<font color="#00FFFF">Nein, nix im Augenblick.</font>
+
+186
+00:13:03,240 --> 00:13:07,640
+<font color="#00FFFF">In meiner Hose ist mein Geldbeutel.</font>
+<font color="#00FFFF">Nehmen Sie raus, was Sie kriegen.</font>
+
+187
+00:13:07,720 --> 00:13:11,160
+<font color="#FFFFFF">Das kriegen wir schon.</font>
+<font color="#FFFFFF">Ich bring Ihnen noch ein Wasser.</font>
+
+188
+00:13:11,240 --> 00:13:13,240
+<font color="#00FFFF">Gleich in der Küche.</font>
+
+189
+00:13:13,440 --> 00:13:19,160
+<font color="#00FFFF">Wenn jetzt noch die Eichinger kommt</font>
+<font color="#00FFFF">mit Tabletten und die Hartl,</font>
+
+190
+00:13:19,240 --> 00:13:22,280
+<font color="#00FFFF">dann krieg ich</font>
+<font color="#00FFFF">eine ganze Apotheke zusammen.</font>
+
+191
+00:13:22,360 --> 00:13:27,640
+<font color="#FFFF00">Jetzt kommen alle vorbei, die wir</font>
+<font color="#FFFF00">kennen, und stellen sich hier auf.</font>
+
+192
+00:13:27,720 --> 00:13:32,320
+<font color="#00FFFF">Fehlt bloß noch der alte Wimmer.</font>
+<font color="#FFFFFF">- Nein, das wird nicht schlimmer.</font>
+
+193
+00:13:32,400 --> 00:13:36,360
+<font color="#00FFFF">Stellen Sie's daher.</font>
+<font color="#FFFFFF">- Die nehmen wir gleich.</font>
+
+194
+00:13:38,280 --> 00:13:40,280
+<font color="#FFFFFF">Geschwind schlucken.</font>
+
+195
+00:13:49,720 --> 00:13:53,880
+<font color="#FFFFFF">Jetzt tät ich langsam schlucken,</font>
+<font color="#FFFFFF">sonst wird sie bitter.</font>
+
+196
+00:13:59,160 --> 00:14:01,760
+<font color="#FFFFFF">Ganz brav war der Meister Eder.</font>
+
+197
+00:14:02,560 --> 00:14:06,800
+<font color="#FFFFFF">Das machen wir jetzt</font>
+<font color="#FFFFFF">alle drei Stunden. </font>
+<font color="#00FFFF">- Nein!</font>
+
+198
+00:14:06,880 --> 00:14:09,760
+<font color="#FFFFFF">Dann werden wir bald wieder gesund.</font>
+
+199
+00:14:12,480 --> 00:14:16,400
+<font color="#FFFF00">Sag mal, schläfst du vielleicht?</font>
+
+200
+00:14:16,480 --> 00:14:18,480
+<font color="#FFFF00">Hallo?</font>
+
+201
+00:14:18,560 --> 00:14:21,280
+<font color="#00FFFF">Lass mich doch in Ruhe.</font>
+<font color="#00FFFF">Ich bin krank.</font>
+
+202
+00:14:21,360 --> 00:14:25,160
+<font color="#FFFF00">Ich muss dir doch sagen,</font>
+<font color="#FFFF00">dass sich herausgestellt hat,</font>
+
+203
+00:14:25,240 --> 00:14:28,600
+<font color="#FFFF00">dass die rechte Tür</font>
+<font color="#FFFF00">doch die linke Tür war.</font>
+
+204
+00:14:28,680 --> 00:14:33,40
+<font color="#FFFF00">Bei einem Kobold ist die linke Hand</font>
+<font color="#FFFF00">eben doch die rechte Hand.</font>
+
+205
+00:14:33,120 --> 00:14:36,80
+<font color="#FFFF00">Und schon war die Medonizin da.</font>
+
+206
+00:14:36,160 --> 00:14:38,160
+<font color="#FFFFFF">Herr Eder?</font>
+
+207
+00:14:38,240 --> 00:14:41,400
+<font color="#00FFFF">Pumuckl, tu mal schnell</font>
+<font color="#00FFFF">die Tabletten weg.</font>
+
+208
+00:14:41,600 --> 00:14:44,360
+<font color="#00FFFF">Sonst ist die Hartl</font>
+<font color="#00FFFF">am Ende noch beleidigt.</font>
+
+209
+00:14:52,120 --> 00:14:54,120
+<font color="#FFFF00">Schon wegversteckt.</font>
+
+210
+00:14:59,360 --> 00:15:03,640
+<font color="#FFFFFF">Herr Eder, wie geht's Ihnen denn?</font>
+<font color="#00FFFF">- Nicht gut.</font>
+
+211
+00:15:03,720 --> 00:15:07,600
+<font color="#FFFFFF">Ich seh's.</font>
+<font color="#FFFFFF">Deshalb war ich auch so schnell da.</font>
+
+212
+00:15:07,680 --> 00:15:11,200
+<font color="#FFFFFF">Kopfweh haben Sie, gell?</font>
+<font color="#00FFFF">- Mir zerreißt's den Schädel.</font>
+
+213
+00:15:11,280 --> 00:15:15,560
+<font color="#FFFFFF">Ich weiß, wie das ist.</font>
+<font color="#FFFFFF">Deswegen hab ich diese Tabletten.</font>
+
+214
+00:15:15,640 --> 00:15:19,320
+<font color="#FFFFFF">Die sind hervorragend,</font>
+<font color="#FFFFFF">Wundertabletten.</font>
+
+215
+00:15:20,640 --> 00:15:24,80
+<font color="#00FFFF">Legen Sie sie dahin,</font>
+<font color="#00FFFF">ich nehm sie später.</font>
+
+216
+00:15:24,280 --> 00:15:29,480
+<font color="#FFFFFF">Nein, das nehmen wir gleich,</font>
+<font color="#FFFFFF">sonst nehmen Sie sie nicht.</font>
+
+217
+00:15:29,560 --> 00:15:33,360
+<font color="#00FFFF">Ich hab alte Tabletten gefunden.</font>
+<font color="#00FFFF">Die hab ich genommen.</font>
+
+218
+00:15:33,440 --> 00:15:37,280
+<font color="#FFFFFF">Was haben Sie? Alte Tabletten?</font>
+<font color="#FFFFFF">Wo haben Sie denn die?</font>
+
+219
+00:15:38,00 --> 00:15:41,440
+<font color="#FFFFFF">Sind das etwa die da?</font>
+<font color="#00FFFF">- Ich weiß nicht, wie die heißen.</font>
+
+220
+00:15:42,280 --> 00:15:47,360
+<font color="#FFFFFF">Ich kann's nicht lesen,</font>
+<font color="#FFFFFF">aber das ist doch lauter Chemie.</font>
+
+221
+00:15:47,440 --> 00:15:50,840
+<font color="#FFFFFF">Natur müssen Sie nehmen.</font>
+<font color="#00FFFF">- Später.</font>
+
+222
+00:15:50,920 --> 00:15:54,920
+<font color="#FFFFFF">Meine Tabletten sind von</font>
+<font color="#FFFFFF">den Heilweisen. </font>
+<font color="#00FFFF">- Von wem?</font>
+
+223
+00:15:55,120 --> 00:15:58,200
+<font color="#FFFFFF">Ich bin selber ein halber Doktor.</font>
+
+224
+00:15:58,400 --> 00:16:01,80
+<font color="#FFFFFF">Komm mal her, Bub.</font>
+
+225
+00:16:01,160 --> 00:16:03,600
+<font color="#FFFFFF">Machen Sie die Zunge raus.</font>
+
+226
+00:16:03,680 --> 00:16:06,880
+<font color="#FFFFFF">Jetzt sagen Sie schön Ah. Oh!</font>
+
+227
+00:16:07,80 --> 00:16:08,720
+<font color="#00FFFF">Oh.</font>
+
+228
+00:16:08,920 --> 00:16:11,520
+<font color="#FFFFFF">Nein, Oh sag ich, Sie sagen Ah.</font>
+
+229
+00:16:12,960 --> 00:16:14,960
+<font color="#00FFFF">Ah.</font>
+
+230
+00:16:15,160 --> 00:16:21,160
+<font color="#FFFFFF">Das ist die Influorenza,</font>
+<font color="#FFFFFF">eine ganz schlimme Krankheit.</font>
+
+231
+00:16:21,240 --> 00:16:25,280
+<font color="#FFFFFF">Jetzt nehmen wir schön die Tablette.</font>
+<font color="#00FFFF">- Ein bissel später.</font>
+
+232
+00:16:25,360 --> 00:16:30,440
+<font color="#FFFFFF">Temperatur haben Sie, mein Gott,</font>
+<font color="#FFFFFF">und schwitzen tut er.</font>
+
+233
+00:16:30,520 --> 00:16:35,880
+<font color="#FFFFFF">Das ist ja furchtbar.</font>
+<font color="#FFFFFF">So, Herr Eder, schauen Sie her.</font>
+
+234
+00:16:36,80 --> 00:16:38,80
+<font color="#00FFFF">Danke schön.</font>
+
+235
+00:16:38,160 --> 00:16:43,960
+<font color="#FFFFFF">Sie gehen mit der Tablette voraus</font>
+<font color="#FFFFFF">und ich komm mit dem Wasser nach.</font>
+
+236
+00:16:44,40 --> 00:16:46,640
+<font color="#00FFFF">Aber ich will die nicht.</font>
+
+237
+00:16:47,520 --> 00:16:49,520
+<font color="#FFFFFF">Ja, runterschlucken.</font>
+
+238
+00:16:52,160 --> 00:16:55,280
+<font color="#FFFFFF">Noch ein bisserl schlucken, jawoll.</font>
+
+239
+00:16:55,360 --> 00:16:58,560
+<font color="#FFFFFF">Brav. Aber nicht ersticken.</font>
+
+240
+00:16:59,400 --> 00:17:04,80
+<font color="#FFFFFF">Sie werden sehen, in zwei Stunden</font>
+<font color="#FFFFFF">ist die Sache wieder gut.</font>
+
+241
+00:17:04,160 --> 00:17:08,160
+<font color="#00FFFF">Was bin ich Ihnen denn schuldig?</font>
+<font color="#FFFFFF">- Sie sind gut.</font>
+
+242
+00:17:08,240 --> 00:17:11,880
+<font color="#FFFFFF">Einen Liebesdienst</font>
+<font color="#FFFFFF">lässt man sich doch nicht bezahlen.</font>
+
+243
+00:17:12,600 --> 00:17:17,240
+<font color="#FFFFFF">Übrigens,</font>
+<font color="#FFFFFF">wo ist denn die Frau Eichinger?</font>
+
+244
+00:17:17,320 --> 00:17:19,320
+<font color="#FFFFFF">Die ist doch sonst allerweil da.</font>
+
+245
+00:17:19,520 --> 00:17:24,160
+<font color="#00FFFF">Die wird unterwegs sein.</font>
+<font color="#00FFFF">Die hat einen Putzplatz.</font>
+
+246
+00:17:24,240 --> 00:17:26,40
+<font color="#FFFFFF">Einen Putzplatz.</font>
+
+247
+00:17:26,120 --> 00:17:29,320
+<font color="#FFFFFF">Es ist doch gescheiter,</font>
+<font color="#FFFFFF">ich komm zu Ihnen.</font>
+
+248
+00:17:29,400 --> 00:17:35,320
+<font color="#FFFFFF">Ich komm nachher wieder vorbei</font>
+<font color="#FFFFFF">und werd Ihnen schöne Wickel machen.</font>
+
+249
+00:17:35,400 --> 00:17:40,80
+<font color="#FFFFFF">Dann tu ich Ihnen</font>
+<font color="#FFFFFF">eine gute Schleimsuppe kochen.</font>
+
+250
+00:17:40,160 --> 00:17:43,320
+<font color="#00FFFF">Nein!</font>
+<font color="#FFFFFF">- Das ist gut für Sie.</font>
+
+251
+00:17:43,400 --> 00:17:47,00
+<font color="#FFFFFF">Ich komm nachher vorbei.</font>
+<font color="#00FFFF">- Auf Wiederschauen.</font>
+
+252
+00:17:47,80 --> 00:17:49,800
+<font color="#FFFFFF">Gute Besserung.</font>
+<font color="#00FFFF">- Danke schön.</font>
+
+253
+00:17:49,880 --> 00:17:54,240
+<font color="#FFFFFF">Wenn Sie was brauchen,</font>
+<font color="#FFFFFF">tun Sie mich bloß anrufen.</font>
+
+254
+00:17:55,280 --> 00:17:57,280
+<font color="#FFFFFF">Armer Teufel.</font>
+
+255
+00:17:59,280 --> 00:18:02,840
+<font color="#FFFF00">Oh, das waren aber</font>
+<font color="#FFFF00">liebe kleine Tablettchen.</font>
+
+256
+00:18:02,920 --> 00:18:04,920
+<font color="#FFFF00">Die haben sehr gut ausgeschaut.</font>
+
+257
+00:18:05,00 --> 00:18:09,400
+<font color="#FFFF00">Die schmecken sicher nach Vanille</font>
+<font color="#FFFF00">oder Schokolade oder Erdbeere.</font>
+
+258
+00:18:09,480 --> 00:18:11,680
+<font color="#00FFFF">Tabletten schmecken immer schlecht.</font>
+
+259
+00:18:11,760 --> 00:18:16,360
+<font color="#00FFFF">Die schmecken nie nach Vanille,</font>
+<font color="#00FFFF">Himbeere oder Schokolade.</font>
+
+260
+00:18:16,440 --> 00:18:19,40
+<font color="#00FFFF">Außerdem weiß ich nicht,</font>
+<font color="#00FFFF">wie die schmecken.</font>
+
+261
+00:18:19,120 --> 00:18:21,400
+<font color="#00FFFF">Ich hab die schnell</font>
+<font color="#00FFFF">runtergeschluckt.</font>
+
+262
+00:18:21,480 --> 00:18:24,120
+<font color="#FFFF00">Das war falsch.</font>
+<font color="#FFFF00">Die muss man lutschen.</font>
+
+263
+00:18:24,200 --> 00:18:27,00
+<font color="#FFFF00">Ich hab jetzt auch</font>
+<font color="#FFFF00">große Kopfschmerzen,</font>
+
+264
+00:18:27,80 --> 00:18:29,680
+<font color="#FFFF00">deshalb probier ich mal</font>
+<font color="#FFFF00">eine Tablette.</font>
+
+265
+00:18:29,760 --> 00:18:31,760
+<font color="#00FFFF">Nein, gib die her.</font>
+
+266
+00:18:31,840 --> 00:18:35,640
+<font color="#00FFFF">Die Eichinger</font>
+<font color="#00FFFF">darf sie sowieso nicht sehen.</font>
+
+267
+00:18:35,720 --> 00:18:37,720
+<font color="#FFFF00">Warum?</font>
+
+268
+00:18:39,160 --> 00:18:42,200
+<font color="#FFFFFF">Herr Eder, ich bin schon wieder da.</font>
+
+269
+00:18:43,240 --> 00:18:45,640
+<font color="#FFFFFF">Da sind Ihre Tabletten.</font>
+
+270
+00:18:45,720 --> 00:18:50,520
+<font color="#FFFFFF">Der Apotheker hat gesagt, wenn die</font>
+<font color="#FFFFFF">nicht helfen, hilft gar nix mehr.</font>
+
+271
+00:18:50,600 --> 00:18:52,600
+<font color="#00FFFF">Das ist sehr nett von Ihnen.</font>
+
+272
+00:18:52,680 --> 00:18:55,160
+<font color="#00FFFF">Legen Sie sie hin,</font>
+<font color="#00FFFF">ich nehm sie später.</font>
+
+273
+00:18:55,240 --> 00:18:59,640
+<font color="#FFFFFF">Nein, die müssen Sie gleich nehmen.</font>
+<font color="#00FFFF">- Die Tabletten sind so groß.</font>
+
+274
+00:18:59,720 --> 00:19:02,920
+<font color="#00FFFF">Ich lass mir so ungern</font>
+<font color="#00FFFF">beim Schlucken zuschauen.</font>
+
+275
+00:19:03,00 --> 00:19:07,200
+<font color="#FFFFFF">Seien Sie nicht kindisch.</font>
+<font color="#FFFFFF">Die Mannsbilder sind wie Kinder.</font>
+
+276
+00:19:07,280 --> 00:19:11,00
+<font color="#FFFFFF">Sie glauben, sie werden gesund,</font>
+<font color="#FFFFFF">wenn die Tabletten rumliegen.</font>
+
+277
+00:19:11,80 --> 00:19:16,480
+<font color="#00FFFF">Die Frau Hartl war auch schon da.</font>
+<font color="#FFFFFF">- Die Frau Hartl, die alte Ziefern?</font>
+
+278
+00:19:16,560 --> 00:19:18,840
+<font color="#FFFFFF">Was will denn die da?</font>
+
+279
+00:19:18,920 --> 00:19:21,560
+<font color="#00FFFF">Die kümmert sich auch</font>
+<font color="#00FFFF">ein bissel um mich.</font>
+
+280
+00:19:21,640 --> 00:19:26,00
+<font color="#FFFFFF">Die soll sich um ihr eigenes Glump</font>
+<font color="#FFFFFF">kümmern und nicht um Sie.</font>
+
+281
+00:19:26,80 --> 00:19:28,80
+<font color="#FFFFFF">Jetzt gehen Sie her.</font>
+
+282
+00:19:29,40 --> 00:19:31,40
+<font color="#FFFFFF">Jetzt noch ein Wasser.</font>
+
+283
+00:19:34,440 --> 00:19:36,440
+<font color="#FFFFFF">Schön schlucken.</font>
+
+284
+00:19:40,00 --> 00:19:42,00
+<font color="#00FFFF">Ah!</font>
+
+285
+00:19:42,80 --> 00:19:45,560
+<font color="#FFFFFF">Gut ist es gegangen.</font>
+<font color="#FFFFFF">Brav hat er geschluckt.</font>
+
+286
+00:19:45,640 --> 00:19:50,360
+<font color="#FFFFFF">Jetzt geh ich heim und</font>
+<font color="#FFFFFF">mach Ihnen noch eine Schleimsuppe.</font>
+
+287
+00:19:50,440 --> 00:19:55,400
+<font color="#FFFFFF">Typisch Wassermann, kann nicht mal</font>
+<font color="#FFFFFF">eine Tablette schlucken.</font>
+
+288
+00:19:55,600 --> 00:19:59,360
+<font color="#00FFFF">Entweder ich werd jetzt schnell</font>
+<font color="#00FFFF">gesund oder ich bin schon tot.</font>
+
+289
+00:19:59,440 --> 00:20:02,80
+<font color="#00FFFF">Jetzt kann ich</font>
+<font color="#00FFFF">keine Tabletten mehr sehen.</font>
+
+290
+00:20:02,160 --> 00:20:04,160
+<font color="#FFFF00">Mmmh...</font>
+
+291
+00:20:11,320 --> 00:20:15,680
+<font color="#FFFF00">Ah, bitter!</font>
+<font color="#00FFFF">- Pumuckl, was ist denn?</font>
+
+292
+00:20:15,760 --> 00:20:18,00
+<font color="#FFFF00">Die Tabletten</font>
+<font color="#FFFF00">sind vielleicht bitter.</font>
+
+293
+00:20:18,80 --> 00:20:21,40
+<font color="#FFFF00">Du hast gesagt,</font>
+<font color="#FFFF00">die schmecken nach Schokolade.</font>
+
+294
+00:20:21,120 --> 00:20:24,800
+<font color="#00FFFF">Nein. Das ist für so einen</font>
+<font color="#00FFFF">kleinen Kerl wie dich Gift.</font>
+
+295
+00:20:24,880 --> 00:20:26,880
+<font color="#FFFF00">Was? Pfui!</font>
+
+296
+00:20:26,960 --> 00:20:30,840
+<font color="#00FFFF">Tu den Finger in den Mund,</font>
+<font color="#00FFFF">dass du speiben kannst.</font>
+
+297
+00:20:30,920 --> 00:20:36,80
+<font color="#FFFF00">Uiuiui, ich glaub, ein bisschen</font>
+<font color="#FFFF00">haben die schon verwirkt.</font>
+
+298
+00:20:36,160 --> 00:20:38,160
+<font color="#00FFFF">Da machst du was mit.</font>
+
+299
+00:20:41,160 --> 00:20:43,160
+<font color="#FFFF00">Ist mir schlecht.</font>
+
+300
+00:20:46,120 --> 00:20:48,120
+<font color="#FFFFFF">Herr Eder?</font>
+
+301
+00:20:51,720 --> 00:20:54,560
+<font color="#FFFFFF">Grüß Gott, Herr Eder.</font>
+<font color="#00FFFF">- Grüß Gott.</font>
+
+302
+00:20:54,640 --> 00:20:57,600
+<font color="#FFFFFF">Entschuldigen Sie,</font>
+<font color="#FFFFFF">dass ich einfach hereinkomm.</font>
+
+303
+00:20:57,680 --> 00:20:59,760
+<font color="#00FFFF">Was verschafft mir die Ehre?</font>
+
+304
+00:20:59,960 --> 00:21:04,160
+<font color="#FFFFFF">Ich bin der Untermieter von ...</font>
+<font color="#00FFFF">- ... der Frau Hartl.</font>
+
+305
+00:21:04,360 --> 00:21:06,360
+<font color="#FFFFFF">Nein, Eichinger.</font>
+
+306
+00:21:06,440 --> 00:21:10,320
+<font color="#FFFFFF">Da hab ich den Zettel gefunden</font>
+<font color="#FFFFFF">und hab mir gedacht,</font>
+
+307
+00:21:10,400 --> 00:21:13,880
+<font color="#FFFFFF">das kann ich gleich selber besorgen.</font>
+
+308
+00:21:15,520 --> 00:21:17,520
+<font color="#00FFFF">Nein!</font>
+
+309
+00:21:18,480 --> 00:21:22,80
+<font color="#FFFFFF">Herr Eder,</font>
+<font color="#FFFFFF">Sie sind ja wirklich krank.</font>
+
+310
+00:21:23,520 --> 00:21:27,800
+<font color="#FFFFFF">Ich bin zwar noch kein Arzt, aber</font>
+<font color="#FFFFFF">ein bisschen Ahnung hab ich schon.</font>
+
+311
+00:21:27,880 --> 00:21:29,680
+<font color="#00FFFF">Kein Arzt.</font>
+
+312
+00:21:29,760 --> 00:21:33,640
+<font color="#00FFFF">Legen Sie die Tabletten dahin</font>
+<font color="#00FFFF">und schleichen Sie sich wieder.</font>
+
+313
+00:21:33,720 --> 00:21:38,80
+<font color="#FFFFFF">Gut. Aber die Tabletten</font>
+<font color="#FFFFFF">müssen Sie nehmen. </font>
+<font color="#00FFFF">- Später.</font>
+
+314
+00:21:39,560 --> 00:21:43,80
+<font color="#FFFFFF">Damit ist nicht zu spaßen.</font>
+<font color="#00FFFF">- Ich spaße nicht.</font>
+
+315
+00:21:43,160 --> 00:21:45,480
+<font color="#FFFFFF">Vergessen Sie sie nicht.</font>
+<font color="#00FFFF">- Nein.</font>
+
+316
+00:21:45,560 --> 00:21:50,80
+<font color="#00FFFF">Vielen Dank, Herr Eichinger.</font>
+<font color="#FFFFFF">- Nein, Recknagel.</font>
+
+317
+00:21:50,160 --> 00:21:52,520
+<font color="#00FFFF">Sie sind</font>
+<font color="#00FFFF">der einzig vernünftige Mensch.</font>
+
+318
+00:21:53,840 --> 00:21:56,960
+<font color="#00FFFF">Sie werden mal ein guter Arzt.</font>
+
+319
+00:21:58,00 --> 00:22:00,00
+<font color="#FFFFFF">Danke.</font>
+
+320
+00:22:04,680 --> 00:22:11,360
+<font color="#00FFFF">Mei, Pumuckl, wenn wir die Tabletten</font>
+<font color="#00FFFF">auch noch genommen hätten ... Nein.</font>
+
+321
+00:22:11,440 --> 00:22:15,200
+<font color="#FFFF00">Dann wären wir jetzt</font>
+<font color="#FFFF00">das reinste Salvatorium geworden.</font>
+
+322
+00:22:15,280 --> 00:22:17,680
+<font color="#FFFF00">Oder du bist eine Apotheke.</font>
+
+323
+00:22:17,760 --> 00:22:21,320
+<font color="#FFFF00">Dann musst du noch</font>
+<font color="#FFFF00">die andern Tabletten nehmen</font>
+
+324
+00:22:21,400 --> 00:22:23,720
+<font color="#FFFF00">und dann wirst du nie wieder gesund.</font>
+
+325
+00:22:23,800 --> 00:22:29,120
+<font color="#00FFFF">Nein, nie wieder Tabletten.</font>
+<font color="#00FFFF">Obwohl wir jetzt so viele haben.</font>
+
+326
+00:22:29,200 --> 00:22:33,560
+<font color="#FFFF00">Meine Tabletten</font>
+<font color="#FFFF00">müssen Schlaftabletten sein.</font>
+
+327
+00:22:33,640 --> 00:22:35,920
+<font color="#FFFF00">Die machen mich so müde.</font>
+
+328
+00:22:36,800 --> 00:22:38,800
+<font color="#FFFFFF">* Schnarchen *</font>
+
+329
+00:22:58,480 --> 00:23:00,480
+<font color="#FFFFFF">Untertitelung: BR 2020</font>
+
